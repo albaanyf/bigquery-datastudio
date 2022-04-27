@@ -1,0 +1,1001 @@
+Name,Age,Gender,Phone,Email,Product,Price,Order_Date,Payment_Date,Profit
+Freya Cote,15,Female,(211) 486-1516,freyacote@icloud.net,Synthroid,150000,2021-03-27 05:17:00 UTC,2021-03-27 07:41:00 UTC,105000
+Freya Cote,15,Female,(211) 486-1516,freyacote@icloud.net,LevothyroxineSodium,75000,2021-05-06 05:17:00 UTC,2021-05-06 07:11:00 UTC,45000
+Adam Madden,15,Female,1-765-414-6743,adammadden87@hotmail.org,Hydrocodone/APAP,200000,2021-03-25 00:46:00 UTC,2021-03-25 03:10:00 UTC,110000
+Adam Madden,15,Female,1-765-414-6743,adammadden87@hotmail.org,Crestor,85000,2021-05-04 00:46:00 UTC,2021-05-04 02:40:00 UTC,59500
+Irma Osborne,15,Female,(774) 168-5602,irmaosborne@icloud.net,Singulair,50000,2021-12-11 19:54:00 UTC,2021-12-11 22:18:00 UTC,40000
+Irma Osborne,15,Female,(774) 168-5602,irmaosborne@icloud.net,Nexium,270000,2022-01-02 19:54:00 UTC,2022-01-02 21:48:00 UTC,94500
+Craig Sampson,15,Female,1-663-433-9564,craigsampson@icloud.org,Plavix,225000,2022-03-08 05:14:00 UTC,2022-03-08 07:38:00 UTC,100000
+Kirby O'Neill,15,Female,(331) 579-8937,kirbyoneill@google.com,Singulair,50000,2021-02-25 21:59:00 UTC,2021-02-26 00:23:00 UTC,40000
+May Kirk,16,Female,(932) 744-7480,maykirk7418@google.org,Simvastatin,110000,2021-06-03 05:18:00 UTC,2021-06-03 07:41:00 UTC,77000
+May Kirk,16,Female,(932) 744-7480,maykirk7418@google.org,Hydrocodone/APAP,200000,2021-07-13 05:18:00 UTC,2021-07-13 07:11:00 UTC,110000
+May Kirk,16,Female,(932) 744-7480,maykirk7418@google.org,Lipitor,100000,2021-08-27 05:18:00 UTC,2021-08-27 07:11:00 UTC,70000
+May Kirk,16,Female,(932) 744-7480,maykirk7418@google.org,Singulair,50000,2021-09-26 05:18:00 UTC,2021-09-26 07:11:00 UTC,40000
+Len Tyler,16,Male,(967) 587-5064,lentyler@icloud.org,Singulair,50000,2021-08-23 01:25:00 UTC,2021-08-23 03:49:00 UTC,40000
+Len Tyler,16,Male,(967) 587-5064,lentyler@icloud.org,Synthroid,150000,2021-10-24 01:25:00 UTC,2021-10-24 03:19:00 UTC,105000
+Len Tyler,16,Male,(967) 587-5064,lentyler@icloud.org,Singulair,50000,2021-12-08 01:25:00 UTC,2021-12-08 03:19:00 UTC,40000
+Len Tyler,16,Male,(967) 587-5064,lentyler@icloud.org,Hydrocodone/APAP,200000,2021-12-27 07:13:00 UTC,2021-12-27 09:37:00 UTC,110000
+Petra Lott,16,Male,1-709-622-1670,petralott9494@google.net,Synthroid,150000,2021-11-24 21:38:00 UTC,2021-11-25 00:01:00 UTC,105000
+Petra Lott,16,Male,1-709-622-1670,petralott9494@google.net,Crestor,85000,2021-12-16 21:38:00 UTC,2021-12-16 23:31:00 UTC,59500
+Rahim Cook,16,Male,(355) 777-1682,rahimcook@google.com,Synthroid,150000,2021-04-29 15:38:00 UTC,2021-04-29 18:02:00 UTC,105000
+Rahim Cook,16,Male,(355) 777-1682,rahimcook@google.com,Plavix,225000,2021-06-08 15:38:00 UTC,2021-06-08 17:32:00 UTC,100000
+Rahim Cook,16,Male,(355) 777-1682,rahimcook@google.com,Singulair,50000,2021-07-23 15:38:00 UTC,2021-07-23 17:32:00 UTC,40000
+Rahim Cook,16,Male,(355) 777-1682,rahimcook@google.com,Hydrocodone/APAP,200000,2021-10-07 15:38:00 UTC,2021-10-07 17:32:00 UTC,110000
+Micah Pratt,16,Male,(234) 156-4761,micahpratt5383@icloud.net,Metoprolol Tartrate,175000,2022-03-08 17:18:00 UTC,2022-03-08 19:42:00 UTC,140000
+Tasha Mckay,16,Male,(242) 214-4239,tashamckay5115@hotmail.com,Synthroid,150000,2021-06-06 13:53:00 UTC,2021-06-06 16:17:00 UTC,105000
+Ashton Meyer,16,Male,1-420-865-7831,ashtonmeyer@google.com,Hydrocodone/APAP,200000,2021-07-20 19:09:00 UTC,2021-07-20 21:33:00 UTC,110000
+Mariam Smith,16,Male,1-410-781-2152,mariamsmith2900@icloud.com,Azithromycin,125000,2022-03-08 10:56:00 UTC,2022-03-08 12:49:00 UTC,87500
+Silas Tanner,16,Male,(155) 432-5574,silastanner1382@google.org,Azithromycin,125000,2021-07-04 10:30:00 UTC,2021-07-04 12:53:00 UTC,87500
+Cameron Combs,16,Male,(452) 234-3014,cameroncombs@google.com,Synthroid,150000,2021-11-05 22:03:00 UTC,2021-11-06 00:26:00 UTC,105000
+Cameron Combs,16,Male,(452) 234-3014,cameroncombs@google.com,Plavix,225000,2021-11-27 22:03:00 UTC,2021-11-27 23:56:00 UTC,100000
+Imani Mullins,16,Female,1-864-822-4214,imanimullins@icloud.com,Metoprolol Tartrate,175000,2022-03-11 00:10:00 UTC,2022-03-11 02:34:00 UTC,140000
+Indira Carter,16,Female,(233) 844-8236,indiracarter1463@hotmail.com,LevothyroxineSodium,75000,2021-08-03 19:37:00 UTC,2021-08-03 22:01:00 UTC,45000
+Indira Carter,16,Female,(233) 844-8236,indiracarter1463@hotmail.com,Crestor,85000,2021-09-12 19:37:00 UTC,2021-09-12 21:31:00 UTC,59500
+Jorden Juarez,16,Female,(121) 864-1158,jordenjuarez5605@google.com,Hydrocodone/APAP,200000,2021-02-25 03:02:00 UTC,2021-02-25 05:26:00 UTC,110000
+Joseph Battle,16,Female,(860) 675-4178,josephbattle9812@icloud.com,Nexium,270000,2021-09-17 03:47:00 UTC,2021-09-17 06:11:00 UTC,94500
+Joseph Battle,16,Female,(860) 675-4178,josephbattle9812@icloud.com,Lipitor,100000,2021-11-18 03:47:00 UTC,2021-11-18 05:41:00 UTC,70000
+Clayton Kelley,16,Female,1-885-891-2271,claytonkelley@icloud.com,Simvastatin,110000,2021-09-22 17:39:00 UTC,2021-09-22 20:03:00 UTC,77000
+Clayton Kelley,16,Female,1-885-891-2271,claytonkelley@icloud.com,LevothyroxineSodium,75000,2021-11-23 17:39:00 UTC,2021-11-23 19:33:00 UTC,45000
+Clayton Kelley,16,Female,1-885-891-2271,claytonkelley@icloud.com,Azithromycin,125000,2021-12-16 17:39:00 UTC,2021-12-16 19:33:00 UTC,87500
+Kelsie Gilmore,16,Female,(688) 633-7282,kelsiegilmore@icloud.net,LevothyroxineSodium,75000,2021-10-07 12:30:00 UTC,2021-10-07 14:54:00 UTC,45000
+Kelsie Gilmore,16,Female,(688) 633-7282,kelsiegilmore@icloud.net,Azithromycin,125000,2021-10-29 12:30:00 UTC,2021-10-29 14:23:00 UTC,87500
+Kelsie Gilmore,16,Female,(688) 633-7282,kelsiegilmore@icloud.net,Metoprolol Tartrate,175000,2021-11-21 12:30:00 UTC,2021-11-21 14:23:00 UTC,140000
+Tanek Bradford,16,Female,1-594-757-8318,tanekbradford@icloud.com,Synthroid,150000,2021-01-15 05:48:00 UTC,2021-01-15 08:11:00 UTC,105000
+Tanek Bradford,16,Female,1-594-757-8318,tanekbradford@icloud.com,Nexium,270000,2022-01-27 10:56:00 UTC,2022-01-27 13:19:00 UTC,94500
+Brian Strickland,16,Male,(287) 797-6514,brianstrickland4729@google.com,Lipitor,100000,2021-11-22 01:05:00 UTC,2021-11-22 03:28:00 UTC,70000
+Brian Strickland,16,Male,(287) 797-6514,brianstrickland4729@google.com,Singulair,50000,2021-12-14 01:05:00 UTC,2021-12-14 02:58:00 UTC,40000
+Harriet Figueroa,16,Male,(454) 517-9458,harrietfigueroa@google.com,Crestor,85000,2021-12-16 18:02:00 UTC,2021-12-16 20:25:00 UTC,59500
+Clementine Cantrell,16,Male,(432) 284-8780,clementinecantrell@icloud.org,Metoprolol Tartrate,175000,2021-01-21 19:58:00 UTC,2021-01-21 22:22:00 UTC,140000
+Clementine Cantrell,16,Male,(432) 284-8780,clementinecantrell@icloud.org,Synthroid,150000,2021-03-02 19:58:00 UTC,2021-03-02 21:52:00 UTC,105000
+Clementine Cantrell,16,Male,(432) 284-8780,clementinecantrell@icloud.org,LevothyroxineSodium,75000,2022-01-31 01:08:00 UTC,2022-01-31 03:32:00 UTC,45000
+Ray Ware,17,Female,(504) 186-1495,rayware@google.net,Lipitor,100000,2021-02-19 15:52:00 UTC,2021-02-19 18:16:00 UTC,70000
+Oleg Ross,17,Male,1-723-676-7516,olegross9917@icloud.org,Plavix,225000,2021-08-30 22:35:00 UTC,2021-08-31 00:59:00 UTC,100000
+Oleg Ross,17,Male,1-723-676-7516,olegross9917@icloud.org,LevothyroxineSodium,75000,2021-10-31 22:35:00 UTC,2021-11-01 00:29:00 UTC,45000
+Oleg Ross,17,Male,1-723-676-7516,olegross9917@icloud.org,Hydrocodone/APAP,200000,2021-12-15 22:35:00 UTC,2021-12-16 00:29:00 UTC,110000
+Oleg Ross,17,Male,1-723-676-7516,olegross9917@icloud.org,Crestor,85000,2022-01-14 22:35:00 UTC,2022-01-15 00:29:00 UTC,59500
+Aretha Owen,17,Male,(135) 164-6566,arethaowen@google.net,Hydrocodone/APAP,200000,2021-09-23 07:22:00 UTC,2021-09-23 09:46:00 UTC,110000
+Aretha Owen,17,Male,(135) 164-6566,arethaowen@google.net,Azithromycin,125000,2021-11-24 07:22:00 UTC,2021-11-24 09:16:00 UTC,87500
+Arthur Bass,17,Male,1-312-887-8866,arthurbass@hotmail.com,Hydrocodone/APAP,200000,2022-01-13 16:02:00 UTC,2022-01-13 18:26:00 UTC,110000
+Tanek Haney,17,Female,(157) 442-1702,tanekhaney@hotmail.org,Azithromycin,125000,2021-03-18 23:05:00 UTC,2021-03-19 01:29:00 UTC,87500
+Joelle Hardy,17,Male,1-327-385-2436,joellehardy2707@icloud.com,LevothyroxineSodium,75000,2021-10-31 23:14:00 UTC,2021-11-01 01:38:00 UTC,45000
+Joelle Hardy,17,Male,1-327-385-2436,joellehardy2707@icloud.com,Azithromycin,125000,2021-11-22 23:14:00 UTC,2021-11-23 01:08:00 UTC,87500
+Kylan Barber,17,Male,(972) 967-3767,kylanbarber3414@google.net,Simvastatin,110000,2021-01-06 08:23:00 UTC,2021-01-06 10:46:00 UTC,77000
+Kylan Barber,17,Male,(972) 967-3767,kylanbarber3414@google.net,Plavix,225000,2021-02-15 08:23:00 UTC,2021-02-15 10:16:00 UTC,100000
+Kylan Barber,17,Male,(972) 967-3767,kylanbarber3414@google.net,Synthroid,150000,2021-03-19 08:23:00 UTC,2021-03-19 10:16:00 UTC,105000
+Kylan Barber,17,Male,(972) 967-3767,kylanbarber3414@google.net,Plavix,225000,2022-01-19 04:09:00 UTC,2022-01-19 06:33:00 UTC,100000
+Kylan Barber,17,Male,(972) 967-3767,kylanbarber3414@google.net,Simvastatin,110000,2022-02-24 20:40:00 UTC,2022-02-24 22:33:00 UTC,77000
+Marah Walker,17,Female,(986) 626-2371,marahwalker@icloud.org,Plavix,225000,2021-02-19 02:18:00 UTC,2021-02-19 04:42:00 UTC,100000
+Marah Walker,17,Female,(986) 626-2371,marahwalker@icloud.org,Simvastatin,110000,2021-03-31 02:18:00 UTC,2021-03-31 04:12:00 UTC,77000
+Marah Walker,17,Female,(986) 626-2371,marahwalker@icloud.org,Nexium,270000,2021-05-02 02:18:00 UTC,2021-05-02 04:12:00 UTC,94500
+Noble Spears,17,Female,(926) 874-7789,noblespears2388@google.org,Crestor,85000,2021-03-10 07:34:00 UTC,2021-03-10 09:58:00 UTC,59500
+Patrick Cote,17,Female,1-115-873-5461,patrickcote@icloud.net,Singulair,50000,2021-03-04 05:05:00 UTC,2021-03-04 07:28:00 UTC,40000
+Ciara Burnett,17,Female,(596) 421-2201,ciaraburnett@icloud.org,Simvastatin,110000,2021-01-05 20:04:00 UTC,2021-01-05 22:28:00 UTC,77000
+Ciara Burnett,17,Female,(596) 421-2201,ciaraburnett@icloud.org,Nexium,270000,2021-02-14 20:04:00 UTC,2021-02-14 21:58:00 UTC,94500
+Ciara Burnett,17,Female,(596) 421-2201,ciaraburnett@icloud.org,Hydrocodone/APAP,200000,2021-03-18 20:04:00 UTC,2021-03-18 21:58:00 UTC,110000
+Ciara Burnett,17,Female,(596) 421-2201,ciaraburnett@icloud.org,Simvastatin,110000,2022-01-17 21:18:00 UTC,2022-01-17 23:12:00 UTC,77000
+Ciara Burnett,17,Female,(596) 421-2201,ciaraburnett@icloud.org,Plavix,225000,2022-02-22 19:00:00 UTC,2022-02-22 21:24:00 UTC,100000
+Jaquelyn Mejia,17,Female,(474) 467-3527,jaquelynmejia@google.net,Azithromycin,125000,2021-01-02 00:35:00 UTC,2021-01-02 02:58:00 UTC,87500
+Jaquelyn Mejia,17,Female,(474) 467-3527,jaquelynmejia@google.net,Plavix,225000,2021-02-11 00:35:00 UTC,2021-02-11 02:28:00 UTC,100000
+Jaquelyn Mejia,17,Female,(474) 467-3527,jaquelynmejia@google.net,Nexium,270000,2021-03-15 00:35:00 UTC,2021-03-15 02:28:00 UTC,94500
+Jaquelyn Mejia,17,Female,(474) 467-3527,jaquelynmejia@google.net,Crestor,85000,2021-06-13 00:35:00 UTC,2021-06-13 02:28:00 UTC,59500
+Jaquelyn Mejia,17,Female,(474) 467-3527,jaquelynmejia@google.net,Simvastatin,110000,2022-01-17 11:44:00 UTC,2022-01-17 13:37:00 UTC,77000
+Jaquelyn Mejia,17,Female,(474) 467-3527,jaquelynmejia@google.net,Metoprolol Tartrate,175000,2022-02-18 23:37:00 UTC,2022-02-19 01:30:00 UTC,140000
+Maisie Shields,17,Male,1-357-549-8162,maisieshields5051@icloud.com,Nexium,270000,2021-02-22 10:47:00 UTC,2021-02-22 13:11:00 UTC,94500
+Samantha Pratt,17,Female,1-946-743-7108,samanthapratt@hotmail.com,Synthroid,150000,2021-02-08 22:19:00 UTC,2021-02-09 00:43:00 UTC,105000
+Samantha Pratt,17,Female,1-946-743-7108,samanthapratt@hotmail.com,Singulair,50000,2021-03-20 22:19:00 UTC,2021-03-21 00:13:00 UTC,40000
+Samantha Pratt,17,Female,1-946-743-7108,samanthapratt@hotmail.com,Metoprolol Tartrate,175000,2022-02-14 01:25:00 UTC,2022-02-14 03:49:00 UTC,140000
+Orlando Sweeney,17,Female,1-838-786-4005,orlandosweeney@icloud.net,Crestor,85000,2022-03-17 08:47:00 UTC,2022-03-17 11:11:00 UTC,59500
+Ruth Williamson,17,Male,(444) 977-1264,ruthwilliamson9692@hotmail.com,Nexium,270000,2021-06-28 01:17:00 UTC,2021-06-28 03:41:00 UTC,94500
+Rae Morton,18,Male,(757) 265-3838,raemorton9428@hotmail.net,Plavix,225000,2021-04-25 23:15:00 UTC,2021-04-26 01:39:00 UTC,100000
+Rae Morton,18,Male,(757) 265-3838,raemorton9428@hotmail.net,Synthroid,150000,2021-06-04 23:15:00 UTC,2021-06-05 01:09:00 UTC,105000
+Rae Morton,18,Male,(757) 265-3838,raemorton9428@hotmail.net,LevothyroxineSodium,75000,2021-07-19 23:15:00 UTC,2021-07-20 01:09:00 UTC,45000
+Rae Morton,18,Male,(757) 265-3838,raemorton9428@hotmail.net,Hydrocodone/APAP,200000,2021-10-03 23:15:00 UTC,2021-10-04 01:09:00 UTC,110000
+Chase Henry,18,Female,1-341-212-2254,chasehenry650@icloud.com,Synthroid,150000,2021-01-22 17:46:00 UTC,2021-01-22 20:10:00 UTC,105000
+Chase Henry,18,Female,1-341-212-2254,chasehenry650@icloud.com,Metoprolol Tartrate,175000,2021-03-03 17:46:00 UTC,2021-03-03 19:40:00 UTC,140000
+Chase Henry,18,Female,1-341-212-2254,chasehenry650@icloud.com,Synthroid,150000,2022-01-31 17:31:00 UTC,2022-01-31 19:55:00 UTC,105000
+Hayes Hayes,18,Female,(579) 604-6356,hayeshayes855@hotmail.net,Azithromycin,125000,2021-02-21 16:29:00 UTC,2021-02-21 18:53:00 UTC,87500
+Tanya Heath,18,Male,(488) 262-0317,tanyaheath7907@icloud.org,Plavix,225000,2021-01-10 02:17:00 UTC,2021-01-10 04:40:00 UTC,100000
+Tanya Heath,18,Male,(488) 262-0317,tanyaheath7907@icloud.org,Crestor,85000,2022-01-20 14:36:00 UTC,2022-01-20 17:00:00 UTC,59500
+Zelda White,18,Male,(218) 946-4894,zeldawhite@icloud.org,LevothyroxineSodium,75000,2021-08-16 16:06:00 UTC,2021-08-16 18:29:00 UTC,45000
+Zelda White,18,Male,(218) 946-4894,zeldawhite@icloud.org,Crestor,85000,2021-10-17 16:06:00 UTC,2021-10-17 17:59:00 UTC,59500
+Zelda White,18,Male,(218) 946-4894,zeldawhite@icloud.org,Crestor,85000,2021-12-16 23:03:00 UTC,2021-12-17 01:27:00 UTC,59500
+Chaney Floyd,18,Female,(204) 516-7466,chaneyfloyd5134@google.org,Crestor,85000,2021-09-19 23:03:00 UTC,2021-09-20 01:26:00 UTC,59500
+Chaney Floyd,18,Female,(204) 516-7466,chaneyfloyd5134@google.org,Singulair,50000,2021-11-20 23:03:00 UTC,2021-11-21 00:56:00 UTC,40000
+Clarke Alford,18,Male,(806) 896-2186,clarkealford@hotmail.com,Hydrocodone/APAP,200000,2021-01-10 08:41:00 UTC,2021-01-10 11:05:00 UTC,110000
+Clarke Alford,18,Male,(806) 896-2186,clarkealford@hotmail.com,Metoprolol Tartrate,175000,2022-01-21 00:04:00 UTC,2022-01-21 02:28:00 UTC,140000
+Colby Lambert,18,Female,1-315-572-1212,colbylambert@icloud.net,Azithromycin,125000,2021-01-20 00:17:00 UTC,2021-01-20 02:41:00 UTC,87500
+Colby Lambert,18,Female,1-315-572-1212,colbylambert@icloud.net,Plavix,225000,2022-01-30 19:35:00 UTC,2022-01-30 21:29:00 UTC,100000
+Erich Bullock,18,Male,(552) 532-5639,erichbullock3890@hotmail.net,Nexium,270000,2021-12-07 05:43:00 UTC,2021-12-07 08:07:00 UTC,94500
+Patricia Goff,18,Female,1-473-328-9443,patriciagoff4747@google.com,Crestor,85000,2022-02-26 03:42:00 UTC,2022-02-26 06:06:00 UTC,59500
+Declan Dickson,18,Male,(294) 181-3202,declandickson@icloud.org,Metoprolol Tartrate,175000,2021-01-11 03:47:00 UTC,2021-01-11 06:11:00 UTC,140000
+Declan Dickson,18,Male,(294) 181-3202,declandickson@icloud.org,Crestor,85000,2022-01-23 11:17:00 UTC,2022-01-23 13:41:00 UTC,59500
+Audra Lancaster,18,Male,1-334-337-7056,audralancaster1959@hotmail.com,Lipitor,100000,2021-01-30 20:27:00 UTC,2021-01-30 22:51:00 UTC,70000
+Audra Lancaster,18,Male,1-334-337-7056,audralancaster1959@hotmail.com,Simvastatin,110000,2021-03-11 20:27:00 UTC,2021-03-11 22:21:00 UTC,77000
+Audra Lancaster,18,Male,1-334-337-7056,audralancaster1959@hotmail.com,Synthroid,150000,2021-04-12 20:27:00 UTC,2021-04-12 22:21:00 UTC,105000
+Audra Lancaster,18,Male,1-334-337-7056,audralancaster1959@hotmail.com,Synthroid,150000,2021-07-11 20:27:00 UTC,2021-07-11 22:21:00 UTC,105000
+Audra Lancaster,18,Male,1-334-337-7056,audralancaster1959@hotmail.com,Azithromycin,125000,2022-02-05 19:54:00 UTC,2022-02-05 22:18:00 UTC,87500
+Nomlanga Ortega,18,Female,(683) 843-1212,nomlangaortega@google.org,LevothyroxineSodium,75000,2021-11-29 09:45:00 UTC,2021-11-29 12:09:00 UTC,45000
+Gillian Richardson,18,Female,1-710-817-6984,gillianrichardson@google.com,LevothyroxineSodium,75000,2022-02-28 04:09:00 UTC,2022-02-28 06:03:00 UTC,45000
+Kai Coffey,19,Male,1-617-928-9776,kaicoffey@hotmail.com,Azithromycin,125000,2021-02-20 23:26:00 UTC,2021-02-21 01:49:00 UTC,87500
+Blaze Spence,19,Female,1-852-233-8521,blazespence8683@icloud.net,Azithromycin,125000,2021-03-29 08:49:00 UTC,2021-03-29 11:13:00 UTC,87500
+Blaze Spence,19,Female,1-852-233-8521,blazespence8683@icloud.net,Hydrocodone/APAP,200000,2021-05-08 08:49:00 UTC,2021-05-08 10:43:00 UTC,110000
+Ethan Mendez,19,Female,1-834-726-0881,ethanmendez@google.net,Hydrocodone/APAP,200000,2021-01-11 19:44:00 UTC,2021-01-11 22:07:00 UTC,110000
+Ethan Mendez,19,Female,1-834-726-0881,ethanmendez@google.net,Nexium,270000,2022-01-25 23:03:00 UTC,2022-01-26 00:57:00 UTC,94500
+Hayes Deleon,19,Male,(867) 482-2109,hayesdeleon284@google.org,Nexium,270000,2022-03-14 18:07:00 UTC,2022-03-14 20:31:00 UTC,94500
+Kellie Russo,19,Female,1-331-442-8967,kellierusso@icloud.com,Hydrocodone/APAP,200000,2021-03-27 14:46:00 UTC,2021-03-27 17:10:00 UTC,110000
+Kellie Russo,19,Female,1-331-442-8967,kellierusso@icloud.com,Crestor,85000,2021-05-06 14:46:00 UTC,2021-05-06 16:40:00 UTC,59500
+Maisie Heath,19,Male,1-267-421-4601,maisieheath@google.com,Nexium,270000,2022-03-28 07:59:00 UTC,2022-03-28 10:23:00 UTC,94500
+Preston Brady,19,Female,(316) 516-7755,prestonbrady@hotmail.com,Crestor,85000,2021-05-29 12:56:00 UTC,2021-05-29 15:20:00 UTC,59500
+Preston Brady,19,Female,(316) 516-7755,prestonbrady@hotmail.com,Synthroid,150000,2021-07-08 12:56:00 UTC,2021-07-08 14:50:00 UTC,105000
+Preston Brady,19,Female,(316) 516-7755,prestonbrady@hotmail.com,Crestor,85000,2021-08-22 12:56:00 UTC,2021-08-22 14:50:00 UTC,59500
+Preston Brady,19,Female,(316) 516-7755,prestonbrady@hotmail.com,Synthroid,150000,2021-11-06 12:56:00 UTC,2021-11-06 14:50:00 UTC,105000
+Tyrone Powers,19,Female,1-545-244-2210,tyronepowers@google.net,Metoprolol Tartrate,175000,2021-07-24 05:10:00 UTC,2021-07-24 07:34:00 UTC,140000
+Tyrone Powers,19,Female,1-545-244-2210,tyronepowers@google.net,Hydrocodone/APAP,200000,2021-09-02 05:10:00 UTC,2021-09-02 07:04:00 UTC,110000
+Tyrone Powers,19,Female,1-545-244-2210,tyronepowers@google.net,Singulair,50000,2021-10-17 05:10:00 UTC,2021-10-17 07:04:00 UTC,40000
+Emerald Palmer,19,Female,(383) 247-3450,emeraldpalmer@google.net,Azithromycin,125000,2021-03-07 12:27:00 UTC,2021-03-07 14:51:00 UTC,87500
+Hannah Harrell,19,Male,1-673-751-5663,hannahharrell4563@icloud.net,Singulair,50000,2021-09-19 16:44:00 UTC,2021-09-19 19:08:00 UTC,40000
+Hannah Harrell,19,Male,1-673-751-5663,hannahharrell4563@icloud.net,Plavix,225000,2021-11-20 16:44:00 UTC,2021-11-20 18:38:00 UTC,100000
+Jenette Spence,19,Male,1-243-856-9199,jenettespence@icloud.com,Singulair,50000,2021-03-21 02:38:00 UTC,2021-03-21 05:01:00 UTC,40000
+Jenette Spence,19,Male,1-243-856-9199,jenettespence@icloud.com,Azithromycin,125000,2021-04-30 02:38:00 UTC,2021-04-30 04:31:00 UTC,87500
+Jenette Spence,19,Male,1-243-856-9199,jenettespence@icloud.com,Metoprolol Tartrate,175000,2021-06-01 02:38:00 UTC,2021-06-01 04:31:00 UTC,140000
+Jenette Spence,19,Male,1-243-856-9199,jenettespence@icloud.com,Crestor,85000,2021-08-30 02:38:00 UTC,2021-08-30 04:31:00 UTC,59500
+Kadeem Barrett,19,Female,(415) 732-9268,kadeembarrett5824@hotmail.net,Crestor,85000,2022-03-11 03:37:00 UTC,2022-03-11 06:01:00 UTC,59500
+Rhiannon Austin,19,Male,(581) 324-7310,rhiannonaustin878@hotmail.net,Synthroid,150000,2021-07-06 06:16:00 UTC,2021-07-06 08:40:00 UTC,105000
+Demetrius Jacobson,19,Male,(714) 512-2688,demetriusjacobson@hotmail.net,Nexium,270000,2021-03-22 00:30:00 UTC,2021-03-22 02:54:00 UTC,94500
+Demetrius Jacobson,19,Male,(714) 512-2688,demetriusjacobson@hotmail.net,Singulair,50000,2021-05-01 00:30:00 UTC,2021-05-01 02:24:00 UTC,40000
+Demetrius Jacobson,19,Male,(714) 512-2688,demetriusjacobson@hotmail.net,Plavix,225000,2021-06-02 00:30:00 UTC,2021-06-02 02:24:00 UTC,100000
+Demetrius Jacobson,19,Male,(714) 512-2688,demetriusjacobson@hotmail.net,Plavix,225000,2021-08-31 00:30:00 UTC,2021-08-31 02:24:00 UTC,100000
+Remedios Mccormick,19,Female,1-305-524-5345,remediosmccormick3964@hotmail.net,Hydrocodone/APAP,200000,2021-12-12 23:21:00 UTC,2021-12-13 01:45:00 UTC,110000
+Ali Garza,20,Male,1-250-420-2252,aligarza@google.net,Synthroid,150000,2022-03-30 00:05:00 UTC,2022-03-30 02:29:00 UTC,105000
+Haley Dunn,20,Female,(476) 300-3534,haleydunn@hotmail.net,Hydrocodone/APAP,200000,2022-03-08 15:34:00 UTC,2022-03-08 17:27:00 UTC,110000
+Dolan Stone,20,Male,(476) 677-1397,dolanstone9478@google.net,Metoprolol Tartrate,175000,2021-08-19 13:34:00 UTC,2021-08-19 15:58:00 UTC,140000
+Dolan Stone,20,Male,(476) 677-1397,dolanstone9478@google.net,Plavix,225000,2021-10-20 13:34:00 UTC,2021-10-20 15:28:00 UTC,100000
+Dolan Stone,20,Male,(476) 677-1397,dolanstone9478@google.net,Plavix,225000,2021-12-21 17:39:00 UTC,2021-12-21 19:32:00 UTC,100000
+Gay Mueller,20,Female,1-547-861-3221,gaymueller4077@google.net,Plavix,225000,2022-03-18 07:01:00 UTC,2022-03-18 09:25:00 UTC,100000
+Jerry Mendez,20,Male,1-376-259-0218,jerrymendez1879@icloud.com,Synthroid,150000,2021-04-21 02:12:00 UTC,2021-04-21 04:36:00 UTC,105000
+Jerry Mendez,20,Male,1-376-259-0218,jerrymendez1879@icloud.com,Lipitor,100000,2021-05-31 02:12:00 UTC,2021-05-31 04:06:00 UTC,70000
+Jerry Mendez,20,Male,1-376-259-0218,jerrymendez1879@icloud.com,Azithromycin,125000,2021-07-02 02:12:00 UTC,2021-07-02 04:06:00 UTC,87500
+Jerry Mendez,20,Male,1-376-259-0218,jerrymendez1879@icloud.com,Synthroid,150000,2021-09-16 02:12:00 UTC,2021-09-16 04:06:00 UTC,105000
+Wallace Webb,20,Male,(554) 407-7236,wallacewebb5438@icloud.com,LevothyroxineSodium,75000,2021-08-12 13:27:00 UTC,2021-08-12 15:51:00 UTC,45000
+Wallace Webb,20,Male,(554) 407-7236,wallacewebb5438@icloud.com,Lipitor,100000,2021-10-13 13:27:00 UTC,2021-10-13 15:21:00 UTC,70000
+Xyla Vincent,20,Female,1-182-115-1363,xylavincent4016@google.org,Plavix,225000,2021-07-20 11:51:00 UTC,2021-07-20 14:14:00 UTC,100000
+Bevis Webster,20,Male,1-234-522-0315,beviswebster@hotmail.org,Synthroid,150000,2021-01-14 13:06:00 UTC,2021-01-14 15:30:00 UTC,105000
+Bevis Webster,20,Male,1-234-522-0315,beviswebster@hotmail.org,Crestor,85000,2022-01-27 06:50:00 UTC,2022-01-27 09:14:00 UTC,59500
+Yasir Griffin,20,Male,1-653-866-3477,yasirgriffin@icloud.com,Hydrocodone/APAP,200000,2021-06-21 10:46:00 UTC,2021-06-21 13:10:00 UTC,110000
+Harper Padilla,20,Female,1-382-731-0547,harperpadilla3356@hotmail.net,Synthroid,150000,2021-03-09 03:01:00 UTC,2021-03-09 05:25:00 UTC,105000
+Sophia Morales,20,Female,1-876-232-2485,sophiamorales@google.com,Crestor,85000,2021-03-23 16:21:00 UTC,2021-03-23 18:45:00 UTC,59500
+Sophia Morales,20,Female,1-876-232-2485,sophiamorales@google.com,Hydrocodone/APAP,200000,2021-05-02 16:21:00 UTC,2021-05-02 18:15:00 UTC,110000
+Violet Goodman,20,Male,1-587-770-5245,violetgoodman3504@hotmail.com,Singulair,50000,2021-07-13 06:08:00 UTC,2021-07-13 08:32:00 UTC,40000
+Ezekiel Peterson,20,Female,1-839-149-1564,ezekielpeterson7944@google.net,Hydrocodone/APAP,200000,2021-01-11 07:50:00 UTC,2021-01-11 10:14:00 UTC,110000
+Ezekiel Peterson,20,Female,1-839-149-1564,ezekielpeterson7944@google.net,Synthroid,150000,2022-01-24 07:56:00 UTC,2022-01-24 10:20:00 UTC,105000
+Francesca Lester,20,Male,1-541-371-3302,francescalester23@hotmail.org,Plavix,225000,2021-07-24 13:03:00 UTC,2021-07-24 15:27:00 UTC,100000
+Francesca Lester,20,Male,1-541-371-3302,francescalester23@hotmail.org,Hydrocodone/APAP,200000,2021-09-02 13:03:00 UTC,2021-09-02 14:57:00 UTC,110000
+Francesca Lester,20,Male,1-541-371-3302,francescalester23@hotmail.org,Plavix,225000,2021-11-01 13:03:00 UTC,2021-11-01 14:57:00 UTC,100000
+Wesley Blackwell,20,Male,1-610-937-4739,wesleyblackwell@icloud.net,Simvastatin,110000,2022-03-20 15:11:00 UTC,2022-03-20 17:35:00 UTC,77000
+Ava Bridges,21,Female,1-668-517-3853,avabridges@hotmail.org,Synthroid,150000,2021-06-16 09:31:00 UTC,2021-06-16 11:55:00 UTC,105000
+Cain Chaney,21,Male,(183) 575-1754,cainchaney@hotmail.net,Simvastatin,110000,2021-09-22 12:51:00 UTC,2021-09-22 15:15:00 UTC,77000
+Cain Chaney,21,Male,(183) 575-1754,cainchaney@hotmail.net,Azithromycin,125000,2021-11-23 12:51:00 UTC,2021-11-23 14:45:00 UTC,87500
+Cain Chaney,21,Male,(183) 575-1754,cainchaney@hotmail.net,Nexium,270000,2021-12-16 12:51:00 UTC,2021-12-16 14:45:00 UTC,94500
+Inez Barber,21,Female,1-826-331-4612,inezbarber@icloud.com,Plavix,225000,2021-10-31 17:05:00 UTC,2021-10-31 19:29:00 UTC,100000
+Inez Barber,21,Female,1-826-331-4612,inezbarber@icloud.com,Metoprolol Tartrate,175000,2021-11-22 17:05:00 UTC,2021-11-22 18:59:00 UTC,140000
+Rajah Boyer,21,Male,(944) 727-0297,rajahboyer6690@icloud.org,Synthroid,150000,2022-03-28 20:33:00 UTC,2022-03-28 22:57:00 UTC,105000
+Warren Soto,21,Male,1-411-892-3589,warrensoto@icloud.org,LevothyroxineSodium,75000,2021-08-04 17:45:00 UTC,2021-08-04 20:09:00 UTC,45000
+Warren Soto,21,Male,1-411-892-3589,warrensoto@icloud.org,Hydrocodone/APAP,200000,2021-09-13 17:45:00 UTC,2021-09-13 19:39:00 UTC,110000
+Camille Luna,21,Male,1-583-437-2554,camilleluna@google.org,Hydrocodone/APAP,200000,2021-12-08 11:49:00 UTC,2021-12-08 14:13:00 UTC,110000
+Owen Spencer,21,Female,(384) 625-4770,owenspencer@hotmail.org,LevothyroxineSodium,75000,2021-07-17 16:13:00 UTC,2021-07-17 18:37:00 UTC,45000
+Andrew Walton,21,Male,1-327-560-5592,andrewwalton3723@icloud.com,Simvastatin,110000,2021-06-11 05:37:00 UTC,2021-06-11 08:01:00 UTC,77000
+Hilary Lawson,21,Female,(318) 342-8028,hilarylawson@icloud.com,Metoprolol Tartrate,175000,2021-02-01 23:28:00 UTC,2021-02-02 01:51:00 UTC,140000
+Hilary Lawson,21,Female,(318) 342-8028,hilarylawson@icloud.com,Metoprolol Tartrate,175000,2021-03-13 23:28:00 UTC,2021-03-14 01:21:00 UTC,140000
+Hilary Lawson,21,Female,(318) 342-8028,hilarylawson@icloud.com,Synthroid,150000,2022-02-08 09:02:00 UTC,2022-02-08 11:25:00 UTC,105000
+Josiah Henson,21,Female,1-636-561-3905,josiahhenson2104@hotmail.net,Crestor,85000,2021-07-05 02:01:00 UTC,2021-07-05 04:25:00 UTC,59500
+Brendan Forbes,21,Female,(852) 770-4178,brendanforbes6757@google.org,Nexium,270000,2021-05-25 01:19:00 UTC,2021-05-25 03:43:00 UTC,94500
+Brendan Forbes,21,Female,(852) 770-4178,brendanforbes6757@google.org,Plavix,225000,2021-07-04 01:19:00 UTC,2021-07-04 03:13:00 UTC,100000
+Brendan Forbes,21,Female,(852) 770-4178,brendanforbes6757@google.org,Crestor,85000,2021-08-18 01:19:00 UTC,2021-08-18 03:13:00 UTC,59500
+Brendan Forbes,21,Female,(852) 770-4178,brendanforbes6757@google.org,Singulair,50000,2021-11-02 01:19:00 UTC,2021-11-02 03:13:00 UTC,40000
+Olympia Chavez,21,Male,1-582-954-1837,olympiachavez@hotmail.org,Lipitor,100000,2021-04-16 11:07:00 UTC,2021-04-16 13:31:00 UTC,70000
+Olympia Chavez,21,Male,1-582-954-1837,olympiachavez@hotmail.org,Synthroid,150000,2021-05-26 11:07:00 UTC,2021-05-26 13:01:00 UTC,105000
+Olympia Chavez,21,Male,1-582-954-1837,olympiachavez@hotmail.org,Metoprolol Tartrate,175000,2021-06-27 11:07:00 UTC,2021-06-27 13:01:00 UTC,140000
+Olympia Chavez,21,Male,1-582-954-1837,olympiachavez@hotmail.org,Lipitor,100000,2021-09-25 11:07:00 UTC,2021-09-25 13:01:00 UTC,70000
+Nicholas Calderon,21,Female,(304) 181-6941,nicholascalderon6757@icloud.org,Azithromycin,125000,2021-10-04 18:13:00 UTC,2021-10-04 20:37:00 UTC,87500
+Nicholas Calderon,21,Female,(304) 181-6941,nicholascalderon6757@icloud.org,Azithromycin,125000,2021-10-26 18:13:00 UTC,2021-10-26 20:07:00 UTC,87500
+Nicholas Calderon,21,Female,(304) 181-6941,nicholascalderon6757@icloud.org,Crestor,85000,2021-11-18 18:13:00 UTC,2021-11-18 20:07:00 UTC,59500
+Nicholas Calderon,21,Female,(304) 181-6941,nicholascalderon6757@icloud.org,Hydrocodone/APAP,200000,2021-12-31 03:47:00 UTC,2021-12-31 05:41:00 UTC,110000
+Winifred Mitchell,21,Male,(787) 352-5281,winifredmitchell5072@icloud.net,Synthroid,150000,2021-07-25 20:12:00 UTC,2021-07-25 22:36:00 UTC,105000
+Winifred Mitchell,21,Male,(787) 352-5281,winifredmitchell5072@icloud.net,Hydrocodone/APAP,200000,2021-09-03 20:12:00 UTC,2021-09-03 22:06:00 UTC,110000
+Winifred Mitchell,21,Male,(787) 352-5281,winifredmitchell5072@icloud.net,Metoprolol Tartrate,175000,2021-10-18 20:12:00 UTC,2021-10-18 22:06:00 UTC,140000
+Winifred Mitchell,21,Male,(787) 352-5281,winifredmitchell5072@icloud.net,Crestor,85000,2021-11-17 20:12:00 UTC,2021-11-17 22:06:00 UTC,59500
+Winifred Mitchell,21,Male,(787) 352-5281,winifredmitchell5072@icloud.net,Plavix,225000,2021-12-19 04:40:00 UTC,2021-12-19 07:04:00 UTC,100000
+Savannah Maldonado,21,Male,(711) 152-5026,savannahmaldonado4404@google.org,Synthroid,150000,2021-07-03 20:55:00 UTC,2021-07-03 23:19:00 UTC,105000
+Lamar Kirk,22,Female,(707) 426-7551,lamarkirk7892@icloud.com,Azithromycin,125000,2021-08-09 00:32:00 UTC,2021-08-09 02:55:00 UTC,87500
+Lamar Kirk,22,Female,(707) 426-7551,lamarkirk7892@icloud.com,Singulair,50000,2021-10-10 00:32:00 UTC,2021-10-10 02:25:00 UTC,40000
+Medge Cook,22,Female,1-114-264-2165,medgecook@icloud.com,Nexium,270000,2021-07-20 22:09:00 UTC,2021-07-21 00:32:00 UTC,94500
+Medge Cook,22,Female,1-114-264-2165,medgecook@icloud.com,Crestor,85000,2021-08-29 22:09:00 UTC,2021-08-30 00:02:00 UTC,59500
+Medge Cook,22,Female,1-114-264-2165,medgecook@icloud.com,LevothyroxineSodium,75000,2021-10-13 22:09:00 UTC,2021-10-14 00:02:00 UTC,45000
+Medge Cook,22,Female,1-114-264-2165,medgecook@icloud.com,Hydrocodone/APAP,200000,2021-11-12 22:09:00 UTC,2021-11-13 00:02:00 UTC,110000
+David Giles,22,Male,1-192-774-6135,davidgiles8636@google.net,Hydrocodone/APAP,200000,2021-08-19 00:34:00 UTC,2021-08-19 02:58:00 UTC,110000
+David Giles,22,Male,1-192-774-6135,davidgiles8636@google.net,Plavix,225000,2021-10-20 00:34:00 UTC,2021-10-20 02:28:00 UTC,100000
+David Giles,22,Male,1-192-774-6135,davidgiles8636@google.net,Nexium,270000,2021-12-19 08:29:00 UTC,2021-12-19 10:23:00 UTC,94500
+Glenna Leon,22,Male,(482) 661-4466,glennaleon@icloud.org,LevothyroxineSodium,75000,2021-04-10 04:16:00 UTC,2021-04-10 06:40:00 UTC,45000
+Glenna Leon,22,Male,(482) 661-4466,glennaleon@icloud.org,Azithromycin,125000,2021-05-20 04:16:00 UTC,2021-05-20 06:10:00 UTC,87500
+Glenna Leon,22,Male,(482) 661-4466,glennaleon@icloud.org,Crestor,85000,2021-06-21 04:16:00 UTC,2021-06-21 06:10:00 UTC,59500
+Abbot Deleon,22,Male,1-453-497-2625,abbotdeleon1619@icloud.com,Crestor,85000,2021-07-29 04:41:00 UTC,2021-07-29 07:04:00 UTC,59500
+Abbot Deleon,22,Male,1-453-497-2625,abbotdeleon1619@icloud.com,Crestor,85000,2021-09-07 04:41:00 UTC,2021-09-07 06:34:00 UTC,59500
+Henry Slater,22,Female,(878) 215-5959,henryslater2632@google.com,Azithromycin,125000,2022-01-09 03:08:00 UTC,2022-01-09 05:32:00 UTC,87500
+Xenos Joyner,22,Female,(850) 512-7271,xenosjoyner@google.net,Crestor,85000,2021-11-30 23:45:00 UTC,2021-12-01 02:09:00 UTC,59500
+Daniel Herrera,22,Male,(734) 771-6441,danielherrera@google.com,Nexium,270000,2021-09-28 18:04:00 UTC,2021-09-28 20:28:00 UTC,94500
+Daniel Herrera,22,Male,(734) 771-6441,danielherrera@google.com,Azithromycin,125000,2021-10-20 18:04:00 UTC,2021-10-20 19:58:00 UTC,87500
+Daniel Herrera,22,Male,(734) 771-6441,danielherrera@google.com,Hydrocodone/APAP,200000,2021-11-12 18:04:00 UTC,2021-11-12 19:58:00 UTC,110000
+Daniel Herrera,22,Male,(734) 771-6441,danielherrera@google.com,Plavix,225000,2021-12-21 19:35:00 UTC,2021-12-21 21:59:00 UTC,100000
+Philip Hoffman,22,Female,(555) 351-1662,philiphoffman8319@hotmail.com,LevothyroxineSodium,75000,2021-07-04 10:12:00 UTC,2021-07-04 12:36:00 UTC,45000
+Yasir Rutledge,22,Male,1-466-593-1237,yasirrutledge@hotmail.org,Metoprolol Tartrate,175000,2021-05-07 04:41:00 UTC,2021-05-07 07:04:00 UTC,140000
+Yasir Rutledge,22,Male,1-466-593-1237,yasirrutledge@hotmail.org,Azithromycin,125000,2021-06-16 04:41:00 UTC,2021-06-16 06:34:00 UTC,87500
+Yasir Rutledge,22,Male,1-466-593-1237,yasirrutledge@hotmail.org,Synthroid,150000,2021-07-31 04:41:00 UTC,2021-07-31 06:34:00 UTC,105000
+Yasir Rutledge,22,Male,1-466-593-1237,yasirrutledge@hotmail.org,Plavix,225000,2021-10-15 04:41:00 UTC,2021-10-15 06:34:00 UTC,100000
+Claudia Morrison,22,Female,1-615-213-9486,claudiamorrison@google.com,Azithromycin,125000,2021-09-24 00:58:00 UTC,2021-09-24 03:22:00 UTC,87500
+Claudia Morrison,22,Female,1-615-213-9486,claudiamorrison@google.com,Hydrocodone/APAP,200000,2021-11-25 00:58:00 UTC,2021-11-25 02:52:00 UTC,110000
+Quintessa Elliott,22,Female,(217) 745-3810,quintessaelliott5090@icloud.org,Singulair,50000,2021-11-02 19:07:00 UTC,2021-11-02 21:31:00 UTC,40000
+Quintessa Elliott,22,Female,(217) 745-3810,quintessaelliott5090@icloud.org,LevothyroxineSodium,75000,2021-11-24 19:07:00 UTC,2021-11-24 21:01:00 UTC,45000
+Sage Love,23,Male,(279) 343-3441,sagelove@icloud.org,Singulair,50000,2022-03-08 06:50:00 UTC,2022-03-08 08:44:00 UTC,40000
+Yael Head,23,Male,1-652-154-7785,yaelhead8680@hotmail.net,Simvastatin,110000,2021-06-20 00:57:00 UTC,2021-06-20 03:21:00 UTC,77000
+Hanna Carr,23,Female,1-397-815-5817,hannacarr6040@icloud.net,Singulair,50000,2021-04-17 13:29:00 UTC,2021-04-17 15:53:00 UTC,40000
+Hanna Carr,23,Female,1-397-815-5817,hannacarr6040@icloud.net,Plavix,225000,2021-05-27 13:29:00 UTC,2021-05-27 15:23:00 UTC,100000
+Hanna Carr,23,Female,1-397-815-5817,hannacarr6040@icloud.net,LevothyroxineSodium,75000,2021-06-28 13:29:00 UTC,2021-06-28 15:23:00 UTC,45000
+Hanna Carr,23,Female,1-397-815-5817,hannacarr6040@icloud.net,Hydrocodone/APAP,200000,2021-09-26 13:29:00 UTC,2021-09-26 15:23:00 UTC,110000
+Jaime Wall,23,Male,1-952-591-7531,jaimewall@icloud.org,LevothyroxineSodium,75000,2021-02-13 04:28:00 UTC,2021-02-13 06:52:00 UTC,45000
+Jaime Wall,23,Male,1-952-591-7531,jaimewall@icloud.org,Synthroid,150000,2021-03-25 04:28:00 UTC,2021-03-25 06:22:00 UTC,105000
+Jaime Wall,23,Male,1-952-591-7531,jaimewall@icloud.org,Hydrocodone/APAP,200000,2022-02-22 16:02:00 UTC,2022-02-22 17:56:00 UTC,110000
+Aspen Booth,23,Male,1-506-231-5916,aspenbooth1713@icloud.net,Hydrocodone/APAP,200000,2022-03-28 00:39:00 UTC,2022-03-28 03:02:00 UTC,110000
+Dylan Yates,23,Female,(443) 852-6846,dylanyates@hotmail.org,Plavix,225000,2021-09-11 13:39:00 UTC,2021-09-11 16:02:00 UTC,100000
+Dylan Yates,23,Female,(443) 852-6846,dylanyates@hotmail.org,Hydrocodone/APAP,200000,2021-11-12 13:39:00 UTC,2021-11-12 15:32:00 UTC,110000
+Dylan Yates,23,Female,(443) 852-6846,dylanyates@hotmail.org,Azithromycin,125000,2022-01-16 13:39:00 UTC,2022-01-16 15:32:00 UTC,87500
+Gage Gordon,23,Female,1-882-571-7375,gagegordon@google.com,Simvastatin,110000,2021-02-03 02:59:00 UTC,2021-02-03 05:23:00 UTC,77000
+Gage Gordon,23,Female,1-882-571-7375,gagegordon@google.com,LevothyroxineSodium,75000,2021-03-15 02:59:00 UTC,2021-03-15 04:53:00 UTC,45000
+Gage Gordon,23,Female,1-882-571-7375,gagegordon@google.com,Azithromycin,125000,2022-02-09 15:22:00 UTC,2022-02-09 17:15:00 UTC,87500
+Gail Dillon,23,Male,(361) 256-7348,gaildillon2085@google.net,Plavix,225000,2021-02-07 11:36:00 UTC,2021-02-07 13:59:00 UTC,100000
+Gail Dillon,23,Male,(361) 256-7348,gaildillon2085@google.net,Azithromycin,125000,2021-03-19 11:36:00 UTC,2021-03-19 13:29:00 UTC,87500
+Gail Dillon,23,Male,(361) 256-7348,gaildillon2085@google.net,Plavix,225000,2022-02-11 20:03:00 UTC,2022-02-11 21:57:00 UTC,100000
+Ray Summers,23,Female,(886) 673-1230,raysummers@google.org,Nexium,270000,2021-10-28 20:32:00 UTC,2021-10-28 22:56:00 UTC,94500
+Ray Summers,23,Female,(886) 673-1230,raysummers@google.org,Metoprolol Tartrate,175000,2021-11-19 20:32:00 UTC,2021-11-19 22:26:00 UTC,140000
+Aquila Nolan,23,Female,1-356-553-1674,aquilanolan@hotmail.com,Synthroid,150000,2021-06-16 13:55:00 UTC,2021-06-16 16:19:00 UTC,105000
+Linda Farmer,23,Female,(872) 474-3583,lindafarmer4662@icloud.net,Lipitor,100000,2022-03-27 04:55:00 UTC,2022-03-27 07:19:00 UTC,70000
+Olympia Cook,23,Female,(435) 153-4837,olympiacook3294@icloud.org,Simvastatin,110000,2022-03-17 21:27:00 UTC,2022-03-17 23:50:00 UTC,77000
+Tanner Russo,23,Female,(518) 947-6118,tannerrusso8569@icloud.com,Metoprolol Tartrate,175000,2021-05-27 21:35:00 UTC,2021-05-27 23:59:00 UTC,140000
+Tanner Russo,23,Female,(518) 947-6118,tannerrusso8569@icloud.com,Synthroid,150000,2021-07-06 21:35:00 UTC,2021-07-06 23:29:00 UTC,105000
+Tanner Russo,23,Female,(518) 947-6118,tannerrusso8569@icloud.com,Hydrocodone/APAP,200000,2021-08-20 21:35:00 UTC,2021-08-20 23:29:00 UTC,110000
+Tanner Russo,23,Female,(518) 947-6118,tannerrusso8569@icloud.com,LevothyroxineSodium,75000,2021-11-04 21:35:00 UTC,2021-11-04 23:29:00 UTC,45000
+Amethyst Paul,23,Male,(772) 920-5214,amethystpaul7766@google.net,Simvastatin,110000,2021-03-22 18:22:00 UTC,2021-03-22 20:46:00 UTC,77000
+Amethyst Paul,23,Male,(772) 920-5214,amethystpaul7766@google.net,Crestor,85000,2021-05-01 18:22:00 UTC,2021-05-01 20:16:00 UTC,59500
+Amethyst Paul,23,Male,(772) 920-5214,amethystpaul7766@google.net,Synthroid,150000,2021-06-02 18:22:00 UTC,2021-06-02 20:16:00 UTC,105000
+Amethyst Paul,23,Male,(772) 920-5214,amethystpaul7766@google.net,Crestor,85000,2021-08-31 18:22:00 UTC,2021-08-31 20:16:00 UTC,59500
+Francis Oneil,23,Female,(817) 264-5414,francisoneil@hotmail.com,Simvastatin,110000,2021-04-20 22:26:00 UTC,2021-04-21 00:50:00 UTC,77000
+Francis Oneil,23,Female,(817) 264-5414,francisoneil@hotmail.com,Crestor,85000,2021-05-30 22:26:00 UTC,2021-05-31 00:20:00 UTC,59500
+Francis Oneil,23,Female,(817) 264-5414,francisoneil@hotmail.com,LevothyroxineSodium,75000,2021-07-01 22:26:00 UTC,2021-07-02 00:20:00 UTC,45000
+Francis Oneil,23,Female,(817) 264-5414,francisoneil@hotmail.com,Nexium,270000,2021-09-29 22:26:00 UTC,2021-09-30 00:20:00 UTC,94500
+Jasmine Watson,23,Female,1-328-624-5212,jasminewatson5548@google.net,Plavix,225000,2021-01-15 23:49:00 UTC,2021-01-16 02:13:00 UTC,100000
+Jasmine Watson,23,Female,1-328-624-5212,jasminewatson5548@google.net,Synthroid,150000,2022-01-27 15:21:00 UTC,2022-01-27 17:44:00 UTC,105000
+Quail Hatfield,23,Male,1-583-464-5444,quailhatfield7331@google.org,Hydrocodone/APAP,200000,2021-11-22 20:33:00 UTC,2021-11-22 22:57:00 UTC,110000
+Quail Hatfield,23,Male,1-583-464-5444,quailhatfield7331@google.org,Hydrocodone/APAP,200000,2021-12-14 20:33:00 UTC,2021-12-14 22:27:00 UTC,110000
+Tanner Mccarty,23,Female,(163) 454-6128,tannermccarty@google.com,Azithromycin,125000,2021-01-08 06:29:00 UTC,2021-01-08 08:53:00 UTC,87500
+Tanner Mccarty,23,Female,(163) 454-6128,tannermccarty@google.com,Lipitor,100000,2022-01-19 14:27:00 UTC,2022-01-19 16:50:00 UTC,70000
+Fulton Armstrong,23,Female,1-377-435-3858,fultonarmstrong3202@hotmail.org,Crestor,85000,2021-04-14 05:49:00 UTC,2021-04-14 08:13:00 UTC,59500
+Fulton Armstrong,23,Female,1-377-435-3858,fultonarmstrong3202@hotmail.org,LevothyroxineSodium,75000,2021-05-24 05:49:00 UTC,2021-05-24 07:43:00 UTC,45000
+Fulton Armstrong,23,Female,1-377-435-3858,fultonarmstrong3202@hotmail.org,LevothyroxineSodium,75000,2021-06-25 05:49:00 UTC,2021-06-25 07:43:00 UTC,45000
+Fulton Armstrong,23,Female,1-377-435-3858,fultonarmstrong3202@hotmail.org,Plavix,225000,2021-09-23 05:49:00 UTC,2021-09-23 07:43:00 UTC,100000
+Griffin Melendez,23,Female,1-113-414-3816,griffinmelendez9631@google.net,Singulair,50000,2021-06-30 04:17:00 UTC,2021-06-30 06:41:00 UTC,40000
+Hayley O'donnell,23,Female,1-434-736-2888,hayleyodonnell@icloud.com,Simvastatin,110000,2021-03-06 10:11:00 UTC,2021-03-06 12:35:00 UTC,77000
+Dane Huber,24,Female,(843) 915-9462,danehuber@google.org,Simvastatin,110000,2021-10-27 19:10:00 UTC,2021-10-27 21:34:00 UTC,77000
+Dane Huber,24,Female,(843) 915-9462,danehuber@google.org,Lipitor,100000,2021-11-18 19:10:00 UTC,2021-11-18 21:04:00 UTC,70000
+Dane Huber,24,Female,(843) 915-9462,danehuber@google.org,Crestor,85000,2022-01-01 04:29:00 UTC,2022-01-01 06:23:00 UTC,59500
+Oleg Adams,24,Female,1-689-854-6655,olegadams3240@icloud.com,Hydrocodone/APAP,200000,2021-11-15 15:22:00 UTC,2021-11-15 17:45:00 UTC,110000
+Oleg Adams,24,Female,1-689-854-6655,olegadams3240@icloud.com,Metoprolol Tartrate,175000,2021-12-07 15:22:00 UTC,2021-12-07 17:15:00 UTC,140000
+Tara Bates,24,Female,1-976-448-0363,tarabates2340@icloud.net,Lipitor,100000,2021-08-29 02:46:00 UTC,2021-08-29 05:10:00 UTC,70000
+Tara Bates,24,Female,1-976-448-0363,tarabates2340@icloud.net,Azithromycin,125000,2021-10-30 02:46:00 UTC,2021-10-30 04:40:00 UTC,87500
+Tara Bates,24,Female,1-976-448-0363,tarabates2340@icloud.net,Azithromycin,125000,2021-12-14 02:46:00 UTC,2021-12-14 04:40:00 UTC,87500
+Tara Bates,24,Female,1-976-448-0363,tarabates2340@icloud.net,Simvastatin,110000,2022-01-13 02:46:00 UTC,2022-01-13 04:40:00 UTC,77000
+Yoko Marks,24,Female,1-472-857-3503,yokomarks1745@icloud.org,Simvastatin,110000,2021-06-02 21:57:00 UTC,2021-06-03 00:20:00 UTC,77000
+Yoko Marks,24,Female,1-472-857-3503,yokomarks1745@icloud.org,Crestor,85000,2021-07-12 21:57:00 UTC,2021-07-12 23:50:00 UTC,59500
+Leroy Doyle,24,Male,(182) 418-2894,leroydoyle@hotmail.com,LevothyroxineSodium,75000,2021-04-22 12:44:00 UTC,2021-04-22 15:08:00 UTC,45000
+Leroy Doyle,24,Male,(182) 418-2894,leroydoyle@hotmail.com,Crestor,85000,2021-06-01 12:44:00 UTC,2021-06-01 14:38:00 UTC,59500
+Leroy Doyle,24,Male,(182) 418-2894,leroydoyle@hotmail.com,LevothyroxineSodium,75000,2021-07-03 12:44:00 UTC,2021-07-03 14:38:00 UTC,45000
+Leroy Doyle,24,Male,(182) 418-2894,leroydoyle@hotmail.com,Crestor,85000,2021-09-17 12:44:00 UTC,2021-09-17 14:38:00 UTC,59500
+Shea Clarke,24,Male,1-428-720-6458,sheaclarke3039@hotmail.com,LevothyroxineSodium,75000,2022-03-08 15:21:00 UTC,2022-03-08 17:14:00 UTC,45000
+Burke Rogers,24,Male,1-172-128-5052,burkerogers476@icloud.org,Crestor,85000,2021-02-16 03:16:00 UTC,2021-02-16 05:40:00 UTC,59500
+Burke Rogers,24,Male,1-172-128-5052,burkerogers476@icloud.org,Simvastatin,110000,2021-03-28 03:16:00 UTC,2021-03-28 05:10:00 UTC,77000
+Kieran Vance,24,Male,(567) 573-2167,kieranvance7856@hotmail.net,Plavix,225000,2021-02-22 07:20:00 UTC,2021-02-22 09:44:00 UTC,100000
+Merrill Hess,24,Female,1-765-223-4564,merrillhess9711@icloud.com,Simvastatin,110000,2022-03-01 14:36:00 UTC,2022-03-01 16:30:00 UTC,77000
+Curran Benson,24,Female,(822) 812-1643,curranbenson6881@icloud.com,Synthroid,150000,2021-05-22 21:23:00 UTC,2021-05-22 23:46:00 UTC,105000
+Deacon Meyers,24,Male,1-933-588-3367,deaconmeyers@icloud.org,Crestor,85000,2021-09-13 15:41:00 UTC,2021-09-13 18:05:00 UTC,59500
+Deacon Meyers,24,Male,1-933-588-3367,deaconmeyers@icloud.org,Nexium,270000,2021-11-14 15:41:00 UTC,2021-11-14 17:35:00 UTC,94500
+Deacon Meyers,24,Male,1-933-588-3367,deaconmeyers@icloud.org,Hydrocodone/APAP,200000,2022-01-16 15:41:00 UTC,2022-01-16 17:35:00 UTC,110000
+Mason Mcclure,24,Male,(889) 264-8369,masonmcclure@icloud.net,LevothyroxineSodium,75000,2021-07-21 15:14:00 UTC,2021-07-21 17:37:00 UTC,45000
+Mason Mcclure,24,Male,(889) 264-8369,masonmcclure@icloud.net,Simvastatin,110000,2021-08-30 15:14:00 UTC,2021-08-30 17:07:00 UTC,77000
+Mason Mcclure,24,Male,(889) 264-8369,masonmcclure@icloud.net,Plavix,225000,2021-10-14 15:14:00 UTC,2021-10-14 17:07:00 UTC,100000
+Mason Mcclure,24,Male,(889) 264-8369,masonmcclure@icloud.net,Crestor,85000,2021-11-13 15:14:00 UTC,2021-11-13 17:07:00 UTC,59500
+Moses Shaffer,24,Male,1-772-339-1577,mosesshaffer@hotmail.net,Plavix,225000,2021-11-08 22:59:00 UTC,2021-11-09 01:23:00 UTC,100000
+Moses Shaffer,24,Male,1-772-339-1577,mosesshaffer@hotmail.net,Singulair,50000,2021-11-30 22:59:00 UTC,2021-12-01 00:53:00 UTC,40000
+Seth Livingston,24,Female,(265) 355-1116,sethlivingston1993@google.com,Simvastatin,110000,2021-01-31 18:20:00 UTC,2021-01-31 20:44:00 UTC,77000
+Seth Livingston,24,Female,(265) 355-1116,sethlivingston1993@google.com,Simvastatin,110000,2021-03-12 18:20:00 UTC,2021-03-12 20:13:00 UTC,77000
+Seth Livingston,24,Female,(265) 355-1116,sethlivingston1993@google.com,Plavix,225000,2021-04-13 18:20:00 UTC,2021-04-13 20:13:00 UTC,100000
+Seth Livingston,24,Female,(265) 355-1116,sethlivingston1993@google.com,Nexium,270000,2021-07-12 18:20:00 UTC,2021-07-12 20:13:00 UTC,94500
+Seth Livingston,24,Female,(265) 355-1116,sethlivingston1993@google.com,Synthroid,150000,2022-02-07 12:28:00 UTC,2022-02-07 14:52:00 UTC,105000
+Cameron Cummings,24,Male,1-698-514-1969,cameroncummings7872@hotmail.org,Plavix,225000,2021-11-05 08:30:00 UTC,2021-11-05 10:54:00 UTC,100000
+Cameron Cummings,24,Male,1-698-514-1969,cameroncummings7872@hotmail.org,Crestor,85000,2021-11-27 08:30:00 UTC,2021-11-27 10:24:00 UTC,59500
+Blaze Solis,25,Male,(838) 237-2938,blazesolis@icloud.net,Hydrocodone/APAP,200000,2021-11-13 18:54:00 UTC,2021-11-13 21:18:00 UTC,110000
+Blaze Solis,25,Male,(838) 237-2938,blazesolis@icloud.net,Hydrocodone/APAP,200000,2021-12-05 18:54:00 UTC,2021-12-05 20:48:00 UTC,110000
+Carolyn Todd,25,Female,1-411-775-7443,carolyntodd7695@google.org,Nexium,270000,2021-09-23 10:59:00 UTC,2021-09-23 13:23:00 UTC,94500
+Carolyn Todd,25,Female,1-411-775-7443,carolyntodd7695@google.org,Singulair,50000,2021-11-24 10:59:00 UTC,2021-11-24 12:53:00 UTC,40000
+Libby Spears,25,Female,1-567-286-7641,libbyspears@google.net,Plavix,225000,2021-08-19 20:56:00 UTC,2021-08-19 23:20:00 UTC,100000
+Libby Spears,25,Female,1-567-286-7641,libbyspears@google.net,Simvastatin,110000,2021-10-20 20:56:00 UTC,2021-10-20 22:50:00 UTC,77000
+Libby Spears,25,Female,1-567-286-7641,libbyspears@google.net,Plavix,225000,2021-12-04 20:56:00 UTC,2021-12-04 22:50:00 UTC,100000
+Libby Spears,25,Female,1-567-286-7641,libbyspears@google.net,Plavix,225000,2021-12-22 18:13:00 UTC,2021-12-22 20:06:00 UTC,100000
+Libby Spears,25,Female,1-567-286-7641,libbyspears@google.net,Azithromycin,125000,2022-01-03 20:56:00 UTC,2022-01-03 22:50:00 UTC,87500
+Martin Martin,25,Female,1-647-334-0509,martinmartin2098@icloud.net,LevothyroxineSodium,75000,2021-11-27 08:29:00 UTC,2021-11-27 10:53:00 UTC,45000
+Darius Terrell,25,Female,(257) 356-5457,dariusterrell9650@google.org,Nexium,270000,2021-03-05 19:45:00 UTC,2021-03-05 22:09:00 UTC,94500
+Fritz Griffith,25,Female,(601) 202-3424,fritzgriffith@google.com,Lipitor,100000,2021-09-06 18:13:00 UTC,2021-09-06 20:36:00 UTC,70000
+Fritz Griffith,25,Female,(601) 202-3424,fritzgriffith@google.com,LevothyroxineSodium,75000,2021-11-07 18:13:00 UTC,2021-11-07 20:06:00 UTC,45000
+Fritz Griffith,25,Female,(601) 202-3424,fritzgriffith@google.com,LevothyroxineSodium,75000,2022-01-11 18:13:00 UTC,2022-01-11 20:06:00 UTC,45000
+Nigel Barr,26,Male,1-493-676-3424,nigelbarr@hotmail.net,Lipitor,100000,2021-06-11 23:35:00 UTC,2021-06-12 01:59:00 UTC,70000
+Cade Hurley,26,Male,1-127-687-5537,cadehurley@google.com,Simvastatin,110000,2021-05-31 20:20:00 UTC,2021-05-31 22:44:00 UTC,77000
+Cade Hurley,26,Male,1-127-687-5537,cadehurley@google.com,Azithromycin,125000,2021-07-10 20:20:00 UTC,2021-07-10 22:14:00 UTC,87500
+Cedric Goff,26,Male,(672) 291-2347,cedricgoff5501@hotmail.org,Metoprolol Tartrate,175000,2021-05-24 17:24:00 UTC,2021-05-24 19:48:00 UTC,140000
+Cedric Goff,26,Male,(672) 291-2347,cedricgoff5501@hotmail.org,Synthroid,150000,2021-07-03 17:24:00 UTC,2021-07-03 19:18:00 UTC,105000
+Cedric Goff,26,Male,(672) 291-2347,cedricgoff5501@hotmail.org,Singulair,50000,2021-08-17 17:24:00 UTC,2021-08-17 19:18:00 UTC,40000
+Cedric Goff,26,Male,(672) 291-2347,cedricgoff5501@hotmail.org,Lipitor,100000,2021-11-01 17:24:00 UTC,2021-11-01 19:18:00 UTC,70000
+Joelle Cruz,26,Female,(706) 236-1578,joellecruz@google.net,Crestor,85000,2021-10-24 06:45:00 UTC,2021-10-24 09:09:00 UTC,59500
+Joelle Cruz,26,Female,(706) 236-1578,joellecruz@google.net,Azithromycin,125000,2021-11-15 06:45:00 UTC,2021-11-15 08:39:00 UTC,87500
+Joelle Cruz,26,Female,(706) 236-1578,joellecruz@google.net,Plavix,225000,2021-12-27 13:39:00 UTC,2021-12-27 15:32:00 UTC,100000
+Andrew Albert,26,Male,1-678-826-4851,andrewalbert@google.net,Hydrocodone/APAP,200000,2021-09-21 22:58:00 UTC,2021-09-22 01:22:00 UTC,110000
+Andrew Albert,26,Male,1-678-826-4851,andrewalbert@google.net,Synthroid,150000,2021-11-22 22:58:00 UTC,2021-11-23 00:52:00 UTC,105000
+Andrew Albert,26,Male,1-678-826-4851,andrewalbert@google.net,Azithromycin,125000,2021-12-15 22:58:00 UTC,2021-12-16 00:52:00 UTC,87500
+Heather Ayala,26,Male,1-936-437-3553,heatherayala8636@google.org,Azithromycin,125000,2021-12-12 19:22:00 UTC,2021-12-12 21:45:00 UTC,87500
+Heather Ayala,26,Male,1-936-437-3553,heatherayala8636@google.org,Hydrocodone/APAP,200000,2022-01-03 19:22:00 UTC,2022-01-03 21:15:00 UTC,110000
+Renee O'brien,26,Female,1-867-386-3267,reneeobrien3139@google.net,Hydrocodone/APAP,200000,2021-04-24 08:24:00 UTC,2021-04-24 10:48:00 UTC,110000
+Renee O'brien,26,Female,1-867-386-3267,reneeobrien3139@google.net,Crestor,85000,2021-06-03 08:24:00 UTC,2021-06-03 10:18:00 UTC,59500
+Renee O'brien,26,Female,1-867-386-3267,reneeobrien3139@google.net,Plavix,225000,2021-07-18 08:24:00 UTC,2021-07-18 10:18:00 UTC,100000
+Renee O'brien,26,Female,1-867-386-3267,reneeobrien3139@google.net,LevothyroxineSodium,75000,2021-10-02 08:24:00 UTC,2021-10-02 10:18:00 UTC,45000
+Elaine Randall,26,Male,1-851-475-7859,elainerandall@google.com,Azithromycin,125000,2021-01-06 06:55:00 UTC,2021-01-06 09:19:00 UTC,87500
+Elaine Randall,26,Male,1-851-475-7859,elainerandall@google.com,Singulair,50000,2021-02-15 06:55:00 UTC,2021-02-15 08:49:00 UTC,40000
+Elaine Randall,26,Male,1-851-475-7859,elainerandall@google.com,Singulair,50000,2021-03-19 06:55:00 UTC,2021-03-19 08:49:00 UTC,40000
+Elaine Randall,26,Male,1-851-475-7859,elainerandall@google.com,Synthroid,150000,2022-01-19 02:23:00 UTC,2022-01-19 04:47:00 UTC,105000
+Elaine Randall,26,Male,1-851-475-7859,elainerandall@google.com,Hydrocodone/APAP,200000,2022-02-23 01:53:00 UTC,2022-02-23 04:16:00 UTC,110000
+Tiger Peterson,26,Male,(133) 525-1277,tigerpeterson@google.net,Nexium,270000,2021-01-26 14:23:00 UTC,2021-01-26 16:47:00 UTC,94500
+Tiger Peterson,26,Male,(133) 525-1277,tigerpeterson@google.net,Lipitor,100000,2021-03-07 14:23:00 UTC,2021-03-07 16:17:00 UTC,70000
+Tiger Peterson,26,Male,(133) 525-1277,tigerpeterson@google.net,Hydrocodone/APAP,200000,2022-02-02 20:33:00 UTC,2022-02-02 22:57:00 UTC,110000
+Heidi Jefferson,26,Female,(753) 133-1451,heidijefferson@hotmail.net,Simvastatin,110000,2021-02-16 21:07:00 UTC,2021-02-16 23:31:00 UTC,77000
+Heidi Jefferson,26,Female,(753) 133-1451,heidijefferson@hotmail.net,Nexium,270000,2021-03-28 21:07:00 UTC,2021-03-28 23:01:00 UTC,94500
+Heidi Jefferson,26,Female,(753) 133-1451,heidijefferson@hotmail.net,Hydrocodone/APAP,200000,2021-04-29 21:07:00 UTC,2021-04-29 23:01:00 UTC,110000
+Imani Gutierrez,26,Female,(687) 445-9140,imanigutierrez@google.net,Nexium,270000,2021-01-19 07:27:00 UTC,2021-01-19 09:51:00 UTC,94500
+Imani Gutierrez,26,Female,(687) 445-9140,imanigutierrez@google.net,Crestor,85000,2022-01-28 05:36:00 UTC,2022-01-28 07:30:00 UTC,59500
+Denton Davenport,26,Female,(540) 237-7621,dentondavenport@icloud.org,Hydrocodone/APAP,200000,2021-04-18 14:42:00 UTC,2021-04-18 17:06:00 UTC,110000
+Denton Davenport,26,Female,(540) 237-7621,dentondavenport@icloud.org,Synthroid,150000,2021-05-28 14:42:00 UTC,2021-05-28 16:36:00 UTC,105000
+Denton Davenport,26,Female,(540) 237-7621,dentondavenport@icloud.org,Metoprolol Tartrate,175000,2021-06-29 14:42:00 UTC,2021-06-29 16:36:00 UTC,140000
+Denton Davenport,26,Female,(540) 237-7621,dentondavenport@icloud.org,LevothyroxineSodium,75000,2021-09-27 14:42:00 UTC,2021-09-27 16:36:00 UTC,45000
+Haviva Wilkerson,26,Female,(244) 175-2974,havivawilkerson252@hotmail.com,LevothyroxineSodium,75000,2021-07-05 00:24:00 UTC,2021-07-05 02:48:00 UTC,45000
+Nadine Contreras,26,Male,1-458-621-6527,nadinecontreras1769@icloud.org,Nexium,270000,2021-11-27 07:54:00 UTC,2021-11-27 10:18:00 UTC,94500
+Guinevere Summers,26,Female,(377) 826-7477,guineveresummers45@icloud.net,Lipitor,100000,2021-10-10 21:30:00 UTC,2021-10-10 23:54:00 UTC,70000
+Guinevere Summers,26,Female,(377) 826-7477,guineveresummers45@icloud.net,Nexium,270000,2021-11-01 21:30:00 UTC,2021-11-01 23:24:00 UTC,94500
+Carly Sims,27,Female,(211) 644-5143,carlysims@hotmail.org,LevothyroxineSodium,75000,2022-03-09 13:56:00 UTC,2022-03-09 16:20:00 UTC,45000
+Libby Chen,27,Female,(782) 822-0765,libbychen@google.net,LevothyroxineSodium,75000,2021-06-14 03:25:00 UTC,2021-06-14 05:49:00 UTC,45000
+Logan Pate,27,Female,(683) 754-3572,loganpate@icloud.org,Simvastatin,110000,2021-10-05 11:16:00 UTC,2021-10-05 13:40:00 UTC,77000
+Logan Pate,27,Female,(683) 754-3572,loganpate@icloud.org,LevothyroxineSodium,75000,2021-10-27 11:16:00 UTC,2021-10-27 13:10:00 UTC,45000
+Logan Pate,27,Female,(683) 754-3572,loganpate@icloud.org,Lipitor,100000,2021-11-19 11:16:00 UTC,2021-11-19 13:10:00 UTC,70000
+Logan Pate,27,Female,(683) 754-3572,loganpate@icloud.org,Lipitor,100000,2021-12-31 20:52:00 UTC,2021-12-31 23:16:00 UTC,70000
+Tanya Noble,27,Female,(311) 665-3543,tanyanoble@google.com,Metoprolol Tartrate,175000,2021-10-18 06:34:00 UTC,2021-10-18 08:58:00 UTC,140000
+Tanya Noble,27,Female,(311) 665-3543,tanyanoble@google.com,Nexium,270000,2021-11-09 06:34:00 UTC,2021-11-09 08:28:00 UTC,94500
+Tanya Noble,27,Female,(311) 665-3543,tanyanoble@google.com,Singulair,50000,2021-12-17 18:05:00 UTC,2021-12-17 19:59:00 UTC,40000
+Wing Lambert,27,Female,1-129-372-8483,winglambert@hotmail.com,Simvastatin,110000,2021-01-17 09:36:00 UTC,2021-01-17 12:00:00 UTC,77000
+Wing Lambert,27,Female,1-129-372-8483,winglambert@hotmail.com,Plavix,225000,2022-01-27 15:24:00 UTC,2022-01-27 17:48:00 UTC,100000
+Larissa Nolan,27,Female,1-263-768-5225,larissanolan443@hotmail.net,Nexium,270000,2021-01-11 09:37:00 UTC,2021-01-11 12:01:00 UTC,94500
+Larissa Nolan,27,Female,1-263-768-5225,larissanolan443@hotmail.net,Nexium,270000,2022-01-25 18:02:00 UTC,2022-01-25 19:55:00 UTC,94500
+Tiger Alvarez,27,Female,1-591-782-3512,tigeralvarez@icloud.net,Singulair,50000,2021-01-13 20:44:00 UTC,2021-01-13 23:08:00 UTC,40000
+Tiger Alvarez,27,Female,1-591-782-3512,tigeralvarez@icloud.net,Singulair,50000,2022-01-27 02:31:00 UTC,2022-01-27 04:24:00 UTC,40000
+Desiree Levine,27,Male,1-851-110-1443,desireelevine9711@google.com,Nexium,270000,2021-10-15 09:28:00 UTC,2021-10-15 11:52:00 UTC,94500
+Desiree Levine,27,Male,1-851-110-1443,desireelevine9711@google.com,Metoprolol Tartrate,175000,2021-11-06 09:28:00 UTC,2021-11-06 11:22:00 UTC,140000
+Kessie Allison,27,Male,(568) 563-1321,kessieallison1484@google.org,Lipitor,100000,2022-03-16 07:06:00 UTC,2022-03-16 09:30:00 UTC,70000
+Kuame Hamilton,27,Female,1-461-235-2674,kuamehamilton@hotmail.org,Hydrocodone/APAP,200000,2021-08-20 10:53:00 UTC,2021-08-20 13:17:00 UTC,110000
+Kuame Hamilton,27,Female,1-461-235-2674,kuamehamilton@hotmail.org,Metoprolol Tartrate,175000,2021-10-21 10:53:00 UTC,2021-10-21 12:47:00 UTC,140000
+Kuame Hamilton,27,Female,1-461-235-2674,kuamehamilton@hotmail.org,Plavix,225000,2021-12-05 10:53:00 UTC,2021-12-05 12:47:00 UTC,100000
+Kuame Hamilton,27,Female,1-461-235-2674,kuamehamilton@hotmail.org,Crestor,85000,2021-12-23 01:56:00 UTC,2021-12-23 03:50:00 UTC,59500
+Kuame Hamilton,27,Female,1-461-235-2674,kuamehamilton@hotmail.org,Lipitor,100000,2022-01-04 10:53:00 UTC,2022-01-04 12:47:00 UTC,70000
+Carly Donaldson,27,Male,1-719-935-1677,carlydonaldson@icloud.org,Hydrocodone/APAP,200000,2022-03-11 12:59:00 UTC,2022-03-11 15:23:00 UTC,110000
+Jayme Livingston,27,Female,(257) 463-4675,jaymelivingston@hotmail.com,LevothyroxineSodium,75000,2021-11-22 04:37:00 UTC,2021-11-22 07:01:00 UTC,45000
+Jayme Livingston,27,Female,(257) 463-4675,jaymelivingston@hotmail.com,Crestor,85000,2021-12-14 04:37:00 UTC,2021-12-14 06:31:00 UTC,59500
+Evangeline Mullen,27,Female,(583) 745-1667,evangelinemullen3377@google.com,Simvastatin,110000,2021-03-22 17:09:00 UTC,2021-03-22 19:33:00 UTC,77000
+Evangeline Mullen,27,Female,(583) 745-1667,evangelinemullen3377@google.com,Hydrocodone/APAP,200000,2021-05-01 17:09:00 UTC,2021-05-01 19:03:00 UTC,110000
+Evangeline Mullen,27,Female,(583) 745-1667,evangelinemullen3377@google.com,Simvastatin,110000,2021-06-02 17:09:00 UTC,2021-06-02 19:03:00 UTC,77000
+Evangeline Mullen,27,Female,(583) 745-1667,evangelinemullen3377@google.com,Singulair,50000,2021-08-31 17:09:00 UTC,2021-08-31 19:03:00 UTC,40000
+May Marsh,28,Female,1-977-673-1325,maymarsh5420@icloud.org,LevothyroxineSodium,75000,2022-02-28 13:11:00 UTC,2022-02-28 15:05:00 UTC,45000
+Aileen Rios,28,Male,1-345-292-1436,aileenrios@hotmail.org,Plavix,225000,2021-01-24 22:49:00 UTC,2021-01-25 01:13:00 UTC,100000
+Aileen Rios,28,Male,1-345-292-1436,aileenrios@hotmail.org,Nexium,270000,2021-03-05 22:49:00 UTC,2021-03-06 00:42:00 UTC,94500
+Aileen Rios,28,Male,1-345-292-1436,aileenrios@hotmail.org,Nexium,270000,2022-02-01 06:28:00 UTC,2022-02-01 08:52:00 UTC,94500
+Meghan Koch,28,Female,1-211-764-3522,meghankoch@icloud.org,LevothyroxineSodium,75000,2021-10-05 13:16:00 UTC,2021-10-05 15:40:00 UTC,45000
+Meghan Koch,28,Female,1-211-764-3522,meghankoch@icloud.org,Singulair,50000,2021-10-27 13:16:00 UTC,2021-10-27 15:10:00 UTC,40000
+Meghan Koch,28,Female,1-211-764-3522,meghankoch@icloud.org,Singulair,50000,2022-01-01 03:03:00 UTC,2022-01-01 04:57:00 UTC,40000
+Hakeem Allen,28,Female,1-344-718-3485,hakeemallen3564@hotmail.org,Simvastatin,110000,2021-07-31 12:48:00 UTC,2021-07-31 15:12:00 UTC,77000
+Hakeem Allen,28,Female,1-344-718-3485,hakeemallen3564@hotmail.org,LevothyroxineSodium,75000,2021-09-09 12:48:00 UTC,2021-09-09 14:41:00 UTC,45000
+Hilda Flores,28,Female,1-359-615-6884,hildaflores6419@icloud.com,Azithromycin,125000,2021-07-09 13:50:00 UTC,2021-07-09 16:14:00 UTC,87500
+Jameson Cole,28,Male,1-561-729-8655,jamesoncole@hotmail.org,Simvastatin,110000,2021-10-04 06:31:00 UTC,2021-10-04 08:55:00 UTC,77000
+Jameson Cole,28,Male,1-561-729-8655,jamesoncole@hotmail.org,Lipitor,100000,2021-10-26 06:31:00 UTC,2021-10-26 08:25:00 UTC,70000
+Jameson Cole,28,Male,1-561-729-8655,jamesoncole@hotmail.org,Synthroid,150000,2021-11-18 06:31:00 UTC,2021-11-18 08:25:00 UTC,105000
+Jameson Cole,28,Male,1-561-729-8655,jamesoncole@hotmail.org,Nexium,270000,2021-12-29 09:28:00 UTC,2021-12-29 11:22:00 UTC,94500
+Kevin Alston,28,Male,(867) 517-5607,kevinalston1105@icloud.net,Simvastatin,110000,2021-07-25 19:05:00 UTC,2021-07-25 21:29:00 UTC,77000
+Kevin Alston,28,Male,(867) 517-5607,kevinalston1105@icloud.net,Lipitor,100000,2021-09-03 19:05:00 UTC,2021-09-03 20:59:00 UTC,70000
+Kevin Alston,28,Male,(867) 517-5607,kevinalston1105@icloud.net,Lipitor,100000,2021-10-18 19:05:00 UTC,2021-10-18 20:59:00 UTC,70000
+Kevin Alston,28,Male,(867) 517-5607,kevinalston1105@icloud.net,Plavix,225000,2021-12-18 02:31:00 UTC,2021-12-18 04:54:00 UTC,100000
+Oscar Fields,28,Male,(856) 490-6381,oscarfields@hotmail.com,Nexium,270000,2021-01-29 04:07:00 UTC,2021-01-29 06:31:00 UTC,94500
+Oscar Fields,28,Male,(856) 490-6381,oscarfields@hotmail.com,LevothyroxineSodium,75000,2021-03-10 04:07:00 UTC,2021-03-10 06:01:00 UTC,45000
+Oscar Fields,28,Male,(856) 490-6381,oscarfields@hotmail.com,Singulair,50000,2021-04-11 04:07:00 UTC,2021-04-11 06:01:00 UTC,40000
+Oscar Fields,28,Male,(856) 490-6381,oscarfields@hotmail.com,Nexium,270000,2021-07-10 04:07:00 UTC,2021-07-10 06:01:00 UTC,94500
+Oscar Fields,28,Male,(856) 490-6381,oscarfields@hotmail.com,Hydrocodone/APAP,200000,2022-02-05 07:13:00 UTC,2022-02-05 09:07:00 UTC,110000
+Rafael Hogan,28,Female,(807) 137-4831,rafaelhogan@google.org,Hydrocodone/APAP,200000,2021-04-02 08:48:00 UTC,2021-04-02 11:12:00 UTC,110000
+Rafael Hogan,28,Female,(807) 137-4831,rafaelhogan@google.org,Nexium,270000,2021-05-12 08:48:00 UTC,2021-05-12 10:41:00 UTC,94500
+Rafael Hogan,28,Female,(807) 137-4831,rafaelhogan@google.org,Simvastatin,110000,2021-06-13 08:48:00 UTC,2021-06-13 10:41:00 UTC,77000
+Rafael Hogan,28,Female,(807) 137-4831,rafaelhogan@google.org,Synthroid,150000,2021-09-11 08:48:00 UTC,2021-09-11 10:41:00 UTC,105000
+Stacy Harmon,28,Female,(143) 481-9147,stacyharmon@icloud.net,Simvastatin,110000,2021-05-14 20:59:00 UTC,2021-05-14 23:23:00 UTC,77000
+Stone Forbes,28,Female,1-336-773-8756,stoneforbes6309@google.org,Nexium,270000,2022-01-02 20:03:00 UTC,2022-01-02 22:27:00 UTC,94500
+Ashton Warner,28,Male,(739) 920-3612,ashtonwarner@hotmail.com,Singulair,50000,2021-10-23 12:07:00 UTC,2021-10-23 14:31:00 UTC,40000
+Ashton Warner,28,Male,(739) 920-3612,ashtonwarner@hotmail.com,Simvastatin,110000,2021-11-14 12:07:00 UTC,2021-11-14 14:01:00 UTC,77000
+Ashton Warner,28,Male,(739) 920-3612,ashtonwarner@hotmail.com,Hydrocodone/APAP,200000,2021-12-25 16:55:00 UTC,2021-12-25 18:49:00 UTC,110000
+Elton Summers,28,Female,1-381-618-2244,eltonsummers@icloud.net,Metoprolol Tartrate,175000,2021-09-29 06:53:00 UTC,2021-09-29 09:16:00 UTC,140000
+Elton Summers,28,Female,1-381-618-2244,eltonsummers@icloud.net,Singulair,50000,2021-10-21 06:53:00 UTC,2021-10-21 08:46:00 UTC,40000
+Elton Summers,28,Female,1-381-618-2244,eltonsummers@icloud.net,Azithromycin,125000,2021-11-13 06:53:00 UTC,2021-11-13 08:46:00 UTC,87500
+Elton Summers,28,Female,1-381-618-2244,eltonsummers@icloud.net,Synthroid,150000,2021-12-22 23:45:00 UTC,2021-12-23 01:39:00 UTC,105000
+Ryder Fischer,28,Female,(398) 784-7181,ryderfischer@hotmail.org,Hydrocodone/APAP,200000,2022-03-12 17:31:00 UTC,2022-03-12 19:25:00 UTC,110000
+Stewart Hinton,28,Male,1-538-427-6045,stewarthinton9269@google.net,Azithromycin,125000,2021-11-25 18:05:00 UTC,2021-11-25 20:29:00 UTC,87500
+Garrett Clayton,28,Male,1-527-462-7566,garrettclayton4641@icloud.com,Azithromycin,125000,2021-02-10 06:03:00 UTC,2021-02-10 08:26:00 UTC,87500
+Garrett Clayton,28,Male,1-527-462-7566,garrettclayton4641@icloud.com,Lipitor,100000,2021-03-22 06:03:00 UTC,2021-03-22 07:56:00 UTC,70000
+Garrett Clayton,28,Male,1-527-462-7566,garrettclayton4641@icloud.com,Nexium,270000,2022-02-18 03:08:00 UTC,2022-02-18 05:02:00 UTC,94500
+Harding Jimenez,28,Male,1-747-436-0106,hardingjimenez8882@google.org,Azithromycin,125000,2021-02-19 05:38:00 UTC,2021-02-19 08:02:00 UTC,87500
+Harding Jimenez,28,Male,1-747-436-0106,hardingjimenez8882@google.org,Hydrocodone/APAP,200000,2021-03-31 05:38:00 UTC,2021-03-31 07:32:00 UTC,110000
+Harding Jimenez,28,Male,1-747-436-0106,hardingjimenez8882@google.org,LevothyroxineSodium,75000,2021-05-02 05:38:00 UTC,2021-05-02 07:32:00 UTC,45000
+Macaulay Donaldson,28,Male,(346) 377-2526,macaulaydonaldson@hotmail.com,Simvastatin,110000,2021-02-01 22:43:00 UTC,2021-02-02 01:07:00 UTC,77000
+Macaulay Donaldson,28,Male,(346) 377-2526,macaulaydonaldson@hotmail.com,LevothyroxineSodium,75000,2021-03-13 22:43:00 UTC,2021-03-14 00:37:00 UTC,45000
+Macaulay Donaldson,28,Male,(346) 377-2526,macaulaydonaldson@hotmail.com,Plavix,225000,2022-02-07 19:16:00 UTC,2022-02-07 21:40:00 UTC,100000
+Salvador Frederick,28,Female,(545) 494-3427,salvadorfrederick8108@hotmail.org,Synthroid,150000,2021-03-31 16:26:00 UTC,2021-03-31 18:50:00 UTC,105000
+Salvador Frederick,28,Female,(545) 494-3427,salvadorfrederick8108@hotmail.org,Nexium,270000,2021-05-10 16:26:00 UTC,2021-05-10 18:20:00 UTC,94500
+McKenzie Mccullough,28,Male,1-783-559-7762,mckenziemccullough@google.net,Hydrocodone/APAP,200000,2021-02-19 11:24:00 UTC,2021-02-19 13:48:00 UTC,110000
+Asher Best,29,Female,1-784-325-4527,asherbest@google.org,Hydrocodone/APAP,200000,2021-09-14 06:52:00 UTC,2021-09-14 09:15:00 UTC,110000
+Asher Best,29,Female,1-784-325-4527,asherbest@google.org,Hydrocodone/APAP,200000,2021-11-15 06:52:00 UTC,2021-11-15 08:45:00 UTC,110000
+Asher Best,29,Female,1-784-325-4527,asherbest@google.org,Crestor,85000,2022-01-17 06:52:00 UTC,2022-01-17 08:45:00 UTC,59500
+Moses Hyde,29,Male,1-768-862-6056,moseshyde29@google.com,Synthroid,150000,2021-04-10 11:27:00 UTC,2021-04-10 13:51:00 UTC,105000
+Moses Hyde,29,Male,1-768-862-6056,moseshyde29@google.com,Hydrocodone/APAP,200000,2021-05-20 11:27:00 UTC,2021-05-20 13:21:00 UTC,110000
+Moses Hyde,29,Male,1-768-862-6056,moseshyde29@google.com,Simvastatin,110000,2021-06-21 11:27:00 UTC,2021-06-21 13:21:00 UTC,77000
+Cairo Weeks,29,Male,(712) 754-6347,cairoweeks1226@icloud.org,Singulair,50000,2021-07-04 10:31:00 UTC,2021-07-04 12:55:00 UTC,40000
+Ivan Fuller,29,Male,(797) 632-4576,ivanfuller6925@hotmail.com,Simvastatin,110000,2022-03-17 00:28:00 UTC,2022-03-17 02:51:00 UTC,77000
+Neve Branch,29,Female,1-898-781-1467,nevebranch@google.com,Crestor,85000,2021-08-03 17:54:00 UTC,2021-08-03 20:18:00 UTC,59500
+Neve Branch,29,Female,1-898-781-1467,nevebranch@google.com,Singulair,50000,2021-09-12 17:54:00 UTC,2021-09-12 19:48:00 UTC,40000
+Jeremy Quinn,29,Female,1-720-660-6728,jeremyquinn@icloud.org,Synthroid,150000,2021-10-24 22:09:00 UTC,2021-10-25 00:33:00 UTC,105000
+Jeremy Quinn,29,Female,1-720-660-6728,jeremyquinn@icloud.org,Lipitor,100000,2021-11-15 22:09:00 UTC,2021-11-16 00:03:00 UTC,70000
+Jeremy Quinn,29,Female,1-720-660-6728,jeremyquinn@icloud.org,Metoprolol Tartrate,175000,2021-12-28 06:02:00 UTC,2021-12-28 07:55:00 UTC,140000
+Leila Peters,29,Male,1-855-558-2133,leilapeters4173@icloud.net,Nexium,270000,2021-10-20 10:44:00 UTC,2021-10-20 13:07:00 UTC,94500
+Leila Peters,29,Male,1-855-558-2133,leilapeters4173@icloud.net,Synthroid,150000,2021-11-11 10:44:00 UTC,2021-11-11 12:37:00 UTC,105000
+Leila Peters,29,Male,1-855-558-2133,leilapeters4173@icloud.net,Plavix,225000,2021-12-21 11:42:00 UTC,2021-12-21 13:35:00 UTC,100000
+Chaney Albert,29,Male,(697) 382-2853,chaneyalbert@google.net,Singulair,50000,2022-03-11 00:20:00 UTC,2022-03-11 02:43:00 UTC,40000
+Colorado Wynn,29,Female,1-898-738-5004,coloradowynn@google.com,Lipitor,100000,2021-08-22 20:29:00 UTC,2021-08-22 22:53:00 UTC,70000
+Colorado Wynn,29,Female,1-898-738-5004,coloradowynn@google.com,Nexium,270000,2021-10-23 20:29:00 UTC,2021-10-23 22:23:00 UTC,94500
+Colorado Wynn,29,Female,1-898-738-5004,coloradowynn@google.com,Simvastatin,110000,2021-12-07 20:29:00 UTC,2021-12-07 22:23:00 UTC,77000
+Colorado Wynn,29,Female,1-898-738-5004,coloradowynn@google.com,Singulair,50000,2021-12-27 00:35:00 UTC,2021-12-27 02:29:00 UTC,40000
+Gregory Foley,29,Male,(746) 778-5425,gregoryfoley@google.com,Simvastatin,110000,2021-11-10 09:12:00 UTC,2021-11-10 11:36:00 UTC,77000
+Gregory Foley,29,Male,(746) 778-5425,gregoryfoley@google.com,LevothyroxineSodium,75000,2021-12-02 09:12:00 UTC,2021-12-02 11:06:00 UTC,45000
+Jillian Mccoy,29,Male,(323) 375-2839,jillianmccoy@icloud.com,Synthroid,150000,2021-10-23 17:29:00 UTC,2021-10-23 19:53:00 UTC,105000
+Jillian Mccoy,29,Male,(323) 375-2839,jillianmccoy@icloud.com,Crestor,85000,2021-11-14 17:29:00 UTC,2021-11-14 19:23:00 UTC,59500
+Jillian Mccoy,29,Male,(323) 375-2839,jillianmccoy@icloud.com,Crestor,85000,2021-12-26 03:46:00 UTC,2021-12-26 06:10:00 UTC,59500
+Kylee Michael,29,Male,(343) 878-3836,kyleemichael@google.org,Synthroid,150000,2021-03-12 20:41:00 UTC,2021-03-12 23:05:00 UTC,105000
+Mechelle Cole,29,Female,(686) 249-2833,mechellecole@hotmail.org,Lipitor,100000,2021-06-05 06:11:00 UTC,2021-06-05 08:35:00 UTC,70000
+Baker Robinson,29,Female,(503) 635-1322,bakerrobinson136@google.com,LevothyroxineSodium,75000,2021-06-06 18:21:00 UTC,2021-06-06 20:45:00 UTC,45000
+Calista Hughes,29,Male,(432) 813-3615,calistahughes4719@icloud.org,Nexium,270000,2021-08-01 21:45:00 UTC,2021-08-02 00:09:00 UTC,94500
+Calista Hughes,29,Male,(432) 813-3615,calistahughes4719@icloud.org,LevothyroxineSodium,75000,2021-09-10 21:45:00 UTC,2021-09-10 23:39:00 UTC,45000
+Simon Valentine,29,Female,(911) 295-1762,simonvalentine9896@google.com,Hydrocodone/APAP,200000,2021-05-18 11:12:00 UTC,2021-05-18 13:35:00 UTC,110000
+Jacqueline Mcmillan,29,Female,(844) 664-6830,jacquelinemcmillan@google.net,LevothyroxineSodium,75000,2021-07-16 08:22:00 UTC,2021-07-16 10:46:00 UTC,45000
+Brent Cruz,30,Female,1-287-577-7845,brentcruz@hotmail.com,Synthroid,150000,2021-12-05 08:40:00 UTC,2021-12-05 11:04:00 UTC,105000
+Cadman Rosa,30,Female,1-771-704-6236,cadmanrosa@icloud.com,Nexium,270000,2021-10-21 01:33:00 UTC,2021-10-21 03:57:00 UTC,94500
+Cadman Rosa,30,Female,1-771-704-6236,cadmanrosa@icloud.com,Lipitor,100000,2021-11-12 01:33:00 UTC,2021-11-12 03:27:00 UTC,70000
+Cadman Rosa,30,Female,1-771-704-6236,cadmanrosa@icloud.com,LevothyroxineSodium,75000,2021-12-22 23:33:00 UTC,2021-12-23 01:57:00 UTC,45000
+Jin Robbins,30,Female,1-624-364-7888,jinrobbins9676@hotmail.org,Azithromycin,125000,2021-06-04 16:13:00 UTC,2021-06-04 18:37:00 UTC,87500
+Ivy Jefferson,30,Male,1-370-744-4773,ivyjefferson3778@icloud.com,Singulair,50000,2021-01-08 00:21:00 UTC,2021-01-08 02:44:00 UTC,40000
+Ivy Jefferson,30,Male,1-370-744-4773,ivyjefferson3778@icloud.com,Crestor,85000,2022-01-19 13:11:00 UTC,2022-01-19 15:35:00 UTC,59500
+Nyssa Shields,30,Female,1-562-805-3843,nyssashields652@hotmail.net,Lipitor,100000,2021-03-02 18:41:00 UTC,2021-03-02 21:05:00 UTC,70000
+Ronan Barrett,30,Female,1-768-234-9797,ronanbarrett6005@icloud.org,Hydrocodone/APAP,200000,2021-09-05 11:42:00 UTC,2021-09-05 14:05:00 UTC,110000
+Ronan Barrett,30,Female,1-768-234-9797,ronanbarrett6005@icloud.org,Lipitor,100000,2021-11-06 11:42:00 UTC,2021-11-06 13:35:00 UTC,70000
+Ronan Barrett,30,Female,1-768-234-9797,ronanbarrett6005@icloud.org,Metoprolol Tartrate,175000,2022-01-10 11:42:00 UTC,2022-01-10 13:35:00 UTC,140000
+Xena Bartlett,30,Male,1-751-505-7536,xenabartlett8189@google.com,Metoprolol Tartrate,175000,2021-01-31 05:49:00 UTC,2021-01-31 08:13:00 UTC,140000
+Xena Bartlett,30,Male,1-751-505-7536,xenabartlett8189@google.com,Nexium,270000,2021-03-12 05:49:00 UTC,2021-03-12 07:43:00 UTC,94500
+Xena Bartlett,30,Male,1-751-505-7536,xenabartlett8189@google.com,Azithromycin,125000,2021-04-13 05:49:00 UTC,2021-04-13 07:43:00 UTC,87500
+Xena Bartlett,30,Male,1-751-505-7536,xenabartlett8189@google.com,Plavix,225000,2021-07-12 05:49:00 UTC,2021-07-12 07:43:00 UTC,100000
+Xena Bartlett,30,Male,1-751-505-7536,xenabartlett8189@google.com,Nexium,270000,2022-02-06 17:45:00 UTC,2022-02-06 20:09:00 UTC,94500
+Orli Whitfield,30,Male,1-473-274-5887,orliwhitfield3519@google.net,Azithromycin,125000,2021-06-09 05:06:00 UTC,2021-06-09 07:30:00 UTC,87500
+Lillian Ramirez,30,Male,1-702-895-6659,lillianramirez@google.net,Lipitor,100000,2021-11-11 15:08:00 UTC,2021-11-11 17:32:00 UTC,70000
+Lillian Ramirez,30,Male,1-702-895-6659,lillianramirez@google.net,Hydrocodone/APAP,200000,2021-12-03 15:08:00 UTC,2021-12-03 17:02:00 UTC,110000
+Azalia Bird,31,Female,1-662-865-3833,azaliabird@hotmail.net,Azithromycin,125000,2021-03-04 17:43:00 UTC,2021-03-04 20:06:00 UTC,87500
+Blaze Blake,31,Female,(942) 162-0554,blazeblake@hotmail.com,Hydrocodone/APAP,200000,2021-08-26 01:39:00 UTC,2021-08-26 04:03:00 UTC,110000
+Blaze Blake,31,Female,(942) 162-0554,blazeblake@hotmail.com,Synthroid,150000,2021-10-27 01:39:00 UTC,2021-10-27 03:33:00 UTC,105000
+Blaze Blake,31,Female,(942) 162-0554,blazeblake@hotmail.com,Simvastatin,110000,2021-12-11 01:39:00 UTC,2021-12-11 03:33:00 UTC,77000
+Blaze Blake,31,Female,(942) 162-0554,blazeblake@hotmail.com,Synthroid,150000,2021-12-31 15:22:00 UTC,2021-12-31 17:45:00 UTC,105000
+Pascale Gay,31,Female,(954) 946-7849,pascalegay@icloud.com,LevothyroxineSodium,75000,2021-10-12 08:55:00 UTC,2021-10-12 11:19:00 UTC,45000
+Pascale Gay,31,Female,(954) 946-7849,pascalegay@icloud.com,LevothyroxineSodium,75000,2021-11-03 08:55:00 UTC,2021-11-03 10:49:00 UTC,45000
+Abra Camacho,31,Male,(667) 237-6346,abracamacho2707@icloud.com,Singulair,50000,2021-09-13 07:48:00 UTC,2021-09-13 10:12:00 UTC,40000
+Abra Camacho,31,Male,(667) 237-6346,abracamacho2707@icloud.com,Singulair,50000,2021-11-14 07:48:00 UTC,2021-11-14 09:42:00 UTC,40000
+Abra Camacho,31,Male,(667) 237-6346,abracamacho2707@icloud.com,Plavix,225000,2022-01-16 07:48:00 UTC,2022-01-16 09:42:00 UTC,100000
+Zena Hawkins,31,Female,1-686-282-5347,zenahawkins@google.net,Azithromycin,125000,2021-02-19 07:40:00 UTC,2021-02-19 10:04:00 UTC,87500
+Zena Hawkins,31,Female,1-686-282-5347,zenahawkins@google.net,Hydrocodone/APAP,200000,2021-03-31 07:40:00 UTC,2021-03-31 09:34:00 UTC,110000
+Zena Hawkins,31,Female,1-686-282-5347,zenahawkins@google.net,Nexium,270000,2021-05-02 07:40:00 UTC,2021-05-02 09:34:00 UTC,94500
+Stacey Pruitt,31,Male,(373) 701-2925,staceypruitt1001@hotmail.org,Hydrocodone/APAP,200000,2022-01-03 06:04:00 UTC,2022-01-03 08:28:00 UTC,110000
+Thomas Chavez,31,Male,(328) 353-2408,thomaschavez1315@icloud.com,Singulair,50000,2021-08-16 09:01:00 UTC,2021-08-16 11:24:00 UTC,40000
+Thomas Chavez,31,Male,(328) 353-2408,thomaschavez1315@icloud.com,Simvastatin,110000,2021-10-17 09:01:00 UTC,2021-10-17 10:54:00 UTC,77000
+Cathleen Mooney,31,Male,1-388-937-2945,cathleenmooney9311@icloud.net,Plavix,225000,2022-03-08 15:24:00 UTC,2022-03-08 17:17:00 UTC,100000
+Tamekah Campbell,31,Female,(503) 583-7646,tamekahcampbell@icloud.com,Lipitor,100000,2021-07-30 16:31:00 UTC,2021-07-30 18:55:00 UTC,70000
+Tamekah Campbell,31,Female,(503) 583-7646,tamekahcampbell@icloud.com,Synthroid,150000,2021-09-08 16:31:00 UTC,2021-09-08 18:25:00 UTC,105000
+Jin Wong,32,Female,1-928-666-4066,jinwong@icloud.com,Crestor,85000,2021-05-04 05:06:00 UTC,2021-05-04 07:29:00 UTC,59500
+Jin Wong,32,Female,1-928-666-4066,jinwong@icloud.com,LevothyroxineSodium,75000,2021-06-13 05:06:00 UTC,2021-06-13 06:59:00 UTC,45000
+Jin Wong,32,Female,1-928-666-4066,jinwong@icloud.com,Hydrocodone/APAP,200000,2021-07-28 05:06:00 UTC,2021-07-28 06:59:00 UTC,110000
+Jin Curry,32,Male,1-302-985-1213,jincurry@hotmail.net,Simvastatin,110000,2021-12-06 06:02:00 UTC,2021-12-06 08:25:00 UTC,77000
+Aimee Noble,32,Female,(653) 678-1667,aimeenoble@hotmail.com,Metoprolol Tartrate,175000,2021-07-02 00:14:00 UTC,2021-07-02 02:37:00 UTC,140000
+Nola Cherry,32,Female,(985) 583-1132,nolacherry@google.net,Hydrocodone/APAP,200000,2021-08-19 09:41:00 UTC,2021-08-19 12:05:00 UTC,110000
+Nola Cherry,32,Female,(985) 583-1132,nolacherry@google.net,Lipitor,100000,2021-10-20 09:41:00 UTC,2021-10-20 11:34:00 UTC,70000
+Nola Cherry,32,Female,(985) 583-1132,nolacherry@google.net,LevothyroxineSodium,75000,2021-12-21 09:45:00 UTC,2021-12-21 11:38:00 UTC,45000
+Hillary Kirk,32,Male,1-531-497-1288,hillarykirk@google.org,Azithromycin,125000,2022-03-02 00:04:00 UTC,2022-03-02 01:58:00 UTC,87500
+Brenden Small,32,Female,1-981-351-4719,brendensmall6648@hotmail.org,Singulair,50000,2021-04-22 13:29:00 UTC,2021-04-22 15:52:00 UTC,40000
+Brenden Small,32,Female,1-981-351-4719,brendensmall6648@hotmail.org,Metoprolol Tartrate,175000,2021-06-01 13:29:00 UTC,2021-06-01 15:22:00 UTC,140000
+Brenden Small,32,Female,1-981-351-4719,brendensmall6648@hotmail.org,LevothyroxineSodium,75000,2021-08-30 13:29:00 UTC,2021-08-30 15:22:00 UTC,45000
+Brenden Small,32,Female,1-981-351-4719,brendensmall6648@hotmail.org,Plavix,225000,2021-11-14 13:29:00 UTC,2021-11-14 15:22:00 UTC,100000
+Kelly Wiggins,32,Male,1-472-576-6611,kellywiggins@icloud.org,Synthroid,150000,2022-02-28 01:48:00 UTC,2022-02-28 04:12:00 UTC,105000
+Lance Barrera,32,Female,1-403-902-4171,lancebarrera325@icloud.com,Plavix,225000,2021-10-28 08:38:00 UTC,2021-10-28 11:02:00 UTC,100000
+Lance Barrera,32,Female,1-403-902-4171,lancebarrera325@icloud.com,LevothyroxineSodium,75000,2021-11-19 08:38:00 UTC,2021-11-19 10:32:00 UTC,45000
+Micah Macdonald,32,Female,(878) 823-1454,micahmacdonald1222@google.org,Nexium,270000,2021-07-24 20:55:00 UTC,2021-07-24 23:19:00 UTC,94500
+Micah Macdonald,32,Female,(878) 823-1454,micahmacdonald1222@google.org,Plavix,225000,2021-09-02 20:55:00 UTC,2021-09-02 22:49:00 UTC,100000
+Micah Macdonald,32,Female,(878) 823-1454,micahmacdonald1222@google.org,Hydrocodone/APAP,200000,2021-10-17 20:55:00 UTC,2021-10-17 22:49:00 UTC,110000
+Micah Macdonald,32,Female,(878) 823-1454,micahmacdonald1222@google.org,Hydrocodone/APAP,200000,2021-12-17 13:50:00 UTC,2021-12-17 16:14:00 UTC,110000
+Geraldine Booker,32,Female,1-628-971-9606,geraldinebooker@hotmail.net,Azithromycin,125000,2021-10-17 19:10:00 UTC,2021-10-17 21:34:00 UTC,87500
+Geraldine Booker,32,Female,1-628-971-9606,geraldinebooker@hotmail.net,Plavix,225000,2021-11-08 19:10:00 UTC,2021-11-08 21:04:00 UTC,100000
+Geraldine Booker,32,Female,1-628-971-9606,geraldinebooker@hotmail.net,Crestor,85000,2021-12-17 07:23:00 UTC,2021-12-17 09:17:00 UTC,59500
+Jordan Cleveland,32,Female,1-697-355-3360,jordancleveland@hotmail.net,Simvastatin,110000,2021-04-12 11:01:00 UTC,2021-04-12 13:24:00 UTC,77000
+Jordan Cleveland,32,Female,1-697-355-3360,jordancleveland@hotmail.net,Azithromycin,125000,2021-05-22 11:01:00 UTC,2021-05-22 12:54:00 UTC,87500
+Jordan Cleveland,32,Female,1-697-355-3360,jordancleveland@hotmail.net,Lipitor,100000,2021-06-23 11:01:00 UTC,2021-06-23 12:54:00 UTC,70000
+Ila Lyons,33,Female,(944) 767-7737,ilalyons@google.org,Singulair,50000,2021-10-29 15:28:00 UTC,2021-10-29 17:52:00 UTC,40000
+Ila Lyons,33,Female,(944) 767-7737,ilalyons@google.org,LevothyroxineSodium,75000,2021-11-20 15:28:00 UTC,2021-11-20 17:22:00 UTC,45000
+Mona Ryan,33,Male,1-789-271-9291,monaryan@icloud.net,Hydrocodone/APAP,200000,2021-10-02 11:39:00 UTC,2021-10-02 14:03:00 UTC,110000
+Mona Ryan,33,Male,1-789-271-9291,monaryan@icloud.net,Hydrocodone/APAP,200000,2021-10-24 11:39:00 UTC,2021-10-24 13:33:00 UTC,110000
+Mona Ryan,33,Male,1-789-271-9291,monaryan@icloud.net,Synthroid,150000,2021-11-16 11:39:00 UTC,2021-11-16 13:33:00 UTC,105000
+Mona Ryan,33,Male,1-789-271-9291,monaryan@icloud.net,Hydrocodone/APAP,200000,2021-12-27 15:41:00 UTC,2021-12-27 17:35:00 UTC,110000
+Cain Munoz,33,Female,1-386-652-1151,cainmunoz190@icloud.org,Nexium,270000,2021-03-14 00:48:00 UTC,2021-03-14 03:12:00 UTC,94500
+Hiram Hull,33,Female,1-703-417-2383,hiramhull@icloud.org,LevothyroxineSodium,75000,2021-07-06 14:19:00 UTC,2021-07-06 16:43:00 UTC,45000
+Idona Rowe,33,Male,(615) 961-6682,idonarowe@hotmail.org,Lipitor,100000,2021-01-19 15:59:00 UTC,2021-01-19 18:23:00 UTC,70000
+Idona Rowe,33,Male,(615) 961-6682,idonarowe@hotmail.org,LevothyroxineSodium,75000,2022-01-30 06:10:00 UTC,2022-01-30 08:34:00 UTC,45000
+Gail Benton,33,Male,(600) 727-2742,gailbenton@icloud.net,Nexium,270000,2021-09-14 00:30:00 UTC,2021-09-14 02:54:00 UTC,94500
+Gail Benton,33,Male,(600) 727-2742,gailbenton@icloud.net,Simvastatin,110000,2021-11-15 00:30:00 UTC,2021-11-15 02:24:00 UTC,77000
+Gail Benton,33,Male,(600) 727-2742,gailbenton@icloud.net,Singulair,50000,2022-01-17 00:30:00 UTC,2022-01-17 02:24:00 UTC,40000
+Lane Mccall,33,Female,1-199-348-5815,lanemccall6662@hotmail.net,Metoprolol Tartrate,175000,2021-11-06 22:09:00 UTC,2021-11-07 00:33:00 UTC,140000
+Lane Mccall,33,Female,1-199-348-5815,lanemccall6662@hotmail.net,Plavix,225000,2021-11-28 22:09:00 UTC,2021-11-29 00:03:00 UTC,100000
+Abdul Juarez,33,Male,(251) 274-9585,abduljuarez@hotmail.net,Crestor,85000,2021-10-28 04:18:00 UTC,2021-10-28 06:42:00 UTC,59500
+Abdul Juarez,33,Male,(251) 274-9585,abduljuarez@hotmail.net,Crestor,85000,2021-11-19 04:18:00 UTC,2021-11-19 06:12:00 UTC,59500
+Latifah Nash,33,Female,1-744-777-2147,latifahnash5522@hotmail.org,Metoprolol Tartrate,175000,2021-10-23 05:26:00 UTC,2021-10-23 07:50:00 UTC,140000
+Latifah Nash,33,Female,1-744-777-2147,latifahnash5522@hotmail.org,Nexium,270000,2021-11-14 05:26:00 UTC,2021-11-14 07:20:00 UTC,94500
+Latifah Nash,33,Female,1-744-777-2147,latifahnash5522@hotmail.org,Plavix,225000,2021-12-23 21:44:00 UTC,2021-12-23 23:38:00 UTC,100000
+Dustin Dunlap,33,Female,1-519-874-6551,dustindunlap@hotmail.com,Azithromycin,125000,2021-10-13 09:44:00 UTC,2021-10-13 12:08:00 UTC,87500
+Dustin Dunlap,33,Female,1-519-874-6551,dustindunlap@hotmail.com,Nexium,270000,2021-11-04 09:44:00 UTC,2021-11-04 11:38:00 UTC,94500
+Mikayla Welch,33,Male,1-433-577-2483,mikaylawelch@google.org,Azithromycin,125000,2021-07-04 02:02:00 UTC,2021-07-04 04:26:00 UTC,87500
+Baxter Cabrera,33,Male,1-301-955-3411,baxtercabrera2748@hotmail.net,Plavix,225000,2021-11-04 07:35:00 UTC,2021-11-04 09:59:00 UTC,100000
+Baxter Cabrera,33,Male,1-301-955-3411,baxtercabrera2748@hotmail.net,LevothyroxineSodium,75000,2021-11-26 07:35:00 UTC,2021-11-26 09:29:00 UTC,45000
+Breanna Hansen,33,Male,1-293-763-2528,breannahansen5449@icloud.net,Simvastatin,110000,2021-11-19 04:37:00 UTC,2021-11-19 07:01:00 UTC,77000
+Breanna Hansen,33,Male,1-293-763-2528,breannahansen5449@icloud.net,Lipitor,100000,2021-12-11 04:37:00 UTC,2021-12-11 06:30:00 UTC,70000
+Merrill Burton,33,Female,1-481-551-6055,merrillburton3666@google.org,Hydrocodone/APAP,200000,2021-02-13 02:04:00 UTC,2021-02-13 04:28:00 UTC,110000
+Merrill Burton,33,Female,1-481-551-6055,merrillburton3666@google.org,Crestor,85000,2022-02-21 06:56:00 UTC,2022-02-21 09:19:00 UTC,59500
+Nicole Garrett,33,Male,(547) 139-7146,nicolegarrett@hotmail.org,Plavix,225000,2021-09-05 03:56:00 UTC,2021-09-05 06:20:00 UTC,100000
+Nicole Garrett,33,Male,(547) 139-7146,nicolegarrett@hotmail.org,Metoprolol Tartrate,175000,2021-11-06 03:56:00 UTC,2021-11-06 05:50:00 UTC,140000
+Nicole Garrett,33,Male,(547) 139-7146,nicolegarrett@hotmail.org,LevothyroxineSodium,75000,2022-01-10 03:56:00 UTC,2022-01-10 05:50:00 UTC,45000
+Quentin Powell,33,Female,(874) 678-5895,quentinpowell1611@icloud.com,Lipitor,100000,2021-08-03 05:43:00 UTC,2021-08-03 08:07:00 UTC,70000
+Quentin Powell,33,Female,(874) 678-5895,quentinpowell1611@icloud.com,Metoprolol Tartrate,175000,2021-09-12 05:43:00 UTC,2021-09-12 07:37:00 UTC,140000
+Howard Guerrero,33,Male,1-382-780-5147,howardguerrero@icloud.net,Singulair,50000,2021-08-28 04:21:00 UTC,2021-08-28 06:44:00 UTC,40000
+Howard Guerrero,33,Male,1-382-780-5147,howardguerrero@icloud.net,Synthroid,150000,2021-10-29 04:21:00 UTC,2021-10-29 06:14:00 UTC,105000
+Howard Guerrero,33,Male,1-382-780-5147,howardguerrero@icloud.net,Hydrocodone/APAP,200000,2021-12-13 04:21:00 UTC,2021-12-13 06:14:00 UTC,110000
+Howard Guerrero,33,Male,1-382-780-5147,howardguerrero@icloud.net,Crestor,85000,2022-01-12 04:21:00 UTC,2022-01-12 06:14:00 UTC,59500
+Camille Mcdonald,33,Male,(662) 233-6882,camillemcdonald1177@icloud.net,Crestor,85000,2021-05-06 12:33:00 UTC,2021-05-06 14:57:00 UTC,59500
+Camille Mcdonald,33,Male,(662) 233-6882,camillemcdonald1177@icloud.net,Metoprolol Tartrate,175000,2021-06-15 12:33:00 UTC,2021-06-15 14:27:00 UTC,140000
+Camille Mcdonald,33,Male,(662) 233-6882,camillemcdonald1177@icloud.net,LevothyroxineSodium,75000,2021-07-30 12:33:00 UTC,2021-07-30 14:27:00 UTC,45000
+Camille Mcdonald,33,Male,(662) 233-6882,camillemcdonald1177@icloud.net,Metoprolol Tartrate,175000,2021-10-14 12:33:00 UTC,2021-10-14 14:27:00 UTC,140000
+Karly Cruz,34,Male,1-493-454-3017,karlycruz1406@icloud.com,Plavix,225000,2021-08-16 08:10:00 UTC,2021-08-16 10:34:00 UTC,100000
+Karly Cruz,34,Male,1-493-454-3017,karlycruz1406@icloud.com,Lipitor,100000,2021-10-17 08:10:00 UTC,2021-10-17 10:03:00 UTC,70000
+Drew Daniel,34,Female,(736) 847-7908,drewdaniel@google.com,Singulair,50000,2021-02-12 02:57:00 UTC,2021-02-12 05:21:00 UTC,40000
+Drew Daniel,34,Female,(736) 847-7908,drewdaniel@google.com,Simvastatin,110000,2022-02-19 06:53:00 UTC,2022-02-19 09:17:00 UTC,77000
+Holly Ayers,34,Male,(191) 274-7384,hollyayers@icloud.net,Nexium,270000,2021-10-01 02:53:00 UTC,2021-10-01 05:17:00 UTC,94500
+Holly Ayers,34,Male,(191) 274-7384,hollyayers@icloud.net,Metoprolol Tartrate,175000,2021-10-23 02:53:00 UTC,2021-10-23 04:47:00 UTC,140000
+Holly Ayers,34,Male,(191) 274-7384,hollyayers@icloud.net,LevothyroxineSodium,75000,2021-11-15 02:53:00 UTC,2021-11-15 04:47:00 UTC,45000
+Holly Ayers,34,Male,(191) 274-7384,hollyayers@icloud.net,Singulair,50000,2021-12-23 04:13:00 UTC,2021-12-23 06:07:00 UTC,40000
+Wynne Hines,34,Female,1-717-441-7783,wynnehines@google.org,Azithromycin,125000,2021-12-10 04:29:00 UTC,2021-12-10 06:53:00 UTC,87500
+Yvonne Stout,34,Female,(141) 597-0402,yvonnestout@hotmail.org,Nexium,270000,2021-08-29 21:13:00 UTC,2021-08-29 23:36:00 UTC,94500
+Yvonne Stout,34,Female,(141) 597-0402,yvonnestout@hotmail.org,Lipitor,100000,2021-10-30 21:13:00 UTC,2021-10-30 23:06:00 UTC,70000
+Yvonne Stout,34,Female,(141) 597-0402,yvonnestout@hotmail.org,Singulair,50000,2021-12-14 21:13:00 UTC,2021-12-14 23:06:00 UTC,40000
+Yvonne Stout,34,Female,(141) 597-0402,yvonnestout@hotmail.org,Nexium,270000,2022-01-13 21:13:00 UTC,2022-01-13 23:06:00 UTC,94500
+Aspen Mcmahon,34,Male,(694) 928-0053,aspenmcmahon3606@hotmail.com,Singulair,50000,2021-10-25 10:21:00 UTC,2021-10-25 12:45:00 UTC,40000
+Aspen Mcmahon,34,Male,(694) 928-0053,aspenmcmahon3606@hotmail.com,Crestor,85000,2021-11-16 10:21:00 UTC,2021-11-16 12:15:00 UTC,59500
+Aspen Mcmahon,34,Male,(694) 928-0053,aspenmcmahon3606@hotmail.com,Lipitor,100000,2021-12-28 11:44:00 UTC,2021-12-28 13:37:00 UTC,70000
+Bruce Parsons,34,Female,1-485-746-1347,bruceparsons@hotmail.org,Synthroid,150000,2021-03-23 01:10:00 UTC,2021-03-23 03:34:00 UTC,105000
+Bruce Parsons,34,Female,1-485-746-1347,bruceparsons@hotmail.org,Crestor,85000,2021-05-02 01:10:00 UTC,2021-05-02 03:04:00 UTC,59500
+Bruce Parsons,34,Female,1-485-746-1347,bruceparsons@hotmail.org,Lipitor,100000,2021-06-03 01:10:00 UTC,2021-06-03 03:04:00 UTC,70000
+Fallon Hunter,34,Male,1-354-636-4248,fallonhunter@google.net,Nexium,270000,2021-10-10 01:51:00 UTC,2021-10-10 04:15:00 UTC,94500
+Fallon Hunter,34,Male,1-354-636-4248,fallonhunter@google.net,Plavix,225000,2021-11-01 01:51:00 UTC,2021-11-01 03:45:00 UTC,100000
+Slade Swanson,34,Male,(856) 759-1278,sladeswanson@hotmail.org,Plavix,225000,2021-02-12 22:31:00 UTC,2021-02-13 00:55:00 UTC,100000
+Slade Swanson,34,Male,(856) 759-1278,sladeswanson@hotmail.org,Plavix,225000,2022-02-20 21:33:00 UTC,2022-02-20 23:26:00 UTC,100000
+Uriah Summers,34,Male,1-611-168-9714,uriahsummers@google.com,Nexium,270000,2021-02-23 07:07:00 UTC,2021-02-23 09:30:00 UTC,94500
+Wilma Mckenzie,34,Male,1-869-827-1831,wilmamckenzie8227@icloud.com,Crestor,85000,2022-03-11 06:10:00 UTC,2022-03-11 08:04:00 UTC,59500
+Yardley Houston,34,Male,(888) 636-3446,yardleyhouston@google.org,Singulair,50000,2021-11-29 17:39:00 UTC,2021-11-29 20:02:00 UTC,40000
+Fletcher Clemons,34,Female,1-334-858-4786,fletcherclemons4223@google.net,LevothyroxineSodium,75000,2021-09-14 11:44:00 UTC,2021-09-14 14:07:00 UTC,45000
+Fletcher Clemons,34,Female,1-334-858-4786,fletcherclemons4223@google.net,Hydrocodone/APAP,200000,2021-11-15 11:44:00 UTC,2021-11-15 13:37:00 UTC,110000
+Lillith Erickson,34,Female,(637) 583-3528,lillitherickson@google.net,Crestor,85000,2021-03-01 02:15:00 UTC,2021-03-01 04:38:00 UTC,59500
+Elmo Lynn,35,Female,(643) 139-6161,elmolynn3860@hotmail.org,Synthroid,150000,2021-01-26 14:46:00 UTC,2021-01-26 17:10:00 UTC,105000
+Elmo Lynn,35,Female,(643) 139-6161,elmolynn3860@hotmail.org,Hydrocodone/APAP,200000,2021-03-07 14:46:00 UTC,2021-03-07 16:40:00 UTC,110000
+Elmo Lynn,35,Female,(643) 139-6161,elmolynn3860@hotmail.org,Synthroid,150000,2021-04-08 14:46:00 UTC,2021-04-08 16:40:00 UTC,105000
+Elmo Lynn,35,Female,(643) 139-6161,elmolynn3860@hotmail.org,Nexium,270000,2022-02-03 21:49:00 UTC,2022-02-04 00:13:00 UTC,94500
+Knox Ward,35,Female,(344) 276-9237,knoxward3835@google.com,Simvastatin,110000,2021-02-07 19:16:00 UTC,2021-02-07 21:40:00 UTC,77000
+Knox Ward,35,Female,(344) 276-9237,knoxward3835@google.com,Nexium,270000,2021-03-19 19:16:00 UTC,2021-03-19 21:09:00 UTC,94500
+Knox Ward,35,Female,(344) 276-9237,knoxward3835@google.com,Simvastatin,110000,2022-02-12 06:04:00 UTC,2022-02-12 07:57:00 UTC,77000
+Kyra Gates,35,Female,1-815-747-8595,kyragates7336@google.com,Plavix,225000,2021-04-02 04:13:00 UTC,2021-04-02 06:37:00 UTC,100000
+Kyra Gates,35,Female,1-815-747-8595,kyragates7336@google.com,Lipitor,100000,2021-05-12 04:13:00 UTC,2021-05-12 06:07:00 UTC,70000
+Kyra Gates,35,Female,1-815-747-8595,kyragates7336@google.com,Nexium,270000,2021-06-13 04:13:00 UTC,2021-06-13 06:07:00 UTC,94500
+Kyra Gates,35,Female,1-815-747-8595,kyragates7336@google.com,Simvastatin,110000,2021-09-11 04:13:00 UTC,2021-09-11 06:07:00 UTC,77000
+Marah Rice,35,Female,1-428-282-9257,marahrice@hotmail.com,Azithromycin,125000,2021-02-12 23:05:00 UTC,2021-02-13 01:29:00 UTC,87500
+Marah Rice,35,Female,1-428-282-9257,marahrice@hotmail.com,Nexium,270000,2022-02-20 21:42:00 UTC,2022-02-20 23:36:00 UTC,94500
+Blake Cherry,35,Male,(422) 449-2863,blakecherry@google.com,Azithromycin,125000,2021-07-19 20:17:00 UTC,2021-07-19 22:41:00 UTC,87500
+Claire Greer,35,Male,(732) 472-4137,clairegreer7371@google.org,Synthroid,150000,2021-03-31 23:46:00 UTC,2021-04-01 02:10:00 UTC,105000
+Claire Greer,35,Male,(732) 472-4137,clairegreer7371@google.org,Synthroid,150000,2021-05-10 23:46:00 UTC,2021-05-11 01:40:00 UTC,105000
+Cooper Weber,35,Male,(179) 265-8676,cooperweber@google.com,Crestor,85000,2021-08-26 19:48:00 UTC,2021-08-26 22:12:00 UTC,59500
+Cooper Weber,35,Male,(179) 265-8676,cooperweber@google.com,Synthroid,150000,2021-10-27 19:48:00 UTC,2021-10-27 21:42:00 UTC,105000
+Cooper Weber,35,Male,(179) 265-8676,cooperweber@google.com,Hydrocodone/APAP,200000,2021-12-11 19:48:00 UTC,2021-12-11 21:42:00 UTC,110000
+Cooper Weber,35,Male,(179) 265-8676,cooperweber@google.com,Simvastatin,110000,2022-01-10 19:48:00 UTC,2022-01-10 21:42:00 UTC,77000
+Ivory Melton,35,Male,(586) 710-3602,ivorymelton9560@google.net,Metoprolol Tartrate,175000,2021-04-13 19:15:00 UTC,2021-04-13 21:39:00 UTC,140000
+Ivory Melton,35,Male,(586) 710-3602,ivorymelton9560@google.net,Synthroid,150000,2021-05-23 19:15:00 UTC,2021-05-23 21:09:00 UTC,105000
+Ivory Melton,35,Male,(586) 710-3602,ivorymelton9560@google.net,Crestor,85000,2021-06-24 19:15:00 UTC,2021-06-24 21:09:00 UTC,59500
+Lunea Mccray,35,Female,(576) 211-8486,luneamccray@hotmail.net,Nexium,270000,2022-03-26 13:34:00 UTC,2022-03-26 15:58:00 UTC,94500
+Mona Morales,35,Male,1-672-324-7916,monamorales@google.com,Crestor,85000,2021-04-03 04:45:00 UTC,2021-04-03 07:09:00 UTC,59500
+Mona Morales,35,Male,1-672-324-7916,monamorales@google.com,Hydrocodone/APAP,200000,2021-05-13 04:45:00 UTC,2021-05-13 06:39:00 UTC,110000
+Mona Morales,35,Male,1-672-324-7916,monamorales@google.com,Crestor,85000,2021-06-14 04:45:00 UTC,2021-06-14 06:39:00 UTC,59500
+Mona Morales,35,Male,1-672-324-7916,monamorales@google.com,Hydrocodone/APAP,200000,2021-09-12 04:45:00 UTC,2021-09-12 06:39:00 UTC,110000
+Quinn Hewitt,35,Male,1-931-833-3215,quinnhewitt@icloud.org,Lipitor,100000,2022-03-15 04:41:00 UTC,2022-03-15 07:05:00 UTC,70000
+Tasha Dunlap,35,Female,(512) 578-2862,tashadunlap7498@google.org,LevothyroxineSodium,75000,2021-08-30 17:11:00 UTC,2021-08-30 19:34:00 UTC,45000
+Tasha Dunlap,35,Female,(512) 578-2862,tashadunlap7498@google.org,Synthroid,150000,2021-10-31 17:11:00 UTC,2021-10-31 19:04:00 UTC,105000
+Tasha Dunlap,35,Female,(512) 578-2862,tashadunlap7498@google.org,Azithromycin,125000,2021-12-15 17:11:00 UTC,2021-12-15 19:04:00 UTC,87500
+Tasha Dunlap,35,Female,(512) 578-2862,tashadunlap7498@google.org,Lipitor,100000,2022-01-14 17:11:00 UTC,2022-01-14 19:04:00 UTC,70000
+Ezekiel Solis,35,Male,(942) 171-3365,ezekielsolis2948@google.org,Synthroid,150000,2021-04-23 16:01:00 UTC,2021-04-23 18:25:00 UTC,105000
+Ezekiel Solis,35,Male,(942) 171-3365,ezekielsolis2948@google.org,Synthroid,150000,2021-06-02 16:01:00 UTC,2021-06-02 17:55:00 UTC,105000
+Ezekiel Solis,35,Male,(942) 171-3365,ezekielsolis2948@google.org,Plavix,225000,2021-07-17 16:01:00 UTC,2021-07-17 17:55:00 UTC,100000
+Ezekiel Solis,35,Male,(942) 171-3365,ezekielsolis2948@google.org,Metoprolol Tartrate,175000,2021-10-01 16:01:00 UTC,2021-10-01 17:55:00 UTC,140000
+Gil Whitehead,35,Male,(136) 498-2310,gilwhitehead2543@google.com,Singulair,50000,2021-07-18 09:16:00 UTC,2021-07-18 11:40:00 UTC,40000
+Amelia Stevens,35,Female,1-517-924-4976,ameliastevens3977@hotmail.org,Metoprolol Tartrate,175000,2021-08-05 18:05:00 UTC,2021-08-05 20:29:00 UTC,140000
+Amelia Stevens,35,Female,1-517-924-4976,ameliastevens3977@hotmail.org,LevothyroxineSodium,75000,2021-09-14 18:05:00 UTC,2021-09-14 19:59:00 UTC,45000
+Germane Dawson,35,Male,1-822-854-2675,germanedawson5053@icloud.com,Synthroid,150000,2022-03-08 06:06:00 UTC,2022-03-08 08:30:00 UTC,105000
+Griffin Maxwell,35,Male,(215) 379-4001,griffinmaxwell@google.org,Metoprolol Tartrate,175000,2022-03-11 09:23:00 UTC,2022-03-11 11:47:00 UTC,140000
+Rhiannon Butler,35,Female,(722) 648-5423,rhiannonbutler6553@hotmail.com,Metoprolol Tartrate,175000,2021-05-05 22:46:00 UTC,2021-05-06 01:10:00 UTC,140000
+Rhiannon Butler,35,Female,(722) 648-5423,rhiannonbutler6553@hotmail.com,Hydrocodone/APAP,200000,2021-06-14 22:46:00 UTC,2021-06-15 00:40:00 UTC,110000
+Rhiannon Butler,35,Female,(722) 648-5423,rhiannonbutler6553@hotmail.com,Lipitor,100000,2021-07-29 22:46:00 UTC,2021-07-30 00:40:00 UTC,70000
+Adele Pennington,35,Male,1-450-175-1454,adelepennington5948@icloud.com,Nexium,270000,2021-11-10 18:44:00 UTC,2021-11-10 21:08:00 UTC,94500
+Adele Pennington,35,Male,1-450-175-1454,adelepennington5948@icloud.com,Singulair,50000,2021-12-02 18:44:00 UTC,2021-12-02 20:38:00 UTC,40000
+Ila Craig,36,Male,1-388-353-5218,ilacraig@hotmail.net,Singulair,50000,2021-05-13 04:47:00 UTC,2021-05-13 07:11:00 UTC,40000
+Rhona Dyer,36,Male,(425) 644-2375,rhonadyer1984@hotmail.net,Lipitor,100000,2021-07-17 04:46:00 UTC,2021-07-17 07:10:00 UTC,70000
+Gray Ortega,36,Female,1-826-319-8662,grayortega@hotmail.com,Metoprolol Tartrate,175000,2022-02-28 07:27:00 UTC,2022-02-28 09:21:00 UTC,140000
+Kibo Walton,36,Female,(881) 445-1056,kibowalton@icloud.org,Nexium,270000,2021-05-05 18:42:00 UTC,2021-05-05 21:06:00 UTC,94500
+Kibo Walton,36,Female,(881) 445-1056,kibowalton@icloud.org,Nexium,270000,2021-06-14 18:42:00 UTC,2021-06-14 20:36:00 UTC,94500
+Kibo Walton,36,Female,(881) 445-1056,kibowalton@icloud.org,Hydrocodone/APAP,200000,2021-07-29 18:42:00 UTC,2021-07-29 20:36:00 UTC,110000
+Renee Pratt,36,Female,1-953-478-9593,reneepratt5590@hotmail.com,Nexium,270000,2021-07-22 08:19:00 UTC,2021-07-22 10:43:00 UTC,94500
+Renee Pratt,36,Female,1-953-478-9593,reneepratt5590@hotmail.com,Synthroid,150000,2021-08-31 08:19:00 UTC,2021-08-31 10:13:00 UTC,105000
+Renee Pratt,36,Female,1-953-478-9593,reneepratt5590@hotmail.com,Synthroid,150000,2021-10-15 08:19:00 UTC,2021-10-15 10:13:00 UTC,105000
+Iola England,36,Male,(254) 158-4315,iolaengland@hotmail.net,Simvastatin,110000,2021-08-23 17:56:00 UTC,2021-08-23 20:20:00 UTC,77000
+Iola England,36,Male,(254) 158-4315,iolaengland@hotmail.net,Lipitor,100000,2021-10-24 17:56:00 UTC,2021-10-24 19:49:00 UTC,70000
+Iola England,36,Male,(254) 158-4315,iolaengland@hotmail.net,Hydrocodone/APAP,200000,2021-12-08 17:56:00 UTC,2021-12-08 19:49:00 UTC,110000
+Iola England,36,Male,(254) 158-4315,iolaengland@hotmail.net,Nexium,270000,2021-12-28 00:30:00 UTC,2021-12-28 02:24:00 UTC,94500
+Marvin Nolan,36,Female,(336) 419-8343,marvinnolan@icloud.org,Singulair,50000,2021-01-18 17:13:00 UTC,2021-01-18 19:37:00 UTC,40000
+Marvin Nolan,36,Female,(336) 419-8343,marvinnolan@icloud.org,Nexium,270000,2022-01-27 15:34:00 UTC,2022-01-27 17:57:00 UTC,94500
+Vielka Wiley,36,Male,(681) 896-5468,vielkawiley@google.net,Simvastatin,110000,2021-12-07 10:24:00 UTC,2021-12-07 12:47:00 UTC,77000
+Amelia Battle,36,Female,1-957-349-3318,ameliabattle@hotmail.net,Simvastatin,110000,2022-03-04 11:17:00 UTC,2022-03-04 13:11:00 UTC,77000
+Stewart Banks,36,Male,(786) 770-6588,stewartbanks8335@hotmail.net,Singulair,50000,2021-06-16 17:27:00 UTC,2021-06-16 19:51:00 UTC,40000
+Garth Mcdonald,36,Male,1-313-516-6272,garthmcdonald2277@icloud.org,Metoprolol Tartrate,175000,2021-08-04 07:36:00 UTC,2021-08-04 10:00:00 UTC,140000
+Garth Mcdonald,36,Male,1-313-516-6272,garthmcdonald2277@icloud.org,Metoprolol Tartrate,175000,2021-09-13 07:36:00 UTC,2021-09-13 09:30:00 UTC,140000
+Allistair Sawyer,36,Male,1-243-227-4366,allistairsawyer@icloud.net,Hydrocodone/APAP,200000,2021-06-24 22:43:00 UTC,2021-06-25 01:06:00 UTC,110000
+Jessica Mcmillan,36,Female,1-848-611-4877,jessicamcmillan4674@google.org,Plavix,225000,2022-03-02 19:05:00 UTC,2022-03-02 21:29:00 UTC,100000
+Joelle Schroeder,36,Male,1-482-536-5777,joelleschroeder7199@icloud.net,Singulair,50000,2022-03-14 12:01:00 UTC,2022-03-14 14:25:00 UTC,40000
+Scarlett Donovan,36,Female,(912) 302-6582,scarlettdonovan7677@google.com,Singulair,50000,2021-08-18 06:53:00 UTC,2021-08-18 09:17:00 UTC,40000
+Scarlett Donovan,36,Female,(912) 302-6582,scarlettdonovan7677@google.com,Simvastatin,110000,2021-10-19 06:53:00 UTC,2021-10-19 08:47:00 UTC,77000
+Scarlett Donovan,36,Female,(912) 302-6582,scarlettdonovan7677@google.com,Crestor,85000,2021-12-19 05:36:00 UTC,2021-12-19 08:00:00 UTC,59500
+Matthew Maldonado,36,Male,(913) 715-7230,matthewmaldonado9832@google.net,Synthroid,150000,2021-09-24 08:49:00 UTC,2021-09-24 11:12:00 UTC,105000
+Matthew Maldonado,36,Male,(913) 715-7230,matthewmaldonado9832@google.net,LevothyroxineSodium,75000,2021-11-25 08:49:00 UTC,2021-11-25 10:42:00 UTC,45000
+Penelope Christensen,36,Female,(874) 859-7834,penelopechristensen6151@hotmail.com,Hydrocodone/APAP,200000,2021-06-16 02:12:00 UTC,2021-06-16 04:36:00 UTC,110000
+Kevyn Lowe,37,Female,1-543-326-0772,kevynlowe8868@hotmail.net,Singulair,50000,2022-02-25 19:18:00 UTC,2022-02-25 21:42:00 UTC,40000
+Dieter Hughes,37,Female,(364) 984-3100,dieterhughes5974@icloud.org,Azithromycin,125000,2021-02-03 02:17:00 UTC,2021-02-03 04:41:00 UTC,87500
+Dieter Hughes,37,Female,(364) 984-3100,dieterhughes5974@icloud.org,Lipitor,100000,2021-03-15 02:17:00 UTC,2021-03-15 04:11:00 UTC,70000
+Dieter Hughes,37,Female,(364) 984-3100,dieterhughes5974@icloud.org,Nexium,270000,2022-02-08 15:58:00 UTC,2022-02-08 17:52:00 UTC,94500
+Shelly Greene,37,Female,1-238-871-5856,shellygreene5991@hotmail.org,Synthroid,150000,2021-06-03 12:19:00 UTC,2021-06-03 14:43:00 UTC,105000
+Sydney Hudson,37,Female,1-569-472-7192,sydneyhudson@hotmail.org,Nexium,270000,2022-03-21 07:14:00 UTC,2022-03-21 09:37:00 UTC,94500
+Tarik Kennedy,37,Male,(171) 353-6461,tarikkennedy8070@icloud.net,Nexium,270000,2021-06-19 01:53:00 UTC,2021-06-19 04:17:00 UTC,94500
+Jelani Hubbard,37,Female,(377) 687-0428,jelanihubbard8205@icloud.com,Metoprolol Tartrate,175000,2021-11-21 18:28:00 UTC,2021-11-21 20:52:00 UTC,140000
+Jelani Hubbard,37,Female,(377) 687-0428,jelanihubbard8205@icloud.com,Simvastatin,110000,2021-12-13 18:28:00 UTC,2021-12-13 20:22:00 UTC,77000
+Natalie Hatfield,37,Female,(781) 526-8043,nataliehatfield9247@google.net,Metoprolol Tartrate,175000,2021-06-11 15:33:00 UTC,2021-06-11 17:56:00 UTC,140000
+Ingrid Pennington,37,Female,(442) 340-9431,ingridpennington902@google.org,Crestor,85000,2021-08-13 16:24:00 UTC,2021-08-13 18:47:00 UTC,59500
+Ingrid Pennington,37,Female,(442) 340-9431,ingridpennington902@google.org,Singulair,50000,2021-10-14 16:24:00 UTC,2021-10-14 18:17:00 UTC,40000
+Jack Love,38,Male,(659) 513-5578,jacklove@icloud.org,Singulair,50000,2021-08-25 06:24:00 UTC,2021-08-25 08:47:00 UTC,40000
+Jack Love,38,Male,(659) 513-5578,jacklove@icloud.org,Hydrocodone/APAP,200000,2021-10-26 06:24:00 UTC,2021-10-26 08:17:00 UTC,110000
+Jack Love,38,Male,(659) 513-5578,jacklove@icloud.org,LevothyroxineSodium,75000,2021-12-10 06:24:00 UTC,2021-12-10 08:17:00 UTC,45000
+Jack Love,38,Male,(659) 513-5578,jacklove@icloud.org,Plavix,225000,2021-12-29 05:43:00 UTC,2021-12-29 07:37:00 UTC,100000
+Kay Nguyen,38,Male,(654) 615-0613,kaynguyen8773@google.net,Crestor,85000,2022-03-08 01:39:00 UTC,2022-03-08 04:03:00 UTC,59500
+Noble Oneal,38,Male,1-456-393-8759,nobleoneal@icloud.net,Hydrocodone/APAP,200000,2021-05-08 17:05:00 UTC,2021-05-08 19:29:00 UTC,110000
+Haley Chapman,38,Female,1-660-585-6624,haleychapman258@hotmail.org,Metoprolol Tartrate,175000,2022-03-21 01:05:00 UTC,2022-03-21 03:28:00 UTC,140000
+Todd Mcdowell,38,Female,(681) 767-6071,toddmcdowell8859@icloud.net,Simvastatin,110000,2022-02-27 21:58:00 UTC,2022-02-28 00:21:00 UTC,77000
+Barclay Barker,38,Male,1-223-552-2291,barclaybarker9331@hotmail.org,Azithromycin,125000,2021-05-15 12:57:00 UTC,2021-05-15 15:21:00 UTC,87500
+Malachi Phelps,38,Male,(315) 886-7670,malachiphelps@hotmail.net,Hydrocodone/APAP,200000,2021-02-25 21:28:00 UTC,2021-02-25 23:52:00 UTC,110000
+Marshall Acevedo,38,Female,1-527-426-7499,marshallacevedo@google.com,Hydrocodone/APAP,200000,2021-07-04 11:17:00 UTC,2021-07-04 13:41:00 UTC,110000
+Brody Mosley,39,Female,1-643-155-7667,brodymosley158@icloud.com,Synthroid,150000,2022-03-09 12:22:00 UTC,2022-03-09 14:46:00 UTC,105000
+Lyle Leonard,39,Female,1-876-767-1865,lyleleonard6477@icloud.org,Metoprolol Tartrate,175000,2021-09-28 07:54:00 UTC,2021-09-28 10:18:00 UTC,140000
+Lyle Leonard,39,Female,1-876-767-1865,lyleleonard6477@icloud.org,LevothyroxineSodium,75000,2021-10-20 07:54:00 UTC,2021-10-20 09:48:00 UTC,45000
+Lyle Leonard,39,Female,1-876-767-1865,lyleleonard6477@icloud.org,Hydrocodone/APAP,200000,2021-11-12 07:54:00 UTC,2021-11-12 09:48:00 UTC,110000
+Lyle Leonard,39,Female,1-876-767-1865,lyleleonard6477@icloud.org,Hydrocodone/APAP,200000,2021-12-21 03:56:00 UTC,2021-12-21 05:50:00 UTC,110000
+Yoko Beasley,39,Female,1-353-352-1514,yokobeasley3085@google.org,Azithromycin,125000,2021-07-29 14:40:00 UTC,2021-07-29 17:04:00 UTC,87500
+Yoko Beasley,39,Female,1-353-352-1514,yokobeasley3085@google.org,Plavix,225000,2021-09-07 14:40:00 UTC,2021-09-07 16:34:00 UTC,100000
+Brenda Gilliam,39,Male,1-621-746-2351,brendagilliam@google.net,Hydrocodone/APAP,200000,2021-05-29 20:23:00 UTC,2021-05-29 22:47:00 UTC,110000
+Brenda Gilliam,39,Male,1-621-746-2351,brendagilliam@google.net,Hydrocodone/APAP,200000,2021-07-08 20:23:00 UTC,2021-07-08 22:17:00 UTC,110000
+Brenda Gilliam,39,Male,1-621-746-2351,brendagilliam@google.net,Singulair,50000,2021-08-22 20:23:00 UTC,2021-08-22 22:17:00 UTC,40000
+Brenda Gilliam,39,Male,1-621-746-2351,brendagilliam@google.net,Simvastatin,110000,2021-11-06 20:23:00 UTC,2021-11-06 22:17:00 UTC,77000
+Donna Guerrero,39,Male,(689) 457-8101,donnaguerrero7699@hotmail.org,Plavix,225000,2021-03-24 15:51:00 UTC,2021-03-24 18:14:00 UTC,100000
+Donna Guerrero,39,Male,(689) 457-8101,donnaguerrero7699@hotmail.org,Plavix,225000,2021-05-03 15:51:00 UTC,2021-05-03 17:44:00 UTC,100000
+Hayley Simmons,39,Female,(827) 745-2877,hayleysimmons2627@google.com,Nexium,270000,2022-02-28 14:27:00 UTC,2022-02-28 16:20:00 UTC,94500
+Slade Whitfield,39,Female,(821) 465-3362,sladewhitfield1811@google.com,Nexium,270000,2022-03-05 07:56:00 UTC,2022-03-05 09:50:00 UTC,94500
+Janna Cunningham,39,Female,1-453-644-3822,jannacunningham@google.org,Metoprolol Tartrate,175000,2021-07-14 11:01:00 UTC,2021-07-14 13:25:00 UTC,140000
+Lawrence Mccullough,39,Female,(787) 928-3747,lawrencemccullough6286@icloud.com,Lipitor,100000,2021-05-19 11:37:00 UTC,2021-05-19 14:01:00 UTC,70000
+Damon Cook,40,Female,1-842-156-9167,damoncook4184@icloud.org,Plavix,225000,2021-03-14 03:40:00 UTC,2021-03-14 06:04:00 UTC,100000
+Timon Burris,40,Female,1-671-832-3152,timonburris@hotmail.com,Nexium,270000,2021-09-15 09:28:00 UTC,2021-09-15 11:52:00 UTC,94500
+Timon Burris,40,Female,1-671-832-3152,timonburris@hotmail.com,Azithromycin,125000,2021-11-16 09:28:00 UTC,2021-11-16 11:22:00 UTC,87500
+Dante Jenkins,40,Female,(262) 376-3580,dantejenkins4509@hotmail.org,LevothyroxineSodium,75000,2021-12-03 16:55:00 UTC,2021-12-03 19:19:00 UTC,45000
+Denton Monroe,40,Female,1-124-762-3552,dentonmonroe@icloud.com,LevothyroxineSodium,75000,2021-11-18 19:02:00 UTC,2021-11-18 21:25:00 UTC,45000
+Denton Monroe,40,Female,1-124-762-3552,dentonmonroe@icloud.com,Hydrocodone/APAP,200000,2021-12-10 19:02:00 UTC,2021-12-10 20:55:00 UTC,110000
+Lilah Santana,40,Male,(715) 735-6286,lilahsantana@hotmail.org,Metoprolol Tartrate,175000,2021-02-11 03:26:00 UTC,2021-02-11 05:49:00 UTC,140000
+Lilah Santana,40,Male,(715) 735-6286,lilahsantana@hotmail.org,LevothyroxineSodium,75000,2021-03-23 03:26:00 UTC,2021-03-23 05:19:00 UTC,45000
+Lilah Santana,40,Male,(715) 735-6286,lilahsantana@hotmail.org,Azithromycin,125000,2022-02-18 23:40:00 UTC,2022-02-19 02:04:00 UTC,87500
+Jaquelyn Leach,40,Female,1-753-241-8032,jaquelynleach9662@google.net,Crestor,85000,2021-05-23 04:26:00 UTC,2021-05-23 06:50:00 UTC,59500
+Jaquelyn Leach,40,Female,1-753-241-8032,jaquelynleach9662@google.net,Nexium,270000,2021-07-02 04:26:00 UTC,2021-07-02 06:20:00 UTC,94500
+Jaquelyn Leach,40,Female,1-753-241-8032,jaquelynleach9662@google.net,Simvastatin,110000,2021-08-16 04:26:00 UTC,2021-08-16 06:20:00 UTC,77000
+Jaquelyn Leach,40,Female,1-753-241-8032,jaquelynleach9662@google.net,Hydrocodone/APAP,200000,2021-10-31 04:26:00 UTC,2021-10-31 06:20:00 UTC,110000
+Scarlett Gould,40,Female,1-233-584-6188,scarlettgould5748@icloud.org,Metoprolol Tartrate,175000,2021-09-07 01:56:00 UTC,2021-09-07 04:20:00 UTC,140000
+Scarlett Gould,40,Female,1-233-584-6188,scarlettgould5748@icloud.org,Hydrocodone/APAP,200000,2021-11-08 01:56:00 UTC,2021-11-08 03:50:00 UTC,110000
+Scarlett Gould,40,Female,1-233-584-6188,scarlettgould5748@icloud.org,Azithromycin,125000,2022-01-12 01:56:00 UTC,2022-01-12 03:50:00 UTC,87500
+Amethyst Knight,40,Female,(333) 321-5780,amethystknight1412@hotmail.org,Lipitor,100000,2022-03-18 20:51:00 UTC,2022-03-18 23:15:00 UTC,70000
+Leila Rasmussen,40,Male,(367) 858-6027,leilarasmussen@hotmail.com,Plavix,225000,2021-11-16 10:57:00 UTC,2021-11-16 13:21:00 UTC,100000
+Leila Rasmussen,40,Male,(367) 858-6027,leilarasmussen@hotmail.com,Plavix,225000,2021-12-08 10:57:00 UTC,2021-12-08 12:51:00 UTC,100000
+Chelsea Richards,40,Male,1-794-262-1913,chelsearichards@google.org,Metoprolol Tartrate,175000,2021-10-06 01:47:00 UTC,2021-10-06 04:11:00 UTC,140000
+Chelsea Richards,40,Male,1-794-262-1913,chelsearichards@google.org,Synthroid,150000,2021-10-28 01:47:00 UTC,2021-10-28 03:41:00 UTC,105000
+Chelsea Richards,40,Male,1-794-262-1913,chelsearichards@google.org,Crestor,85000,2021-11-20 01:47:00 UTC,2021-11-20 03:41:00 UTC,59500
+Kennan Mcfarland,40,Male,(857) 445-1834,kennanmcfarland@icloud.net,Plavix,225000,2021-08-16 02:52:00 UTC,2021-08-16 05:16:00 UTC,100000
+Kennan Mcfarland,40,Male,(857) 445-1834,kennanmcfarland@icloud.net,Lipitor,100000,2021-10-17 02:52:00 UTC,2021-10-17 04:46:00 UTC,70000
+Noel Petty,41,Female,1-864-292-9588,noelpetty@hotmail.net,Lipitor,100000,2021-05-30 09:28:00 UTC,2021-05-30 11:52:00 UTC,70000
+Noel Petty,41,Female,1-864-292-9588,noelpetty@hotmail.net,Hydrocodone/APAP,200000,2021-07-09 09:28:00 UTC,2021-07-09 11:22:00 UTC,110000
+Oleg Turner,41,Male,1-755-512-2880,olegturner@google.net,Crestor,85000,2021-03-14 08:47:00 UTC,2021-03-14 11:11:00 UTC,59500
+Brynn Miller,41,Male,1-611-682-7981,brynnmiller3558@google.net,Singulair,50000,2021-09-17 17:12:00 UTC,2021-09-17 19:36:00 UTC,40000
+Brynn Miller,41,Male,1-611-682-7981,brynnmiller3558@google.net,Nexium,270000,2021-11-18 17:12:00 UTC,2021-11-18 19:06:00 UTC,94500
+Brynn Miller,41,Male,1-611-682-7981,brynnmiller3558@google.net,Azithromycin,125000,2021-12-11 17:12:00 UTC,2021-12-11 19:06:00 UTC,87500
+Caleb Nelson,41,Male,(272) 380-2531,calebnelson813@icloud.org,Crestor,85000,2021-04-22 16:58:00 UTC,2021-04-22 19:22:00 UTC,59500
+Caleb Nelson,41,Male,(272) 380-2531,calebnelson813@icloud.org,Crestor,85000,2021-06-01 16:58:00 UTC,2021-06-01 18:52:00 UTC,59500
+Caleb Nelson,41,Male,(272) 380-2531,calebnelson813@icloud.org,Crestor,85000,2021-07-03 16:58:00 UTC,2021-07-03 18:52:00 UTC,59500
+Caleb Nelson,41,Male,(272) 380-2531,calebnelson813@icloud.org,Synthroid,150000,2021-09-17 16:58:00 UTC,2021-09-17 18:52:00 UTC,105000
+Nicole Sykes,41,Male,1-513-583-8754,nicolesykes8182@hotmail.com,Hydrocodone/APAP,200000,2021-12-10 03:03:00 UTC,2021-12-10 05:27:00 UTC,110000
+Orson Barlow,41,Male,(383) 448-9681,orsonbarlow3132@google.net,Hydrocodone/APAP,200000,2021-10-26 12:02:00 UTC,2021-10-26 14:26:00 UTC,110000
+Orson Barlow,41,Male,(383) 448-9681,orsonbarlow3132@google.net,Simvastatin,110000,2021-11-17 12:02:00 UTC,2021-11-17 13:56:00 UTC,77000
+Orson Barlow,41,Male,(383) 448-9681,orsonbarlow3132@google.net,Simvastatin,110000,2021-12-30 11:49:00 UTC,2021-12-30 13:43:00 UTC,77000
+Sara Elliott,41,Female,1-323-221-9679,saraelliott@google.net,Plavix,225000,2021-09-24 15:29:00 UTC,2021-09-24 17:53:00 UTC,100000
+Sara Elliott,41,Female,1-323-221-9679,saraelliott@google.net,Crestor,85000,2021-11-25 15:29:00 UTC,2021-11-25 17:23:00 UTC,59500
+Solomon Hines,41,Male,1-836-755-7602,solomonhines@hotmail.net,Azithromycin,125000,2021-03-16 17:51:00 UTC,2021-03-16 20:15:00 UTC,87500
+Walker Tucker,41,Female,1-228-388-4444,walkertucker@google.org,Synthroid,150000,2021-08-23 05:44:00 UTC,2021-08-23 08:08:00 UTC,105000
+Walker Tucker,41,Female,1-228-388-4444,walkertucker@google.org,Nexium,270000,2021-10-24 05:44:00 UTC,2021-10-24 07:38:00 UTC,94500
+Walker Tucker,41,Female,1-228-388-4444,walkertucker@google.org,Nexium,270000,2021-12-08 05:44:00 UTC,2021-12-08 07:38:00 UTC,94500
+Walker Tucker,41,Female,1-228-388-4444,walkertucker@google.org,Lipitor,100000,2021-12-27 08:40:00 UTC,2021-12-27 10:34:00 UTC,70000
+Xaviera Beasley,41,Male,(628) 242-4646,xavierabeasley@hotmail.org,Simvastatin,110000,2021-09-26 11:04:00 UTC,2021-09-26 13:28:00 UTC,77000
+Xaviera Beasley,41,Male,(628) 242-4646,xavierabeasley@hotmail.org,Synthroid,150000,2021-11-27 11:04:00 UTC,2021-11-27 12:58:00 UTC,105000
+Tucker Singleton,41,Male,1-464-768-7867,tuckersingleton@icloud.org,Singulair,50000,2021-01-13 07:22:00 UTC,2021-01-13 09:46:00 UTC,40000
+Tucker Singleton,41,Male,1-464-768-7867,tuckersingleton@icloud.org,Singulair,50000,2022-01-26 13:50:00 UTC,2022-01-26 15:44:00 UTC,40000
+Yuri Fitzpatrick,41,Female,(256) 153-5777,yurifitzpatrick4952@icloud.net,Synthroid,150000,2022-03-22 22:42:00 UTC,2022-03-23 01:06:00 UTC,105000
+Jana Banks,42,Male,(846) 358-3154,janabanks@hotmail.com,Crestor,85000,2021-08-25 08:32:00 UTC,2021-08-25 10:56:00 UTC,59500
+Jana Banks,42,Male,(846) 358-3154,janabanks@hotmail.com,Nexium,270000,2021-10-26 08:32:00 UTC,2021-10-26 10:26:00 UTC,94500
+Jana Banks,42,Male,(846) 358-3154,janabanks@hotmail.com,Nexium,270000,2021-12-10 08:32:00 UTC,2021-12-10 10:26:00 UTC,94500
+Jana Banks,42,Male,(846) 358-3154,janabanks@hotmail.com,Plavix,225000,2021-12-29 10:24:00 UTC,2021-12-29 12:17:00 UTC,100000
+Myra Allen,42,Female,(275) 298-9266,myraallen2970@hotmail.net,Simvastatin,110000,2021-05-18 06:11:00 UTC,2021-05-18 08:35:00 UTC,77000
+Lamar Munoz,42,Female,1-791-324-4273,lamarmunoz8654@icloud.org,Azithromycin,125000,2022-01-11 21:33:00 UTC,2022-01-11 23:57:00 UTC,87500
+Amena Herrera,42,Male,1-562-430-8383,amenaherrera1394@google.com,Nexium,270000,2021-02-22 03:10:00 UTC,2021-02-22 05:34:00 UTC,94500
+Baxter Guzman,42,Female,(615) 441-4266,baxterguzman6450@icloud.net,Synthroid,150000,2022-03-07 06:36:00 UTC,2022-03-07 09:00:00 UTC,105000
+Hedley Jensen,42,Female,(784) 549-4364,hedleyjensen@google.org,Crestor,85000,2021-07-31 10:04:00 UTC,2021-07-31 12:28:00 UTC,59500
+Hedley Jensen,42,Female,(784) 549-4364,hedleyjensen@google.org,Synthroid,150000,2021-09-09 10:04:00 UTC,2021-09-09 11:58:00 UTC,105000
+Lacey Flowers,42,Male,(345) 221-7935,laceyflowers@hotmail.org,Hydrocodone/APAP,200000,2022-03-01 08:30:00 UTC,2022-03-01 10:54:00 UTC,110000
+Wing Harrison,42,Male,1-598-298-8946,wingharrison4404@icloud.com,Azithromycin,125000,2021-04-25 22:52:00 UTC,2021-04-26 01:15:00 UTC,87500
+Wing Harrison,42,Male,1-598-298-8946,wingharrison4404@icloud.com,Nexium,270000,2021-06-04 22:52:00 UTC,2021-06-05 00:45:00 UTC,94500
+Wing Harrison,42,Male,1-598-298-8946,wingharrison4404@icloud.com,Singulair,50000,2021-09-02 22:52:00 UTC,2021-09-03 00:45:00 UTC,40000
+Wing Harrison,42,Male,1-598-298-8946,wingharrison4404@icloud.com,Singulair,50000,2021-11-17 22:52:00 UTC,2021-11-18 00:45:00 UTC,40000
+TaShya Burnett,42,Female,1-272-363-9403,tashyaburnett5102@icloud.org,Hydrocodone/APAP,200000,2022-02-28 10:18:00 UTC,2022-02-28 12:42:00 UTC,110000
+Vincent Wilcox,42,Male,(441) 846-7063,vincentwilcox2443@google.com,Singulair,50000,2021-09-18 22:26:00 UTC,2021-09-19 00:50:00 UTC,40000
+Vincent Wilcox,42,Male,(441) 846-7063,vincentwilcox2443@google.com,Singulair,50000,2021-11-19 22:26:00 UTC,2021-11-20 00:20:00 UTC,40000
+Allegra Edwards,42,Female,(251) 522-5606,allegraedwards@icloud.net,Plavix,225000,2021-09-12 21:18:00 UTC,2021-09-12 23:42:00 UTC,100000
+Allegra Edwards,42,Female,(251) 522-5606,allegraedwards@icloud.net,Synthroid,150000,2021-11-13 21:18:00 UTC,2021-11-13 23:12:00 UTC,105000
+Bianca Kirkland,42,Male,(218) 734-3714,biancakirkland@google.com,LevothyroxineSodium,75000,2022-01-16 13:33:00 UTC,2022-01-16 15:56:00 UTC,45000
+Bianca Kirkland,42,Male,(218) 734-3714,biancakirkland@google.com,Azithromycin,125000,2022-02-25 13:33:00 UTC,2022-02-25 15:26:00 UTC,87500
+Cameron Sheppard,42,Male,1-836-308-2677,cameronsheppard856@google.org,Nexium,270000,2021-05-06 09:04:00 UTC,2021-05-06 11:28:00 UTC,94500
+Cameron Sheppard,42,Male,1-836-308-2677,cameronsheppard856@google.org,Nexium,270000,2021-06-15 09:04:00 UTC,2021-06-15 10:58:00 UTC,94500
+Cameron Sheppard,42,Male,1-836-308-2677,cameronsheppard856@google.org,Singulair,50000,2021-08-14 09:04:00 UTC,2021-08-14 10:58:00 UTC,40000
+Joy Stone,43,Female,(953) 763-1696,joystone@google.org,Simvastatin,110000,2021-03-20 12:42:00 UTC,2021-03-20 15:06:00 UTC,77000
+Heidi Giles,43,Male,(109) 300-5480,heidigiles4835@google.org,Plavix,225000,2021-10-19 15:12:00 UTC,2021-10-19 17:35:00 UTC,100000
+Heidi Giles,43,Male,(109) 300-5480,heidigiles4835@google.org,Simvastatin,110000,2021-11-10 15:12:00 UTC,2021-11-10 17:05:00 UTC,77000
+Heidi Giles,43,Male,(109) 300-5480,heidigiles4835@google.org,Lipitor,100000,2021-12-19 07:54:00 UTC,2021-12-19 09:48:00 UTC,70000
+Kameko Luna,43,Female,(872) 694-3426,kamekoluna@hotmail.com,Synthroid,150000,2021-05-05 16:13:00 UTC,2021-05-05 18:37:00 UTC,105000
+Kameko Luna,43,Female,(872) 694-3426,kamekoluna@hotmail.com,Synthroid,150000,2021-06-14 16:13:00 UTC,2021-06-14 18:07:00 UTC,105000
+Kameko Luna,43,Female,(872) 694-3426,kamekoluna@hotmail.com,Plavix,225000,2021-07-29 16:13:00 UTC,2021-07-29 18:07:00 UTC,100000
+Adena Harper,43,Male,1-471-112-8685,adenaharper@hotmail.net,Plavix,225000,2021-06-30 03:16:00 UTC,2021-06-30 05:40:00 UTC,100000
+Jamal Hinton,43,Male,1-462-373-4058,jamalhinton5219@hotmail.org,Hydrocodone/APAP,200000,2021-06-15 16:40:00 UTC,2021-06-15 19:04:00 UTC,110000
+Hermione King,43,Male,(641) 435-7667,hermioneking498@icloud.com,Azithromycin,125000,2021-05-30 07:00:00 UTC,2021-05-30 09:24:00 UTC,87500
+Hermione King,43,Male,(641) 435-7667,hermioneking498@icloud.com,Metoprolol Tartrate,175000,2021-07-09 07:00:00 UTC,2021-07-09 08:54:00 UTC,140000
+Linus Guerrero,43,Male,(311) 687-3024,linusguerrero7767@hotmail.org,Nexium,270000,2022-03-05 10:37:00 UTC,2022-03-05 13:01:00 UTC,94500
+Jorden Gonzales,43,Female,1-308-548-7547,jordengonzales2271@hotmail.org,Nexium,270000,2021-01-06 23:55:00 UTC,2021-01-07 02:18:00 UTC,94500
+Jorden Gonzales,43,Female,1-308-548-7547,jordengonzales2271@hotmail.org,Plavix,225000,2021-02-15 23:55:00 UTC,2021-02-16 01:48:00 UTC,100000
+Jorden Gonzales,43,Female,1-308-548-7547,jordengonzales2271@hotmail.org,Synthroid,150000,2022-01-19 07:27:00 UTC,2022-01-19 09:51:00 UTC,105000
+Kevin Cox,44,Male,1-217-687-2166,kevincox7049@google.net,Lipitor,100000,2021-06-26 00:34:00 UTC,2021-06-26 02:58:00 UTC,70000
+Otto Stone,44,Male,(801) 718-1180,ottostone@icloud.net,Azithromycin,125000,2021-05-29 20:55:00 UTC,2021-05-29 23:19:00 UTC,87500
+Otto Stone,44,Male,(801) 718-1180,ottostone@icloud.net,Crestor,85000,2021-07-08 20:55:00 UTC,2021-07-08 22:49:00 UTC,59500
+Leila Walls,44,Female,(677) 749-7740,leilawalls@hotmail.com,Plavix,225000,2021-09-21 05:06:00 UTC,2021-09-21 07:30:00 UTC,100000
+Leila Walls,44,Female,(677) 749-7740,leilawalls@hotmail.com,Metoprolol Tartrate,175000,2021-11-22 05:06:00 UTC,2021-11-22 07:00:00 UTC,140000
+Morgan Lloyd,44,Female,1-337-312-5014,morganlloyd@icloud.org,Nexium,270000,2022-01-09 23:37:00 UTC,2022-01-10 02:00:00 UTC,94500
+Ayanna Houston,44,Female,(415) 535-2208,ayannahouston6272@hotmail.org,Metoprolol Tartrate,175000,2021-04-10 19:45:00 UTC,2021-04-10 22:09:00 UTC,140000
+Ayanna Houston,44,Female,(415) 535-2208,ayannahouston6272@hotmail.org,Hydrocodone/APAP,200000,2021-05-20 19:45:00 UTC,2021-05-20 21:39:00 UTC,110000
+Ayanna Houston,44,Female,(415) 535-2208,ayannahouston6272@hotmail.org,Nexium,270000,2021-06-21 19:45:00 UTC,2021-06-21 21:39:00 UTC,94500
+Fredericka Smith,44,Female,1-937-476-7022,frederickasmith@hotmail.org,Hydrocodone/APAP,200000,2021-06-03 08:07:00 UTC,2021-06-03 10:31:00 UTC,110000
+Fredericka Smith,44,Female,1-937-476-7022,frederickasmith@hotmail.org,Singulair,50000,2021-07-13 08:07:00 UTC,2021-07-13 10:01:00 UTC,40000
+Fredericka Smith,44,Female,1-937-476-7022,frederickasmith@hotmail.org,Nexium,270000,2021-08-27 08:07:00 UTC,2021-08-27 10:01:00 UTC,94500
+Fredericka Smith,44,Female,1-937-476-7022,frederickasmith@hotmail.org,Crestor,85000,2021-09-26 08:07:00 UTC,2021-09-26 10:01:00 UTC,59500
+Chancellor Reynolds,44,Female,(167) 361-3435,chancellorreynolds158@google.com,Crestor,85000,2021-12-01 21:44:00 UTC,2021-12-02 00:08:00 UTC,59500
+Mari Crane,45,Female,1-378-433-2065,maricrane@icloud.org,Metoprolol Tartrate,175000,2021-10-25 09:42:00 UTC,2021-10-25 12:05:00 UTC,140000
+Mari Crane,45,Female,1-378-433-2065,maricrane@icloud.org,Simvastatin,110000,2021-11-16 09:42:00 UTC,2021-11-16 11:35:00 UTC,77000
+Mari Crane,45,Female,1-378-433-2065,maricrane@icloud.org,Synthroid,150000,2021-12-28 06:52:00 UTC,2021-12-28 08:45:00 UTC,105000
+Daniel Lang,45,Female,1-133-717-2364,daniellang9954@hotmail.com,Simvastatin,110000,2021-01-24 21:40:00 UTC,2021-01-25 00:03:00 UTC,77000
+Daniel Lang,45,Female,1-133-717-2364,daniellang9954@hotmail.com,Simvastatin,110000,2021-03-05 21:40:00 UTC,2021-03-05 23:33:00 UTC,77000
+Daniel Lang,45,Female,1-133-717-2364,daniellang9954@hotmail.com,Simvastatin,110000,2022-02-01 02:19:00 UTC,2022-02-01 04:13:00 UTC,77000
+Fleur Scott,45,Male,(372) 286-8168,fleurscott7067@icloud.net,Nexium,270000,2021-07-26 21:39:00 UTC,2021-07-27 00:02:00 UTC,94500
+Fleur Scott,45,Male,(372) 286-8168,fleurscott7067@icloud.net,Nexium,270000,2021-09-04 21:39:00 UTC,2021-09-04 23:32:00 UTC,94500
+Hedwig Noel,45,Female,1-863-607-7171,hedwignoel@hotmail.net,Lipitor,100000,2022-03-02 23:10:00 UTC,2022-03-03 01:34:00 UTC,70000
+Tamara Ruiz,45,Female,1-706-344-2448,tamararuiz9201@hotmail.org,Synthroid,150000,2021-07-19 10:00:00 UTC,2021-07-19 12:24:00 UTC,105000
+Pamela Casey,45,Male,(208) 681-6214,pamelacasey@google.org,Plavix,225000,2021-09-29 13:07:00 UTC,2021-09-29 15:31:00 UTC,100000
+Pamela Casey,45,Male,(208) 681-6214,pamelacasey@google.org,Simvastatin,110000,2021-10-21 13:07:00 UTC,2021-10-21 15:00:00 UTC,77000
+Pamela Casey,45,Male,(208) 681-6214,pamelacasey@google.org,Synthroid,150000,2021-11-13 13:07:00 UTC,2021-11-13 15:00:00 UTC,105000
+Pamela Casey,45,Male,(208) 681-6214,pamelacasey@google.org,Singulair,50000,2021-12-23 02:19:00 UTC,2021-12-23 04:43:00 UTC,40000
+Ayanna Waters,45,Male,(793) 737-5241,ayannawaters9944@icloud.com,Simvastatin,110000,2021-06-02 23:27:00 UTC,2021-06-03 01:51:00 UTC,77000
+Ayanna Waters,45,Male,(793) 737-5241,ayannawaters9944@icloud.com,Plavix,225000,2021-07-12 23:27:00 UTC,2021-07-13 01:20:00 UTC,100000
+Thane Montoya,45,Male,1-945-626-1328,thanemontoya3366@google.org,Simvastatin,110000,2021-02-21 11:12:00 UTC,2021-02-21 13:35:00 UTC,77000
+Hilel Carrillo,45,Female,1-457-219-7189,hilelcarrillo8174@icloud.org,Lipitor,100000,2021-03-27 06:25:00 UTC,2021-03-27 08:48:00 UTC,70000
+Hilel Carrillo,45,Female,1-457-219-7189,hilelcarrillo8174@icloud.org,Singulair,50000,2021-05-06 06:25:00 UTC,2021-05-06 08:18:00 UTC,40000
+Abdul Henderson,45,Male,1-583-414-4341,abdulhenderson@icloud.org,Hydrocodone/APAP,200000,2021-01-27 16:37:00 UTC,2021-01-27 19:01:00 UTC,110000
+Abdul Henderson,45,Male,1-583-414-4341,abdulhenderson@icloud.org,Plavix,225000,2021-03-08 16:37:00 UTC,2021-03-08 18:31:00 UTC,100000
+Abdul Henderson,45,Male,1-583-414-4341,abdulhenderson@icloud.org,Simvastatin,110000,2021-04-09 16:37:00 UTC,2021-04-09 18:31:00 UTC,77000
+Abdul Henderson,45,Male,1-583-414-4341,abdulhenderson@icloud.org,Crestor,85000,2021-07-08 16:37:00 UTC,2021-07-08 18:31:00 UTC,59500
+Abdul Henderson,45,Male,1-583-414-4341,abdulhenderson@icloud.org,Metoprolol Tartrate,175000,2022-02-04 07:10:00 UTC,2022-02-04 09:34:00 UTC,140000
+Cooper Peterson,45,Female,1-353-795-1396,cooperpeterson6439@hotmail.com,Lipitor,100000,2021-10-10 13:38:00 UTC,2021-10-10 16:02:00 UTC,70000
+Cooper Peterson,45,Female,1-353-795-1396,cooperpeterson6439@hotmail.com,Hydrocodone/APAP,200000,2021-11-01 13:38:00 UTC,2021-11-01 15:32:00 UTC,110000
+Hunter Mcfadden,45,Male,(592) 222-5308,huntermcfadden@google.com,Plavix,225000,2021-05-16 04:54:00 UTC,2021-05-16 07:18:00 UTC,100000
+Madaline Ellison,45,Male,(562) 789-4905,madalineellison3969@google.net,Simvastatin,110000,2022-02-28 02:23:00 UTC,2022-02-28 04:17:00 UTC,77000
+Deborah Washington,45,Female,(467) 210-5666,deborahwashington9128@google.org,Plavix,225000,2022-03-20 13:47:00 UTC,2022-03-20 16:11:00 UTC,100000
+Joy Dean,46,Male,1-374-371-9549,joydean2339@icloud.org,Lipitor,100000,2021-10-26 17:13:00 UTC,2021-10-26 19:36:00 UTC,70000
+Joy Dean,46,Male,1-374-371-9549,joydean2339@icloud.org,Nexium,270000,2021-11-17 17:13:00 UTC,2021-11-17 19:06:00 UTC,94500
+Joy Dean,46,Male,1-374-371-9549,joydean2339@icloud.org,Nexium,270000,2021-12-30 15:58:00 UTC,2021-12-30 18:22:00 UTC,94500
+Craig Lowe,46,Female,1-776-255-7052,craiglowe@hotmail.com,Simvastatin,110000,2021-01-06 01:21:00 UTC,2021-01-06 03:45:00 UTC,77000
+Craig Lowe,46,Female,1-776-255-7052,craiglowe@hotmail.com,LevothyroxineSodium,75000,2021-02-15 01:21:00 UTC,2021-02-15 03:15:00 UTC,45000
+Craig Lowe,46,Female,1-776-255-7052,craiglowe@hotmail.com,Singulair,50000,2021-03-19 01:21:00 UTC,2021-03-19 03:15:00 UTC,40000
+Craig Lowe,46,Female,1-776-255-7052,craiglowe@hotmail.com,Azithromycin,125000,2022-01-18 09:28:00 UTC,2022-01-18 11:22:00 UTC,87500
+Craig Lowe,46,Female,1-776-255-7052,craiglowe@hotmail.com,LevothyroxineSodium,75000,2022-02-22 20:49:00 UTC,2022-02-22 22:43:00 UTC,45000
+Nola Owens,46,Female,(785) 802-7160,nolaowens@google.net,Simvastatin,110000,2021-01-27 15:26:00 UTC,2021-01-27 17:49:00 UTC,77000
+Nola Owens,46,Female,(785) 802-7160,nolaowens@google.net,Hydrocodone/APAP,200000,2021-03-08 15:26:00 UTC,2021-03-08 17:19:00 UTC,110000
+Nola Owens,46,Female,(785) 802-7160,nolaowens@google.net,Plavix,225000,2021-04-09 15:26:00 UTC,2021-04-09 17:19:00 UTC,100000
+Nola Owens,46,Female,(785) 802-7160,nolaowens@google.net,Synthroid,150000,2021-07-08 15:26:00 UTC,2021-07-08 17:19:00 UTC,105000
+Nola Owens,46,Female,(785) 802-7160,nolaowens@google.net,Simvastatin,110000,2022-02-04 03:46:00 UTC,2022-02-04 05:40:00 UTC,77000
+Yoshi Kline,46,Male,1-525-372-3073,yoshikline@google.org,LevothyroxineSodium,75000,2021-08-12 09:47:00 UTC,2021-08-12 12:11:00 UTC,45000
+Yoshi Kline,46,Male,1-525-372-3073,yoshikline@google.org,Nexium,270000,2021-10-13 09:47:00 UTC,2021-10-13 11:41:00 UTC,94500
+Alec Vazquez,46,Male,1-266-879-1047,alecvazquez2414@google.org,Singulair,50000,2021-05-05 11:59:00 UTC,2021-05-05 14:22:00 UTC,40000
+Alec Vazquez,46,Male,1-266-879-1047,alecvazquez2414@google.org,LevothyroxineSodium,75000,2021-06-14 11:59:00 UTC,2021-06-14 13:52:00 UTC,45000
+Alec Vazquez,46,Male,1-266-879-1047,alecvazquez2414@google.org,Metoprolol Tartrate,175000,2021-07-29 11:59:00 UTC,2021-07-29 13:52:00 UTC,140000
+Hyatt Murphy,46,Female,(398) 665-2568,hyattmurphy@hotmail.com,Singulair,50000,2022-03-15 10:34:00 UTC,2022-03-15 12:58:00 UTC,40000
+Susan Randall,46,Female,1-252-338-5874,susanrandall@icloud.net,LevothyroxineSodium,75000,2021-02-08 11:33:00 UTC,2021-02-08 13:57:00 UTC,45000
+Susan Randall,46,Female,1-252-338-5874,susanrandall@icloud.net,LevothyroxineSodium,75000,2021-03-20 11:33:00 UTC,2021-03-20 13:27:00 UTC,45000
+Susan Randall,46,Female,1-252-338-5874,susanrandall@icloud.net,Crestor,85000,2022-02-13 09:58:00 UTC,2022-02-13 12:22:00 UTC,59500
+Acton Whitaker,46,Male,(827) 618-6457,actonwhitaker6054@hotmail.net,Simvastatin,110000,2021-09-13 00:35:00 UTC,2021-09-13 02:59:00 UTC,77000
+Acton Whitaker,46,Male,(827) 618-6457,actonwhitaker6054@hotmail.net,Synthroid,150000,2021-11-14 00:35:00 UTC,2021-11-14 02:29:00 UTC,105000
+Acton Whitaker,46,Male,(827) 618-6457,actonwhitaker6054@hotmail.net,Crestor,85000,2022-01-16 00:35:00 UTC,2022-01-16 02:29:00 UTC,59500
+Virginia Hodge,46,Female,1-213-456-9237,virginiahodge7775@google.net,LevothyroxineSodium,75000,2021-02-23 19:32:00 UTC,2021-02-23 21:56:00 UTC,45000
+Benedict Romero,46,Male,(234) 848-4486,benedictromero8063@icloud.org,LevothyroxineSodium,75000,2021-01-09 09:52:00 UTC,2021-01-09 12:16:00 UTC,45000
+Benedict Romero,46,Male,(234) 848-4486,benedictromero8063@icloud.org,Simvastatin,110000,2022-01-20 03:47:00 UTC,2022-01-20 05:41:00 UTC,77000
+Illiana Daniels,46,Male,1-328-371-6786,illianadaniels500@hotmail.org,Simvastatin,110000,2021-07-31 02:20:00 UTC,2021-07-31 04:44:00 UTC,77000
+Illiana Daniels,46,Male,1-328-371-6786,illianadaniels500@hotmail.org,Metoprolol Tartrate,175000,2021-09-09 02:20:00 UTC,2021-09-09 04:14:00 UTC,140000
+Isabella Randall,46,Male,(578) 368-3784,isabellarandall@hotmail.net,Simvastatin,110000,2021-01-18 21:09:00 UTC,2021-01-18 23:33:00 UTC,77000
+Isabella Randall,46,Male,(578) 368-3784,isabellarandall@hotmail.net,Singulair,50000,2022-01-28 04:40:00 UTC,2022-01-28 06:34:00 UTC,40000
+Zeph Wise,47,Female,1-872-577-8313,zephwise4064@hotmail.net,Nexium,270000,2021-10-31 17:20:00 UTC,2021-10-31 19:44:00 UTC,94500
+Zeph Wise,47,Female,1-872-577-8313,zephwise4064@hotmail.net,LevothyroxineSodium,75000,2021-11-22 17:20:00 UTC,2021-11-22 19:14:00 UTC,45000
+Jonah Dunn,47,Female,1-901-979-0528,jonahdunn5871@icloud.net,LevothyroxineSodium,75000,2021-11-21 17:41:00 UTC,2021-11-21 20:05:00 UTC,45000
+Jonah Dunn,47,Female,1-901-979-0528,jonahdunn5871@icloud.net,Synthroid,150000,2021-12-13 17:41:00 UTC,2021-12-13 19:35:00 UTC,105000
+Sybil Witt,47,Male,(880) 191-5884,sybilwitt9184@google.com,LevothyroxineSodium,75000,2022-03-13 13:42:00 UTC,2022-03-13 16:06:00 UTC,45000
+Maggie Tran,47,Male,(558) 922-5007,maggietran2051@icloud.net,Simvastatin,110000,2021-04-04 07:55:00 UTC,2021-04-04 10:19:00 UTC,77000
+Maggie Tran,47,Male,(558) 922-5007,maggietran2051@icloud.net,Azithromycin,125000,2021-05-14 07:55:00 UTC,2021-05-14 09:49:00 UTC,87500
+Maggie Tran,47,Male,(558) 922-5007,maggietran2051@icloud.net,Azithromycin,125000,2021-06-15 07:55:00 UTC,2021-06-15 09:49:00 UTC,87500
+Maggie Tran,47,Male,(558) 922-5007,maggietran2051@icloud.net,Hydrocodone/APAP,200000,2021-09-13 07:55:00 UTC,2021-09-13 09:49:00 UTC,110000
+Brooke Booth,47,Male,1-918-316-1585,brookebooth@hotmail.com,Crestor,85000,2021-06-01 07:00:00 UTC,2021-06-01 09:24:00 UTC,59500
+Brooke Booth,47,Male,1-918-316-1585,brookebooth@hotmail.com,Simvastatin,110000,2021-07-11 07:00:00 UTC,2021-07-11 08:53:00 UTC,77000
+Neil Richards,47,Male,1-289-178-2414,neilrichards3896@google.com,Lipitor,100000,2021-12-01 04:13:00 UTC,2021-12-01 06:37:00 UTC,70000
+Winifred Dale,47,Female,(420) 738-8621,winifreddale7556@hotmail.org,Simvastatin,110000,2021-11-21 06:23:00 UTC,2021-11-21 08:47:00 UTC,77000
+Winifred Dale,47,Female,(420) 738-8621,winifreddale7556@hotmail.org,LevothyroxineSodium,75000,2021-12-13 06:23:00 UTC,2021-12-13 08:17:00 UTC,45000
+Keegan Douglas,47,Male,(666) 465-4834,keegandouglas8509@google.org,Nexium,270000,2021-11-20 13:11:00 UTC,2021-11-20 15:35:00 UTC,94500
+Keegan Douglas,47,Male,(666) 465-4834,keegandouglas8509@google.org,Singulair,50000,2021-12-12 13:11:00 UTC,2021-12-12 15:05:00 UTC,40000
+Maisie Acevedo,47,Female,1-633-524-7035,maisieacevedo@google.org,Lipitor,100000,2021-03-05 09:45:00 UTC,2021-03-05 12:08:00 UTC,70000
+Oliver Donovan,47,Female,(839) 554-9683,oliverdonovan@hotmail.net,LevothyroxineSodium,75000,2021-08-08 11:18:00 UTC,2021-08-08 13:42:00 UTC,45000
+Oliver Donovan,47,Female,(839) 554-9683,oliverdonovan@hotmail.net,Nexium,270000,2021-09-17 11:18:00 UTC,2021-09-17 13:12:00 UTC,94500
+Zachary Bender,47,Female,1-855-773-6737,zacharybender@hotmail.com,Synthroid,150000,2021-08-31 17:22:00 UTC,2021-08-31 19:46:00 UTC,105000
+Zachary Bender,47,Female,1-855-773-6737,zacharybender@hotmail.com,Azithromycin,125000,2021-11-01 17:22:00 UTC,2021-11-01 19:16:00 UTC,87500
+Zachary Bender,47,Female,1-855-773-6737,zacharybender@hotmail.com,Crestor,85000,2021-12-16 17:22:00 UTC,2021-12-16 19:16:00 UTC,59500
+Zachary Bender,47,Female,1-855-773-6737,zacharybender@hotmail.com,LevothyroxineSodium,75000,2022-01-05 17:22:00 UTC,2022-01-05 19:16:00 UTC,45000
+Edward Woodward,47,Female,1-738-837-2018,edwardwoodward@hotmail.com,Nexium,270000,2021-03-24 02:53:00 UTC,2021-03-24 05:17:00 UTC,94500
+Edward Woodward,47,Female,1-738-837-2018,edwardwoodward@hotmail.com,Plavix,225000,2021-05-03 02:53:00 UTC,2021-05-03 04:46:00 UTC,100000
+August Lancaster,47,Male,1-647-207-6537,augustlancaster@google.org,LevothyroxineSodium,75000,2022-03-05 08:23:00 UTC,2022-03-05 10:47:00 UTC,45000
+Constance Dawson,47,Male,1-578-252-4848,constancedawson1996@google.net,Plavix,225000,2021-01-23 19:46:00 UTC,2021-01-23 22:10:00 UTC,100000
+Constance Dawson,47,Male,1-578-252-4848,constancedawson1996@google.net,Plavix,225000,2021-03-04 19:46:00 UTC,2021-03-04 21:40:00 UTC,100000
+Constance Dawson,47,Male,1-578-252-4848,constancedawson1996@google.net,Hydrocodone/APAP,200000,2022-01-31 23:33:00 UTC,2022-02-01 01:27:00 UTC,110000
+Rafael Jefferson,47,Female,(841) 845-8596,rafaeljefferson@hotmail.org,Hydrocodone/APAP,200000,2021-02-06 13:32:00 UTC,2021-02-06 15:55:00 UTC,110000
+Rafael Jefferson,47,Female,(841) 845-8596,rafaeljefferson@hotmail.org,Synthroid,150000,2021-03-18 13:32:00 UTC,2021-03-18 15:25:00 UTC,105000
+Rafael Jefferson,47,Female,(841) 845-8596,rafaeljefferson@hotmail.org,Synthroid,150000,2022-02-11 04:27:00 UTC,2022-02-11 06:51:00 UTC,105000
+Sonya Key,48,Female,1-522-296-3779,sonyakey6640@google.net,Crestor,85000,2021-01-10 21:23:00 UTC,2021-01-10 23:46:00 UTC,59500
+Sonya Key,48,Female,1-522-296-3779,sonyakey6640@google.net,LevothyroxineSodium,75000,2022-01-21 23:21:00 UTC,2022-01-22 01:15:00 UTC,45000
+Myra Burris,48,Female,(684) 413-2697,myraburris@icloud.net,Metoprolol Tartrate,175000,2021-05-15 16:31:00 UTC,2021-05-15 18:54:00 UTC,140000
+Ivana Monroe,48,Male,1-561-811-5158,ivanamonroe@google.org,Lipitor,100000,2022-03-15 19:05:00 UTC,2022-03-15 21:28:00 UTC,70000
+Winter Evans,48,Male,1-632-437-5725,winterevans4788@google.org,Crestor,85000,2021-02-09 16:27:00 UTC,2021-02-09 18:51:00 UTC,59500
+Winter Evans,48,Male,1-632-437-5725,winterevans4788@google.org,Crestor,85000,2021-03-21 16:27:00 UTC,2021-03-21 18:21:00 UTC,59500
+Winter Evans,48,Male,1-632-437-5725,winterevans4788@google.org,Metoprolol Tartrate,175000,2022-02-14 11:35:00 UTC,2022-02-14 13:29:00 UTC,140000
+Amir Mcfadden,48,Female,(652) 559-5779,amirmcfadden@hotmail.net,Azithromycin,125000,2021-05-10 18:59:00 UTC,2021-05-10 21:23:00 UTC,87500
+Audrey Stuart,48,Female,1-357-665-8175,audreystuart@icloud.com,Nexium,270000,2022-03-14 05:04:00 UTC,2022-03-14 07:28:00 UTC,94500
+Baker Ellison,48,Female,1-375-524-0941,bakerellison1855@google.org,Singulair,50000,2021-06-29 09:13:00 UTC,2021-06-29 11:36:00 UTC,40000
+Basil Carlson,48,Male,1-826-365-2380,basilcarlson6009@hotmail.org,LevothyroxineSodium,75000,2021-10-03 19:29:00 UTC,2021-10-03 21:52:00 UTC,45000
+Basil Carlson,48,Male,1-826-365-2380,basilcarlson6009@hotmail.org,LevothyroxineSodium,75000,2021-10-25 19:29:00 UTC,2021-10-25 21:22:00 UTC,45000
+Basil Carlson,48,Male,1-826-365-2380,basilcarlson6009@hotmail.org,Plavix,225000,2021-11-17 19:29:00 UTC,2021-11-17 21:22:00 UTC,100000
+Basil Carlson,48,Male,1-826-365-2380,basilcarlson6009@hotmail.org,LevothyroxineSodium,75000,2021-12-28 21:18:00 UTC,2021-12-28 23:12:00 UTC,45000
+Emery Blevins,48,Female,(411) 553-6228,emeryblevins@google.org,Plavix,225000,2021-02-03 22:02:00 UTC,2021-02-04 00:26:00 UTC,100000
+Emery Blevins,48,Female,(411) 553-6228,emeryblevins@google.org,Hydrocodone/APAP,200000,2021-03-15 22:02:00 UTC,2021-03-15 23:56:00 UTC,110000
+Emery Blevins,48,Female,(411) 553-6228,emeryblevins@google.org,Synthroid,150000,2022-02-09 20:52:00 UTC,2022-02-09 22:46:00 UTC,105000
+Brielle Adkins,48,Male,(643) 657-7657,brielleadkins3214@hotmail.net,Crestor,85000,2021-02-08 08:06:00 UTC,2021-02-08 10:29:00 UTC,59500
+Brielle Adkins,48,Male,(643) 657-7657,brielleadkins3214@hotmail.net,LevothyroxineSodium,75000,2021-03-20 08:06:00 UTC,2021-03-20 09:59:00 UTC,45000
+Brielle Adkins,48,Male,(643) 657-7657,brielleadkins3214@hotmail.net,Hydrocodone/APAP,200000,2022-02-13 05:43:00 UTC,2022-02-13 08:07:00 UTC,110000
+Sharon Ramirez,48,Female,(693) 323-3342,sharonramirez@icloud.org,Lipitor,100000,2021-07-26 18:10:00 UTC,2021-07-26 20:34:00 UTC,70000
+Sharon Ramirez,48,Female,(693) 323-3342,sharonramirez@icloud.org,LevothyroxineSodium,75000,2021-09-04 18:10:00 UTC,2021-09-04 20:04:00 UTC,45000
+Timothy Barber,48,Female,1-395-766-4427,timothybarber@hotmail.net,Hydrocodone/APAP,200000,2022-01-11 21:42:00 UTC,2022-01-12 00:06:00 UTC,110000
+Aladdin Salazar,48,Male,1-761-432-2763,aladdinsalazar1226@google.net,LevothyroxineSodium,75000,2021-08-23 03:04:00 UTC,2021-08-23 05:28:00 UTC,45000
+Aladdin Salazar,48,Male,1-761-432-2763,aladdinsalazar1226@google.net,Metoprolol Tartrate,175000,2021-10-24 03:04:00 UTC,2021-10-24 04:58:00 UTC,140000
+Aladdin Salazar,48,Male,1-761-432-2763,aladdinsalazar1226@google.net,Crestor,85000,2021-12-08 03:04:00 UTC,2021-12-08 04:58:00 UTC,59500
+Aladdin Salazar,48,Male,1-761-432-2763,aladdinsalazar1226@google.net,Crestor,85000,2021-12-27 07:48:00 UTC,2021-12-27 09:42:00 UTC,59500
+Melinda Ferguson,48,Male,1-920-472-9090,melindaferguson1410@hotmail.net,Azithromycin,125000,2022-01-13 20:49:00 UTC,2022-01-13 23:13:00 UTC,87500
+Hop Park,49,Male,(710) 741-5296,hoppark854@icloud.com,Simvastatin,110000,2021-07-27 16:41:00 UTC,2021-07-27 19:05:00 UTC,77000
+Hop Park,49,Male,(710) 741-5296,hoppark854@icloud.com,Synthroid,150000,2021-09-05 16:41:00 UTC,2021-09-05 18:35:00 UTC,105000
+Iona Rice,49,Female,1-458-545-1743,ionarice2751@icloud.net,LevothyroxineSodium,75000,2021-02-10 19:20:00 UTC,2021-02-10 21:44:00 UTC,45000
+Iona Rice,49,Female,1-458-545-1743,ionarice2751@icloud.net,Crestor,85000,2021-03-22 19:20:00 UTC,2021-03-22 21:13:00 UTC,59500
+Iona Rice,49,Female,1-458-545-1743,ionarice2751@icloud.net,Hydrocodone/APAP,200000,2022-02-18 08:46:00 UTC,2022-02-18 11:10:00 UTC,110000
+Lael Roach,49,Female,1-741-722-6325,laelroach@icloud.net,Simvastatin,110000,2021-07-13 11:29:00 UTC,2021-07-13 13:52:00 UTC,77000
+Todd Mills,49,Female,1-147-656-1868,toddmills@google.com,Hydrocodone/APAP,200000,2021-07-16 00:47:00 UTC,2021-07-16 03:11:00 UTC,110000
+Dane Bonner,49,Male,1-442-687-7986,danebonner@google.net,Azithromycin,125000,2022-01-05 11:35:00 UTC,2022-01-05 13:59:00 UTC,87500
+Dean Levine,49,Female,(929) 282-3966,deanlevine@hotmail.org,Metoprolol Tartrate,175000,2022-03-26 08:22:00 UTC,2022-03-26 10:46:00 UTC,140000
+Lois Conrad,49,Female,1-961-897-2250,loisconrad@google.com,Hydrocodone/APAP,200000,2022-03-04 12:58:00 UTC,2022-03-04 15:21:00 UTC,110000
+Rachel Lynn,49,Male,(769) 851-6155,rachellynn1820@hotmail.net,Crestor,85000,2021-03-25 19:04:00 UTC,2021-03-25 21:28:00 UTC,59500
+Rachel Lynn,49,Male,(769) 851-6155,rachellynn1820@hotmail.net,Plavix,225000,2021-05-04 19:04:00 UTC,2021-05-04 20:58:00 UTC,100000
+Maryam Ayala,49,Male,1-844-542-9860,maryamayala7230@icloud.com,Azithromycin,125000,2021-07-17 07:22:00 UTC,2021-07-17 09:46:00 UTC,87500
+Scarlet Ward,49,Female,1-541-624-9277,scarletward@google.net,Crestor,85000,2021-06-03 09:30:00 UTC,2021-06-03 11:53:00 UTC,59500
+Aretha Harvey,49,Male,(525) 883-3641,arethaharvey@hotmail.com,Synthroid,150000,2022-01-15 20:40:00 UTC,2022-01-15 23:03:00 UTC,105000
+Henry Vaughan,49,Female,1-766-752-5783,henryvaughan3897@google.net,Simvastatin,110000,2021-03-22 12:14:00 UTC,2021-03-22 14:38:00 UTC,77000
+Henry Vaughan,49,Female,1-766-752-5783,henryvaughan3897@google.net,Azithromycin,125000,2021-05-01 12:14:00 UTC,2021-05-01 14:08:00 UTC,87500
+Henry Vaughan,49,Female,1-766-752-5783,henryvaughan3897@google.net,Nexium,270000,2021-06-02 12:14:00 UTC,2021-06-02 14:08:00 UTC,94500
+Henry Vaughan,49,Female,1-766-752-5783,henryvaughan3897@google.net,Hydrocodone/APAP,200000,2021-08-31 12:14:00 UTC,2021-08-31 14:08:00 UTC,110000
+Indigo Powell,49,Male,(611) 853-9473,indigopowell1536@hotmail.net,Hydrocodone/APAP,200000,2021-05-03 08:08:00 UTC,2021-05-03 10:31:00 UTC,110000
+Indigo Powell,49,Male,(611) 853-9473,indigopowell1536@hotmail.net,Nexium,270000,2021-06-12 08:08:00 UTC,2021-06-12 10:01:00 UTC,94500
+Indigo Powell,49,Male,(611) 853-9473,indigopowell1536@hotmail.net,Hydrocodone/APAP,200000,2021-07-27 08:08:00 UTC,2021-07-27 10:01:00 UTC,110000
+Scott Daniels,49,Male,1-736-375-1928,scottdaniels@hotmail.net,Singulair,50000,2021-09-01 07:23:00 UTC,2021-09-01 09:47:00 UTC,40000
+Scott Daniels,49,Male,1-736-375-1928,scottdaniels@hotmail.net,Simvastatin,110000,2021-11-02 07:23:00 UTC,2021-11-02 09:17:00 UTC,77000
+Scott Daniels,49,Male,1-736-375-1928,scottdaniels@hotmail.net,Metoprolol Tartrate,175000,2022-01-06 07:23:00 UTC,2022-01-06 09:17:00 UTC,140000
+Jackson Osborn,49,Female,(859) 521-5850,jacksonosborn7148@google.net,Synthroid,150000,2021-03-12 20:16:00 UTC,2021-03-12 22:40:00 UTC,105000
+Sylvia Raymond,49,Female,(591) 884-2618,sylviaraymond@google.net,Azithromycin,125000,2021-06-25 01:36:00 UTC,2021-06-25 04:00:00 UTC,87500
+Leilani Figueroa,49,Male,1-824-328-1345,leilanifigueroa193@icloud.org,Crestor,85000,2021-03-03 18:58:00 UTC,2021-03-03 21:22:00 UTC,59500
+MacKenzie Conley,49,Female,1-427-622-7084,mackenzieconley4937@icloud.net,LevothyroxineSodium,75000,2022-03-09 21:41:00 UTC,2022-03-10 00:04:00 UTC,45000
+Orli Holman,50,Female,(482) 268-5366,orliholman@hotmail.org,Metoprolol Tartrate,175000,2022-03-12 01:08:00 UTC,2022-03-12 03:02:00 UTC,140000
+Sacha Lewis,50,Male,1-858-614-9734,sachalewis@google.org,Synthroid,150000,2021-04-04 17:12:00 UTC,2021-04-04 19:35:00 UTC,105000
+Sacha Lewis,50,Male,1-858-614-9734,sachalewis@google.org,Azithromycin,125000,2021-05-14 17:12:00 UTC,2021-05-14 19:05:00 UTC,87500
+Sacha Lewis,50,Male,1-858-614-9734,sachalewis@google.org,Lipitor,100000,2021-06-15 17:12:00 UTC,2021-06-15 19:05:00 UTC,70000
+Moses Campos,50,Female,1-978-676-8642,mosescampos@google.org,Synthroid,150000,2021-04-09 17:23:00 UTC,2021-04-09 19:47:00 UTC,105000
+Moses Campos,50,Female,1-978-676-8642,mosescampos@google.org,Nexium,270000,2021-05-19 17:23:00 UTC,2021-05-19 19:17:00 UTC,94500
+Moses Campos,50,Female,1-978-676-8642,mosescampos@google.org,Simvastatin,110000,2021-06-20 17:23:00 UTC,2021-06-20 19:17:00 UTC,77000
