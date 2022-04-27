@@ -1,0 +1,29 @@
+Data Analyst Study Case
+
+
+Instructions:
+1.	You must perform the processing of the data provided in BigQuery.
+2.	Make analysis related to sales & revenue base
+3.	Calculate the profit earned by the cost of each product as follows:
+
+Product	Cost
+Azithromycin	37500
+Crestor	25500
+Hydrocodone/APAP	90000
+LevothyroxineSodium	30000
+Lipitor	30000
+Metoprolol Tartrate	35000
+Nexium	175500
+Plavix	125000
+Simvastatin	33000
+Singulair	10000
+Synthroid	45000
+
+4.	Track how much users retain in certain periods (monthly, quarterly, semesterly)
+5.	Make it available for every line of products
+6.	Turn the processed data into a visual form
+7.	You can explore and add other findings
+8.	Provide an analysis of the findings.
+
+Data:
+https://docs.google.com/spreadsheets/d/1gqh3LNu-t66YG7BAZBYbZh1vBfVJWLtfyCe1lwIyL8Q/edit?usp=sharing 
